@@ -3,6 +3,7 @@ This repo contains projects I'm working on have competed along with some simpler
 
 Projects
 - Coming Soon
+- Datacamp: All Projectscompleted from the DataCamp Curriculum
 
 
 Practice Code
