@@ -1,5 +1,5 @@
 # Data-Science-Projects
-This repo contains projects I'm working on have competed along with some simpler practice code
+This repo contains projects I'm working on or have completed, along with a folder containing practice code i used to understand concepts
 
 Projects
 - Coming Soon
