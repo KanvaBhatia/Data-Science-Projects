@@ -7,4 +7,4 @@ Projects
 
 
 Practice Code
-- Data Camp's Data Science & Analyst Tracks
+- Code written to explore concepts in Data Camp's Data Science & Analyst Tracks
