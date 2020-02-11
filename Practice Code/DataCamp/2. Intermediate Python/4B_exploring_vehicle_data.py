@@ -1,6 +1,6 @@
 """
-    # 4_exploring_vehicle_data
-    # Manipulating vehicle data in 7 countries, using car per capita and side of road driven on
+    # 4B_exploring_vehicle_data
+    # Exploring vehicle data in 7 countries, using car per capita and side of road driven on
     # using pandas(square bracket selection, Loc and iLoc)
     Created by: temikelani on: 2/10/20
 """
@@ -47,3 +47,7 @@ print("\n 13 \n", cars.iloc[:, [2]])
 # Print out cars_per_cap and drives_right as DataFrame
 print("\n 14 \n", cars.loc[:, ["cars_per_cap", "drives_right"]])
 print("\n 15 \n", cars.iloc[:, [0, 2]])
+
+# test
+print("\n 16 \n", cars.loc[:, :])
+print("\n 17 \n", cars.iloc[:, [0, 2]])
