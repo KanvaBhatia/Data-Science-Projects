@@ -3,7 +3,7 @@ This repo contains projects I'm working on or have completed, along with a folde
 
 Projects
 - Coming Soon
-- Datacamp: All Projectscompleted from the DataCamp Curriculum
+- Datacamp: All projects completed from the DataCamp Curriculum
 
 
 Practice Code
