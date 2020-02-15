@@ -31,3 +31,7 @@ medium = cars[np.logical_and(cars["cars_per_cap"] > 100, cars["cars_per_cap"] < 
 
 # Print medium
 print("\n 2 per cap (100-500) \n", medium)
+
+# fam = [1, 2, 3, 4, 5, 6, 7]
+# for i, j in enumerate(fam):
+#     print("index", i, ":", j)
