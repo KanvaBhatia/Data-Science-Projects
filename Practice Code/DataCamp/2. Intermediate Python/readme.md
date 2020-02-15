@@ -1,9 +1,10 @@
 # DataCamp's Intermediate Python Course
 
-Explored Scatter plots (and the size argument) and Histograms with data on gdp per capita and life expectancy using matplotlib, and pandas
-Learned to use Dictionaries (keys & values), nested dictionaries, with dataframes and dictionaried (make a dictionary a data frame)
-Dived deeper into to pandas subsetting, seried and dataframes, using loc and iloc
-
-To be continued.....
+- Scatterplots, Histograms, 
+- Exploring data on gdp per capita and life expectancy using matplotlib, and pandas
+- Using Dictionaries (keys & values), nested dictionaries, with dataframes 
+- Dived deeper into to pandas subsetting, series and dataframes, using loc and iloc
+- Logic and Control flow
+- While and For Loops
 
 
