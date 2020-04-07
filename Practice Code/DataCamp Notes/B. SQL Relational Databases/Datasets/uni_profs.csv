@@ -1,0 +1,1373 @@
+id,firstname,lastname,university,university_shortname,university_city,functions,organization,organization_sector
+1,Achim,Conzelmann,Uni Bern,UBE,Bern,NA,"PH Bern, Schulrat",Education & research
+2,Achim,Conzelmann,Uni Bern,UBE,Bern,NA,Foundation of Talents,"Society, Social, Culture & Sports"
+3,Adrian,Vatter,Uni Bern,UBE,Bern,NA,Büro Vatter AG,"Consulting, public relations, legal & trust"
+4,Adriano,Marantelli,Uni Bern,UBE,Bern,NA,Curt Rommel Stiftung,Education & research
+5,Adriano,Marantelli,Uni Bern,UBE,Bern,NA,Stiftung Archiv für schweizerisches Abgaberecht,"Society, Social, Culture & Sports"
+6,Adriano,Marantelli,Uni Bern,UBE,Bern,NA,Vereinsvorstand BEWEST (Weiterbildungsverein),Education & research
+7,Alain,Wegmann,ETH Lausanne,EPF,Lausanne,Conseil informatique (non-payé),Aeroport Genève,"Energy, environment & mobility"
+8,Alain,Wegmann,ETH Lausanne,EPF,Lausanne,Conseil informatique,"TAG Aviation, Genève","Energy, environment & mobility"
+9,Albert,Hafner,Uni Bern,UBE,Bern,NA,Stiftung Charles Neuhaus Biel,"Society, Social, Culture & Sports"
+10,Aldo,Steinfeld,ETH Zürich,ETH,Zurich,VR-Mandat,dsolar Ltd.,"Energy, environment & mobility"
+11,Aldo,Steinfeld,ETH Zürich,ETH,Zurich,VR-Mandat,Sunbiotec AG (Solar Biofuel technology),"Energy, environment & mobility"
+12,Aleksandra,Radenovic,ETH Lausanne,EPF,Lausanne,Sponsored research agreement from Roche,Head of research Roche Sequencing,Pharma & health
+13,Alexander,Fust,Uni St. Gallen,USG,Saint Gallen,Dozent,FHS St. Gallen,Education & research
+14,Alexander,Widmer,ETH Zürich,ETH,Zurich,Stiftungsrat,Kinderbetreuung im Hochschulraum Zürich (kihz),"Society, Social, Culture & Sports"
+15,Alexander,Widmer,ETH Zürich,ETH,Zurich,Stiftungsrat,Stiftung Geobotanisches Forschungsinstitut Rübel,Education & research
+16,Alexander,Ilic,Uni St. Gallen,USG,Saint Gallen,Advisory Board,Swiss Energy and Climate Summit,"Energy, environment & mobility"
+17,Alexander,Fust,Uni St. Gallen,USG,Saint Gallen,Dozent,CTI-Entrepreneurship,"Commerce, trade & services"
+18,Alexander,Ilic,Uni St. Gallen,USG,Saint Gallen,Advisory Board,Swiss Start-up Monitor,"Commerce, trade & services"
+19,Alexander,Zimmermann,Uni St. Gallen,USG,Saint Gallen,Mitglied des Beirats,Franz Haniel & Cie. GmbH,Financial industry & insurances
+20,Alexander,Ilic,Uni St. Gallen,USG,Saint Gallen,Advisory Board,ETH Entrepreneur Club,"Commerce, trade & services"
+21,Alexander,Ilic,Uni St. Gallen,USG,Saint Gallen,Expert Committee,Kommission für Technologie und Innovation,"Politics, administration, justice system & security sector"
+22,Alexander,Ilic,Uni St. Gallen,USG,Saint Gallen,"Founder, Chairman, and CTO",Dacuda AG,Technology
+23,Alexander,Fust,Uni St. Gallen,USG,Saint Gallen,Fachexperte und Coach für Designer Startups,Creative Hub,"Commerce, trade & services"
+24,Alexandre,Blanc,ETH Lausanne,EPF,Lausanne,Architecte EPFL-FAS-SIA,"Bakker & Blanc Architectes, Lausanne","Industry, construction & agriculture"
+25,Alexandre,Pouget,Uni Genf,UGE,Geneva,Membre du Scientific Advisory Board,NERF (Leuwen),Pharma & health
+26,Alfio,Quarteroni,ETH Lausanne,EPF,Lausanne,Président du conseil d'administration et coordinateur du comité scientifique,"MOXOFF Srl, Milan",Technology
+27,Alfred,Wüest,ETH Zürich,ETH,Zurich,Co-Editor,Journal Acquatic Sciences,Media & communication
+28,Alfred,Rufer,ETH Lausanne,EPF,Lausanne,Conseil scientifique,"Enairys PSE, Lausanne","Energy, environment & mobility"
+29,Alfred,Rufer,ETH Lausanne,EPF,Lausanne,Conseil scientifique,"Imperix SA, Sion","Energy, environment & mobility"
+30,Alfred,Rufer,ETH Lausanne,EPF,Lausanne,Expertise,"AERES, Paris",Education & research
+31,Alfred,Rufer,ETH Lausanne,EPF,Lausanne,Expertise,"ANR, Paris",Education & research
+32,Alfred,Rufer,ETH Lausanne,EPF,Lausanne,Expertise,"Ministère de la Recherche, Paris",Education & research
+33,Alfred,Rufer,ETH Lausanne,EPF,Lausanne,Membre du Comité Electrosuisse,Electrosuisse,"Commerce, trade & services"
+34,Alfred,Wüest,ETH Zürich,ETH,Zurich,Externer Reviewer,"Tahoe Environmental Research Facility, UC Davies",Education & research
+35,Alfred,Wüest,ETH Zürich,ETH,Zurich,Berater,"Contour Global, New York, für Methan Extraktion Lake Kivu","Energy, environment & mobility"
+36,Alfred,Wüest,ETH Zürich,ETH,Zurich,Advisory Board Forschungsstelle Nachhaltige Energie-und Wasserversorgung,Uni Basel,Education & research
+37,Ambrogio,Fasoli,ETH Lausanne,EPF,Lausanne,"Editor-in-Chief, Nuclear Fusion Journal","IAEA, Vienna, Austria","Energy, environment & mobility"
+38,Anastasia,Ailamaki,ETH Lausanne,EPF,Lausanne,Consulting on data mgmt,"S2P Lion, Germany",Not classifiable
+39,Anders,Hagfeldt,ETH Lausanne,EPF,Lausanne,Board Member,"Dyenamo AB, Start-up, Stockholm","Energy, environment & mobility"
+40,Anders,Hagfeldt,ETH Lausanne,EPF,Lausanne,"Visiting Professor, Physical Chemistry","Department of Chemistry, Angström, Uppsala University, Sweden",Education & research
+41,Anders,Hagfeldt,ETH Lausanne,EPF,Lausanne,"Visiting Professor, Energy Research Institute","Nanyang Technological University, Singapore",Education & research
+42,Anders,Hagfeldt,ETH Lausanne,EPF,Lausanne,"Distinguished Adjunct Professor, Chemistry","King Abdulaziz University, Saudi Arabia",Education & research
+43,Anders,Hagfeldt,ETH Lausanne,EPF,Lausanne,Chairman of the Committee for Development Research,Swedish Research Council,Education & research
+44,Anders,Meibom,ETH Lausanne,EPF,Lausanne,Chairman of the Board,"Institute of Translational Molecular Imaging Foundation, Genève",Education & research
+45,Andrea,Rinaldo,ETH Lausanne,EPF,Lausanne,Board Member,European Professional Club Rugby (CH),"Society, Social, Culture & Sports"
+46,Andrea,Back,Uni St. Gallen,USG,Saint Gallen,"Beirätin, Beratung",CID GmbH,Technology
+47,Andrea,Back,Uni St. Gallen,USG,Saint Gallen,Beirätin,Crosswalk AG,"Consulting, public relations, legal & trust"
+48,Andrea,Rinaldo,ETH Lausanne,EPF,Lausanne,"Secretary, Class of Sciences","Istituto Veneto di Scienze, Lettere e Arti (IT)",Education & research
+49,Andrea,Rinaldo,ETH Lausanne,EPF,Lausanne,"Chair of hydraulic constructions, part-time (10%)","Università di Padova, Italie",Education & research
+50,Andrea,Back,Uni St. Gallen,USG,Saint Gallen,Gutachterin,"Marie Heim-Vögtlin-Programm des Schweizerischen Nationalfonds, Abteilung Geistes- und Sozialwissenschaften",Education & research
+51,Andrea,Back,Uni St. Gallen,USG,Saint Gallen,Wissenschaftliche Beirätin,Leibniz-Informationszentrum Wirtschaft,Education & research
+52,Andrea,Rinaldo,ETH Lausanne,EPF,Lausanne,Board Member,Federazione italiana Rubgy (IT),"Society, Social, Culture & Sports"
+53,Andreas,Mortensen,ETH Lausanne,EPF,Lausanne,Membre Board of Trustees & research center’s scientific advisory board,"IMDEA-Materials, Madrid, Espagne",Education & research
+54,Andreas,Mortensen,ETH Lausanne,EPF,Lausanne,"Membre (nommé par l'EPFL), Conseil de Fondation",FNS de la Recherche Scientifique,Education & research
+55,Andreas,Mortensen,ETH Lausanne,EPF,Lausanne,Member International Scientific Advisory Board (ISAB) of the COMET K2 Center,"Materials Center Leoben Forschung, Austria",Education & research
+56,Andreas,Härter,Uni St. Gallen,USG,Saint Gallen,Co-Präsident,Schweizerische Gesellschaft für Theaterkultur,"Society, Social, Culture & Sports"
+57,Andreas,Pautz,ETH Lausanne,EPF,Lausanne,Member of review panel of a Helmoltz Program,"Helmholtz Society of German Research Centers, Berlin",Education & research
+58,Andreas,Kotte,Uni Bern,UBE,Bern,NA,Schweizerische Theatersammlung,"Society, Social, Culture & Sports"
+59,Andreas,Papassotiropoulos,Uni Basel,UBA,Basel,Mitglied des Verwaltungsrates,"GeneGuide AG, Basel",Technology
+60,Andreas,Kotte,Uni Bern,UBE,Bern,NA,Seniorenuniversität Bern,Education & research
+61,Andreas,Lienhard,Uni Bern,UBE,Bern,Vizepräsident des Verwaltungsrates,VR Verkehrsbetriebe Biel,"Energy, environment & mobility"
+62,Andreas,Burg,ETH Lausanne,EPF,Lausanne,Technical consulting,"ACP Advanced Circuit Pursuit AG, Zürich","Industry, construction & agriculture"
+63,Andreas,Grüner,Uni St. Gallen,USG,Saint Gallen,Gutachter,Akkreditierungsagentur FIBAA,"Politics, administration, justice system & security sector"
+64,Andreas,Mortensen,ETH Lausanne,EPF,Lausanne,proposés référés,"NSF, USA",Education & research
+65,Andreas,Mortensen,ETH Lausanne,EPF,Lausanne,proposés référés,"EPSRC, UK",Education & research
+66,Andreas,Mortensen,ETH Lausanne,EPF,Lausanne,"Membre, Wissenschaftlicher Beirat","Leibniz Institute INM, Saarbrücken, Allemagne",Education & research
+67,Andreas,Ladner,Uni Bern,UBE,Bern,NA,Activités académiques,Education & research
+68,Andreas,Züttel,ETH Lausanne,EPF,Lausanne,Cours en science de l'environnement,Université de Fribourg,Education & research
+69,Andreas,Mortensen,ETH Lausanne,EPF,Lausanne,Membre du conseil de fondation,Fondation Zeno Karl Schindler,Education & research
+70,Andreas,Mortensen,ETH Lausanne,EPF,Lausanne,"Membre de la commission de sélection des SNSF, Starting Grants 2014",Fonds National Suisse,Education & research
+71,Andreas,Mortensen,ETH Lausanne,EPF,Lausanne,Membre de la commission d'accréditation d'institution de DTU,"DTU, Institution d'accréditation du Danemark",Education & research
+72,Andreas,Meier,Uni Freiburg,UFR,Fribourg,Geschäftsführer,eTorrent GmbH,Technology
+73,Andreas,Härter,Uni St. Gallen,USG,Saint Gallen,Mitglied des Verwaltungsrats,Konzert und Theater St. Gallen,"Society, Social, Culture & Sports"
+74,Andreas,Züttel,ETH Lausanne,EPF,Lausanne,Membre du conseil,"H2 Energy, Zürich","Energy, environment & mobility"
+75,Andreas,Beyer,Uni Basel,UBA,Basel,Vorsitzender wissenschaftlicher Beirat,Gerda Henkel-Stiftung,Education & research
+76,Andreas,Beyer,Uni Basel,UBA,Basel,Sprecher des Forschugnsverbunds Bilderfahrzeuge - Aby Warbug's Legacy and the Future of Iconology,Bundesministerium für Bildung und Forschung,"Politics, administration, justice system & security sector"
+77,Andreas,Beyer,Uni Basel,UBA,Basel,Präsident der wissenschaftlichen Kommission,Schweizerisches Institut für Kunstwissenschaft,Education & research
+78,Andreas,Meier,Uni Freiburg,UFR,Fribourg,Stiftungsrat,Stiftung Rechenzentrum für Krankenversicherung,Pharma & health
+79,Andreas,Beyer,Uni Basel,UBA,Basel,Mitglied des Auswahlausschusses,Alexander von Humboldt Stiftung,Education & research
+80,Andreas,Meier,Uni Freiburg,UFR,Fribourg,Verwaltungsrat,Centris AG,Technology
+81,André,Holenstein,Uni Bern,UBE,Bern,NA,"Universität Bern, Forschungsstiftung",Education & research
+82,André,Holenstein,Uni Bern,UBE,Bern,NA,Stiftung Schloss Spiez,"Society, Social, Culture & Sports"
+83,André,Holenstein,Uni Bern,UBE,Bern,NA,Albrecht-von-Haller-Stiftung der Burgergemeinde Bern,Education & research
+84,André,Schneider,Uni Neuenburg,UNE,Neuchâtel,NA,"Universität Bern, Forschungsstiftung",Education & research
+85,André,Berchtold,Uni Lausanne,ULA,Lausanne,NA,Activités académiques,Education & research
+86,André-Gilles,Dumont,ETH Lausanne,EPF,Lausanne,Conseil d'administration,"Infralab SA Romanel, Lausanne","Commerce, trade & services"
+87,Anna,Fontcuberta Morral,ETH Lausanne,EPF,Lausanne,Expertise de projet,Fonds de Recherche Luxembourg,Education & research
+88,Anna,Fontcuberta Morral,ETH Lausanne,EPF,Lausanne,Expertise de projet,Science Foundation Ireland,Education & research
+89,Anna,Fontcuberta Morral,ETH Lausanne,EPF,Lausanne,Expertise de projet,"Stifelsen Strtegisk Froskning, Sweden",Education & research
+90,Anna,Lauber-Biason,Uni Freiburg,UFR,Fribourg,Oberassistentin an der Abteilung für Endokrinologie und Diabetologie,Universitätskinderklinik Zürich,Pharma & health
+91,Anna,Ebers,Uni St. Gallen,USG,Saint Gallen,Gründerin und Projektleiterin,Gemeinnützliches Projekt für erneuerbare Energien SunRaisers,"Energy, environment & mobility"
+92,Anna,Fontcuberta Morral,ETH Lausanne,EPF,Lausanne,Expertise de projet,Université Freiburg (Allemagne),Education & research
+93,Anna,Fontcuberta Morral,ETH Lausanne,EPF,Lausanne,Participation au conseil scientifique,"CSEM, Neuchâtel",Education & research
+94,Anna,Ebers,Uni St. Gallen,USG,Saint Gallen,Mitgründerin,oikos Konstanz,Education & research
+95,Anne-Christine,Favre,Uni Lausanne,ULA,Lausanne,NA,Activités académiques,Education & research
+96,Anthony,Strittmatter,Uni St. Gallen,USG,Saint Gallen,Affiliated,Albert-Ludwigs-University,Education & research
+97,Anthony C.,Davison,ETH Lausanne,EPF,Lausanne,Consultancy on statistical analysis of accidents in French motorway tunnels,"BG Consulting, Lausanne","Consulting, public relations, legal & trust"
+98,Anthony C.,Davison,ETH Lausanne,EPF,Lausanne,"Editor, Biometrika (editor of a major statistics journal)","Biometrika Trust, University College London",Media & communication
+99,Antoinette,Weibel,Uni St. Gallen,USG,Saint Gallen,Präsidentin,"FINT, First international Network of Trust Research",Education & research
+100,Antoinette,Weibel,Uni St. Gallen,USG,Saint Gallen,Stiftungsratmitglied,Schweizerische Gesellschaft für Organisation,Education & research
+101,Antoinette,Weibel,Uni St. Gallen,USG,Saint Gallen,Beiratsmitglied,Deutsches Forschungsinstitutes für öffentliche Verwaltung,Education & research
+102,Antoinette,Weibel,Uni St. Gallen,USG,Saint Gallen,Beiratsmitglied,Schweizerische Vereinigung für Führungsausbildung,"Commerce, trade & services"
+103,Antoinette,Weibel,Uni St. Gallen,USG,Saint Gallen,Beiratsmitglied,Trust Management Institut e.V.,"Consulting, public relations, legal & trust"
+104,Antoinette,Weibel,Uni St. Gallen,USG,Saint Gallen,Geschäftsführerin,BTiO GmbH,"Consulting, public relations, legal & trust"
+105,Anton,Schleiss,ETH Lausanne,EPF,Lausanne,Prüfung Bauvorhaben Linth 2015,"Basler & Hofmann, Esslingen","Commerce, trade & services"
+106,Anton,Schleiss,ETH Lausanne,EPF,Lausanne,Schiedsgericht Nant de Dranse,"Nant de Dranse SA, Martigny","Commerce, trade & services"
+107,Anton,Schleiss,ETH Lausanne,EPF,Lausanne,"Panel of experts, Haraz Dam & HPP","Mahab Ghoods, Theran, Iran","Consulting, public relations, legal & trust"
+108,Anton,Schleiss,ETH Lausanne,EPF,Lausanne,"Expertise Druckstollen, Xe-Pian Xe-Namnoy, Laos","SK Engineering & Constructions, South Korea","Commerce, trade & services"
+109,Anton,Schleiss,ETH Lausanne,EPF,Lausanne,"Beratung, Wasserkraftwerk Chippis VS","FMV SA, Sion","Energy, environment & mobility"
+110,Anton,Schleiss,ETH Lausanne,EPF,Lausanne,"Beratung, vidange de fonds - surélévation du barrage Cambambe, Angola","Stucky SA, Renens","Commerce, trade & services"
+111,Anton F.H.,Bierl,Uni Basel,UBA,Basel,Mitglied des Stiftungsrates,Vischer-Heusler Stiftung,Not classifiable
+112,Antonio,Loprieno,Uni Basel,UBA,Basel,Mitglied des Universitätsrates,Universität Tübingen,Education & research
+113,Antonio,Loprieno,Uni Basel,UBA,Basel,Vorstandsmitglied,Konfuzius Institut,Education & research
+114,Antonio,Lanzavecchia,ETH Zürich,ETH,Zurich,Geschäftsführer,Humabs Holding GmbH,Pharma & health
+115,Antonio,Loprieno,Uni Basel,UBA,Basel,Mitglied des Hochschulrates,Pädagogische Hochschule Freiburg,Education & research
+116,Antonio,Loprieno,Uni Basel,UBA,Basel,Mitglied des Universitätsrates,Universitä della Svizzera Italiana,Education & research
+117,Antonio,Loprieno,Uni Basel,UBA,Basel,Präsident des Stiftungsrates,Schweizerische Studienstiftung,Education & research
+118,Arjen,Lenstra,ETH Lausanne,EPF,Lausanne,Advisor of crypto group,"OWI, Amsterdam",Not classifiable
+119,Arno,Schlüter,ETH Zürich,ETH,Zurich,Mitglied des Nachhaltigkeitsbeirats,Herzog Kull Group,"Consulting, public relations, legal & trust"
+120,Arno,Schlüter,ETH Zürich,ETH,Zurich,VR-Mandat,keoto AG,"Industry, construction & agriculture"
+121,Artur,Baldauf,Uni Bern,UBE,Bern,NA,International School of Bern,Education & research
+122,Artur,Baldauf,Uni Bern,UBE,Bern,NA,Securitas AG,"Politics, administration, justice system & security sector"
+123,Astrid,Epiney,Uni Freiburg,UFR,Fribourg,Präsidentin,Schweizer Wissenschafts- und Innovationsrat,Education & research
+124,Aude,Billard,ETH Lausanne,EPF,Lausanne,Présidente,Association Amies et Amis de la Fondation EPFL-WISH,Education & research
+125,Aurelio,Bay,ETH Lausanne,EPF,Lausanne,Présidence du Jury des examens du GYB,"GYB Gymnase Intercantonal de la Broye, Payerne",Education & research
+126,Aurelio,Muttoni,ETH Lausanne,EPF,Lausanne,Membre du conseil d'administration et employé (taux d'activité 10%),"Muttoni et Fernàndez Ingénieurs Conseils SA, Ecublens","Commerce, trade & services"
+127,Aurelio,Muttoni,ETH Lausanne,EPF,Lausanne,Membre du Conseil d'administration et employé (taux d'activité 10%),"Lurati Muttoni Partner, Studio d'ingegneria SA, Mendrisio","Commerce, trade & services"
+128,Aurelio,Muttoni,ETH Lausanne,EPF,Lausanne,Membre du conseil de fondation,"CEB Trust Fund, Genève",Education & research
+129,Aurelio,Muttoni,ETH Lausanne,EPF,Lausanne,Membre du Présidium,"Fédération Internationale du Béton, Lausanne","Commerce, trade & services"
+130,Aymo,Brunetti,Uni Basel,UBA,Basel,NA,Fachhochschule Kalaidos,Education & research
+131,Bart,Deplancke,ETH Lausanne,EPF,Lausanne,Board Member,"GeNohm SA, EPFL Innovation Park, Lausanne",Technology
+132,Basile,Cardinaux,Uni Freiburg,UFR,Fribourg,Vorstand,Pensionskasse des Staatspersonals Freiburg,Financial industry & insurances
+133,Basile,Cardinaux,Uni Freiburg,UFR,Fribourg,Anwalt,Selbstständig,Not classifiable
+134,Beatrix,Eugster,Uni St. Gallen,USG,Saint Gallen,Verwaltungsrat,Raiffeisen Diepoldsau-Schmitter,Financial industry & insurances
+135,Benjamin,Schindler,Uni St. Gallen,USG,Saint Gallen,Offizier Recht und Konventionen,"Schweizerische Armee, Armeestab","Politics, administration, justice system & security sector"
+136,Benjamin,Schindler,Uni St. Gallen,USG,Saint Gallen,Mitglied des Kuratoriums des Universitätspfarramts,Evangelisch-reformierte Kirche des Kantons St. Gallen,"Society, Social, Culture & Sports"
+137,Benjamin,Schindler,Uni St. Gallen,USG,Saint Gallen,Ersatzrichter,"Staatsgerichtshof, Fürstentum Liechtenstein","Politics, administration, justice system & security sector"
+138,Benjamin,Schindler,Uni St. Gallen,USG,Saint Gallen,Ersatzmitglied der Rekurskommission,Evangelisch-reformierte Landeskirche beider Appenzell,"Society, Social, Culture & Sports"
+139,Benjamin,Schindler,Uni St. Gallen,USG,Saint Gallen,Vorstandsmitglied,St. Galler Juristenverein,"Commerce, trade & services"
+140,Benjamin,Schindler,Uni St. Gallen,USG,Saint Gallen,Vorstandsmitglied,Schweizerischer Juristenverein,"Commerce, trade & services"
+141,Benjamin,Schindler,Uni St. Gallen,USG,Saint Gallen,Vizepräsident des Stiftungsrats,Peter Häberle-Stiftung an der Universität St. Gallen,Education & research
+142,Benjamin,Schindler,Uni St. Gallen,USG,Saint Gallen,Vierzehner,Zunft zur Meisen (Zürich),"Commerce, trade & services"
+143,Benjamin,Schindler,Uni St. Gallen,USG,Saint Gallen,Mitglied Kommission für Planung und Gemeindeentwicklung,Gemeinde Speicher AR,"Politics, administration, justice system & security sector"
+144,Benoît,Deveaud,ETH Lausanne,EPF,Lausanne,Membre du comité de Fondation,"Fondation Adrian et Simone Frutiger, Berne",Pharma & health
+145,Benoît,Deveaud,ETH Lausanne,EPF,Lausanne,Assesseur à la Commission de Conciliation en matière de baux,Préfecture de Lausanne,"Politics, administration, justice system & security sector"
+146,Berend,Smit,ETH Lausanne,EPF,Lausanne,Teaching and Research,"University of California, Berkeley",Education & research
+147,Berend,Smit,ETH Lausanne,EPF,Lausanne,Editor,"Frontiers Publishers, Lausanne",Media & communication
+148,Bernard,Thorens,Uni Lausanne,ULA,Lausanne,NA,Activités académiques,Education & research
+149,Bernhard,Ehrenzeller,Uni St. Gallen,USG,Saint Gallen,Richter,Staatsgerichtshof des Fürstentums Liechtenstein,"Politics, administration, justice system & security sector"
+150,Bernhard,Ehrenzeller,Uni St. Gallen,USG,Saint Gallen,Experte im Rahmen der Weiterentwicklung der schweizerischen Hochschul- und Bildungsgesetzgebung wie auch der Hochschulgesetzregelung,Kanton St.Gallen,"Politics, administration, justice system & security sector"
+151,Bernhard,Ehrenzeller,Uni St. Gallen,USG,Saint Gallen,Korrespondierendes Mitglied der philosophisch-historischen Klasse im Ausland,Österreichische Akademie der Wissenschaften,Education & research
+152,Bernhard,Ehrenzeller,Uni St. Gallen,USG,Saint Gallen,Mitglied des Stiftungsrats,Stiftung für Schweizerische Rechtspflege,"Politics, administration, justice system & security sector"
+153,Bertrand,Perrin,Uni Freiburg,UFR,Fribourg,Rechtsberater,Selbstständig,Not classifiable
+154,Bertrand,Perrin,Uni Freiburg,UFR,Fribourg,Ersatzmitglied für das Obergericht,Kanton Bern,"Politics, administration, justice system & security sector"
+155,Bettina,Hürlimann-Kaup,Uni Freiburg,UFR,Fribourg,Justizrat,Kanton Freiburg,"Politics, administration, justice system & security sector"
+156,Bettina,Kahil,Uni Lausanne,ULA,Lausanne,NA,Activités académiques,Education & research
+157,Birgitt,Borkopp,Uni Bern,UBE,Bern,Mitglied des Dachstiftungsrates,Kunstmuseum Bern,"Society, Social, Culture & Sports"
+158,Birgitt,Borkopp,Uni Bern,UBE,Bern,Mitglied des Stiftungsrates,Museum Schloss Thun,"Society, Social, Culture & Sports"
+159,Björn,Rasch,Uni Basel,UBA,Basel,Betreuung von Studenten und Doktoranden,Universität Zürich,Education & research
+160,Boi,Faltings,ETH Lausanne,EPF,Lausanne,Scientific Advisor / Consultant,"Prediggo SA, PSE, Ecublens",Technology
+161,Boi,Faltings,ETH Lausanne,EPF,Lausanne,Scientific Advisor / Consultant,"Livelyplanet, SAS, Versailles, France",Technology
+162,Boi,Faltings,ETH Lausanne,EPF,Lausanne,Scientific Advisor / Consultant,"Fairnez Inc., USA","Consulting, public relations, legal & trust"
+163,Bradley,Nelson,ETH Zürich,ETH,Zurich,VR-Mandat,Aeon Scientific AG,Pharma & health
+164,Bradley,Nelson,ETH Zürich,ETH,Zurich,VR-Mandat,Magnebotix AG,Technology
+165,Bradley,Nelson,ETH Zürich,ETH,Zurich,VR-Mandat,Femtotools AG,"Industry, construction & agriculture"
+166,Bruno,Marchand,ETH Lausanne,EPF,Lausanne,Commission d'urbanisme et architecture,Commune de Prengins,"Politics, administration, justice system & security sector"
+167,Bruno,Marchand,ETH Lausanne,EPF,Lausanne,Commission d'urbanisme et d'architecture,Commune de Gland,"Politics, administration, justice system & security sector"
+168,Bruno,Marchand,ETH Lausanne,EPF,Lausanne,"Commission d'urbanisme, d'architecture et du Paysage",Commune de Payerne,"Politics, administration, justice system & security sector"
+169,Bruno,Moretti,Uni Bern,UBE,Bern,NA,Forum du Bilinguisme Bienne,"Society, Social, Culture & Sports"
+170,Bruno,Moretti,Uni Bern,UBE,Bern,NA,Jaberg-Stiftung,"Society, Social, Culture & Sports"
+171,Bruno,Moretti,Uni Bern,UBE,Bern,NA,Stiftung Kinderbetreuung im Hochschulraum Bern KIHOB,"Society, Social, Culture & Sports"
+172,Bruno,Marchand,ETH Lausanne,EPF,Lausanne,Commission d'Urbanisme et Architecture,Canton de Fribourg,"Politics, administration, justice system & security sector"
+173,Bruno,Marchand,ETH Lausanne,EPF,Lausanne,Commission d'architecture et d'urbanisme,Commune de Pully,"Politics, administration, justice system & security sector"
+174,Bruno,Marchand,ETH Lausanne,EPF,Lausanne,Commission consultative d'urbanisme et d'architecture,Canton de Vaud,"Politics, administration, justice system & security sector"
+175,Bruno,Marchand,ETH Lausanne,EPF,Lausanne,Bruno Marchand Architecture Urbanisme et aménagement du territoire,"Bruno Marchand, Lausanne",Not classifiable
+176,Bruno,Gottstein,Uni Bern,UBE,Bern,NA,Jean-Pierre Miéville-Stiftung,Education & research
+177,Carlotta,Guiducci,ETH Lausanne,EPF,Lausanne,"expertise examen doctorat, science de la vie",Uni de Bâle,Education & research
+178,Cesla,Amarelle,Uni Neuenburg,UNE,Neuchâtel,Mandat,Nationalrat,"Politics, administration, justice system & security sector"
+179,Christian,Leumann,Uni Bern,UBE,Bern,NA,Unitectra,"Consulting, public relations, legal & trust"
+180,Christian,Leumann,Uni Bern,UBE,Bern,NA,Synthena AG,Pharma & health
+181,Christian,Leumann,Uni Bern,UBE,Bern,NA,"Schweizerischer Nationalfonds, Stiftungsrat",Education & research
+182,Christian,Jackowski,Uni Zürich,UZH,Zurich,NA,Schweizerische Stiftung für Alkoholforschung SSA,Pharma & health
+183,Christian,Hesse,Uni Bern,UBE,Bern,NA,Dr. Josephine de Karman-Stiftung,Education & research
+184,Christian,Leumann,Uni Bern,UBE,Bern,NA,Verein Euresearch,Education & research
+185,Christian,Belz,Uni St. Gallen,USG,Saint Gallen,Verwaltungsrat,Starrag,"Industry, construction & agriculture"
+186,Christian,Bochet,Uni Freiburg,UFR,Fribourg,Präsident,Atlas Photonics Sàrl,Technology
+187,Christian,Bovet,Uni Genf,UGE,Geneva,Membre et Président du conseil,Fondation Professeur Walther Hug,Education & research
+188,Christian,Bovet,Uni Genf,UGE,Geneva,Président du comité d'audit et membre du conseil d'adminstration,BPN Paribas (Suisse) SA,Financial industry & insurances
+189,Christian,Enz,ETH Lausanne,EPF,Lausanne,Scientific Advisory Board: Cooperation CSEM-EPF,"CSEM, Neuchatel",Education & research
+190,Christian,Heinis,ETH Lausanne,EPF,Lausanne,Co-founder and shareholder of the start-up’,"Bicycle Therapeutics, Cambridge, UK",Technology
+191,Christian,Belz,Uni St. Gallen,USG,Saint Gallen,Verwaltungsrat,Création Baumann,"Industry, construction & agriculture"
+192,Christian,Belz,Uni St. Gallen,USG,Saint Gallen,Verwaltungsrat,Olma Messen St. Gallen,"Industry, construction & agriculture"
+193,Christian Gerhard,Wolfrum,ETH Zürich,ETH,Zurich,VR-Mandat,Glycemicon AG,Technology
+194,Christian Pieter,Hoffmann,Uni St. Gallen,USG,Saint Gallen,Mitglied des Vorstands,Percipe GmbH,"Consulting, public relations, legal & trust"
+195,Christian Pieter,Hoffmann,Uni St. Gallen,USG,Saint Gallen,"Mitglied des Beirats, Geschäftsberichte",HSG Symposium,Education & research
+196,Christian Pieter,Hoffmann,Uni St. Gallen,USG,Saint Gallen,Lehrbeauftragter,Singapore Management University,Education & research
+197,Christian Pieter,Hoffmann,Uni St. Gallen,USG,Saint Gallen,Lehrbeauftragter,Johannes Gutenberg-Universität Mainz,Education & research
+198,Christian Pieter,Hoffmann,Uni St. Gallen,USG,Saint Gallen,Dozent,Hochschule für Wirtschaft Zürich,Education & research
+199,Christina,Thurner,Uni Bern,UBE,Bern,NA,Schweizer Tanzarchiv,"Society, Social, Culture & Sports"
+200,Christof,Holliger,ETH Lausanne,EPF,Lausanne,Membre du FNS Panel Sinergia,"FNS, Berne",Education & research
+201,Christoph,Aebi,Uni Bern,UBE,Bern,NA,Bernische Stiftung für krebskranke Kinder und Jugendliche,Pharma & health
+202,Christoph,Aebi,Uni Bern,UBE,Bern,NA,Ronald McDonald Stiftung,"Society, Social, Culture & Sports"
+203,Christoph,Müller,Uni Bern,UBE,Bern,NA,Stiftung für klinisch-experimentelle Tumorforschung Bern,Education & research
+204,Christoph,Heinrich,ETH Zürich,ETH,Zurich,Präsident,Paul Niggli-Stiftung,Education & research
+205,Christoph,Lechner,Uni St. Gallen,USG,Saint Gallen,Mitglied des Verwaltungsrats,Helvetia AG,Financial industry & insurances
+206,Christoph,Lechner,Uni St. Gallen,USG,Saint Gallen,Mitglied des Verwaltungsrats,Hügli AG,"Industry, construction & agriculture"
+207,Christoph A.,Müller,Uni St. Gallen,USG,Saint Gallen,Externer Moderator Projekt Gründerhochschule Exist IV,Hochschule Esslingen,Education & research
+208,Christoph A.,Müller,Uni St. Gallen,USG,Saint Gallen,Aufsichtsratsvorsitzender,Promerit Holding AG,"Consulting, public relations, legal & trust"
+209,Christoph A.,Müller,Uni St. Gallen,USG,Saint Gallen,Verwaltungsratspräsident,"Virtuell Bau Holding, St.Gallen","Commerce, trade & services"
+210,Christoph A.,Müller,Uni St. Gallen,USG,Saint Gallen,Verwaltungsratspräsident,Promerit Management Consulting AG,"Consulting, public relations, legal & trust"
+211,Christoph A.,Müller,Uni St. Gallen,USG,Saint Gallen,Verwaltungsratspräsident,Memo St.Gallen GmbH,"Consulting, public relations, legal & trust"
+212,Christoph A.,Müller,Uni St. Gallen,USG,Saint Gallen,Präsidium,Förderkreis Gründungsforschung FGF e.V.,Education & research
+213,Christoph A.,Müller,Uni St. Gallen,USG,Saint Gallen,Geschäftsführender Gesellschafter,UEC gemeinnützige GmbH,Education & research
+214,Christoph A.,Müller,Uni St. Gallen,USG,Saint Gallen,Fachbeirat,"Clairfield International GmbH, Frankfurt/Main","Consulting, public relations, legal & trust"
+215,Christoph A.,Müller,Uni St. Gallen,USG,Saint Gallen,Expertenjury Startfeld und Vorjury,Startfeld Diamant,"Commerce, trade & services"
+216,Christoph A.,Müller,Uni St. Gallen,USG,Saint Gallen,Beirat,"MÖRK GmbH & Co. KG, Leonberg","Commerce, trade & services"
+217,Christoph Hans,Boesch,Uni Bern,UBE,Bern,NA,Jubiläumsstiftung Mobiliar,"Society, Social, Culture & Sports"
+218,Christophe,Ballif,ETH Lausanne,EPF,Lausanne,"Chef de division CSEM PV-center, officiellement depuis 1.10.2012","CSEM, Neuchâtel",Education & research
+219,Christophe,Ancey,ETH Lausanne,EPF,Lausanne,"Prise en compte du risque de reptation sur la télécabine du Lys, pylônes P9-11","Espace Cauterets, Mairie, Cauterets","Politics, administration, justice system & security sector"
+220,Christophe,Moser,ETH Lausanne,EPF,Lausanne,Board observer (resigned on 25.12.14),"Ondax Corp., USA","Industry, construction & agriculture"
+221,Christophe,Moser,ETH Lausanne,EPF,Lausanne,Founder Composyt Light Lab,"PSE A, EPFL",Education & research
+222,Christophe,Ballif,ETH Lausanne,EPF,Lausanne,"Panel, clean energy research program, Singapour","Economic development Board (EDB), Raffles Tower, Singapour","Commerce, trade & services"
+223,Christophe,Ballif,ETH Lausanne,EPF,Lausanne,Consultant technologique et membre du conseil d'administration,"Asgalium Unitec SA, Cortaillod","Industry, construction & agriculture"
+224,Christophe,Ballif,ETH Lausanne,EPF,Lausanne,Membre comité de conseil Active Niche Funds (fonds dédié au Solaire),"ANF SA, Lausanne",Financial industry & insurances
+225,Christopher,Tucci,ETH Lausanne,EPF,Lausanne,Board Member,Innovation Strategy Center Association,Not classifiable
+226,Christopher,Tucci,ETH Lausanne,EPF,Lausanne,Adjunct Professor (finished Aug 2014),Skolkovo Institute of Science & Technology,Education & research
+227,Christopher,Tucci,ETH Lausanne,EPF,Lausanne,Board Member,EAMSA,Education & research
+228,Christopher,Tucci,ETH Lausanne,EPF,Lausanne,Board Member,Lean Analytical Association,"Consulting, public relations, legal & trust"
+229,Christopher,Tucci,ETH Lausanne,EPF,Lausanne,Board Member,Powzy,Media & communication
+230,Christopher,Tucci,ETH Lausanne,EPF,Lausanne,Board of Governors,Academy of Management,Education & research
+231,Christopher,Tucci,ETH Lausanne,EPF,Lausanne,Member (no longer active),AYU Association (no longer active),Not classifiable
+232,Christos,Katsaros,Uni Bern,UBE,Bern,NA,Stiftung Papavramidès,Education & research
+233,Claudio,Bassetti,Uni Bern,UBE,Bern,NA,Fondazione Eccles,Education & research
+234,Claudio,Bassetti,Uni Bern,UBE,Bern,NA,Fondazione Neuroscienze Ticino,Education & research
+235,Claudio,Bassetti,Uni Bern,UBE,Bern,NA,SITEM,Pharma & health
+236,Claudio,Loderer,Uni Bern,UBE,Bern,NA,OLZ & Partners,Financial industry & insurances
+237,Colin,Jones,ETH Lausanne,EPF,Lausanne,SNF SCOPES evaluation panel,SNSF Bern,Education & research
+238,Curzio,Rüegg,Uni Freiburg,UFR,Fribourg,Mitglied der Wissenschaftlichen Kommission,Krebsliga Schweiz,Pharma & health
+239,Cyrill P.,Rigamonti,Uni Bern,UBE,Bern,NA,Hans-Sigrist-Stiftung,Education & research
+240,Cécile,Hébert,ETH Lausanne,EPF,Lausanne,Trésorière. Aide à l'enseignement en Tanzanie.,Foundation TALENT,Education & research
+241,Cécile,Hébert,ETH Lausanne,EPF,Lausanne,"Comité HCERES, évaluation de laboratoire INAC, CEA Grenoble","HCERES, France",Education & research
+242,Cécile,Hébert,ETH Lausanne,EPF,Lausanne,Comité recommandation et prospective de la plateforme de nanocarctérisation,"CEA, Grenoble",Education & research
+243,Cécile,Hébert,ETH Lausanne,EPF,Lausanne,Expert projet accès transnationaux,Projet européen ESTEEM,Education & research
+244,Cécile,Hébert,ETH Lausanne,EPF,Lausanne,Comité d'expert,"Centre de microscopie de l'Université de Saragosse, Espagne",Education & research
+245,Damir,Filipovic,ETH Lausanne,EPF,Lausanne,Member of the Board of Directors,Swiss Life Holding Ltd,Financial industry & insurances
+246,Daniel,Oyon,Uni Lausanne,ULA,Lausanne,Mandat,Autorité fédérale de surveillance en matière de révision,"Commerce, trade & services"
+247,Daniel,Oyon,Uni Lausanne,ULA,Lausanne,Mandat,Etablissement Cantonal d'Assurance,"Society, Social, Culture & Sports"
+248,Daniel,Oyon,Uni Lausanne,ULA,Lausanne,Mandat,Académie internationale des sciences et technique du sport,Education & research
+249,Daniel,Buser,Uni Bern,UBE,Bern,NA,ITI Stiftung Basel,Education & research
+250,Daniel,Buser,Uni Bern,UBE,Bern,NA,Kursaal Bern AG,"Commerce, trade & services"
+251,Daniel,Buser,Uni Bern,UBE,Bern,NA,Osteology Stiftung Luzern,Pharma & health
+252,Daniel,Candinas,Uni Bern,UBE,Bern,NA,CAScination AG,Pharma & health
+253,Daniel,Candinas,Uni Bern,UBE,Bern,NA,"Fondazione Epatocentro Ticino, Lugano",Education & research
+254,Daniel,Candinas,Uni Bern,UBE,Bern,NA,Forschungsstiftung Genaxen,Education & research
+255,Daniel,Candinas,Uni Bern,UBE,Bern,NA,Insula Stiftung,Education & research
+256,Daniel,Candinas,Uni Bern,UBE,Bern,NA,"Ruth & Arthur Scherbarth Stiftung, Bern","Society, Social, Culture & Sports"
+257,Daniel,Candinas,Uni Bern,UBE,Bern,NA,Solothurner Spitäler AG,Pharma & health
+258,Daniel,Aebersold,Uni Bern,UBE,Bern,NA,Berner Radium-Stiftung,Pharma & health
+259,Daniel,Aebersold,Uni Bern,UBE,Bern,NA,Janser Krebs-Stiftung,Pharma & health
+260,Daniel,Aebersold,Uni Bern,UBE,Bern,NA,SWAN Isotopen AG,Technology
+261,Daniel,Steingruber,Uni St. Gallen,USG,Saint Gallen,Fachlehrer für Wirtschaft & Recht,Kantonsschule am Brühl in St.Gallen,Education & research
+262,Daniel,Kuhn,ETH Lausanne,EPF,Lausanne,PhD course on  Financial Optimization and Risk Management under Uncertainty,"Norwegian University of Science & Technology, Trondheim, Norway",Education & research
+263,Daniel,Odermatt,Uni Bern,UBE,Bern,NA,Campus Muristalden AG,Education & research
+264,Daniel,Odermatt,Uni Bern,UBE,Bern,NA,Centre of Continuing Dental Education AG,Education & research
+265,Daniel,Odermatt,Uni Bern,UBE,Bern,NA,Forschungsstiftung Genaxen,Education & research
+266,Daniel,Odermatt,Uni Bern,UBE,Bern,NA,Genossenschaft basecamp4hightech (bc4ht),"Commerce, trade & services"
+267,Daniel,Odermatt,Uni Bern,UBE,Bern,NA,innoBE AG,"Consulting, public relations, legal & trust"
+268,Daniel,Odermatt,Uni Bern,UBE,Bern,NA,Stiftung für technologische Innovation - STI,"Commerce, trade & services"
+269,Daniel,Odermatt,Uni Bern,UBE,Bern,NA,Stiftung Haus der Universität Bern,Education & research
+270,Daniel,Odermatt,Uni Bern,UBE,Bern,NA,Stiftung Mensabetriebe der Universität Bern,"Commerce, trade & services"
+271,Daniel,Odermatt,Uni Bern,UBE,Bern,NA,Stiftung Sozialkasse der Universität Bern,"Society, Social, Culture & Sports"
+272,Daniel,Odermatt,Uni Bern,UBE,Bern,NA,Unitectra AG,Education & research
+273,Daniel,Odermatt,Uni Bern,UBE,Bern,NA,Verein Berner Studentenlogierhäuser VBSL,"Commerce, trade & services"
+274,Daniela,Thurnherr Keller,Uni Basel,UBA,Basel,Mitglied des Verwaltungsrates,"BVB, Basler Verkehrsbetriebe Basel","Energy, environment & mobility"
+275,Daniela,Thurnherr Keller,Uni Basel,UBA,Basel,Ersatzrichterin,Appellationsgericht des Kantons Basel-Stadt,"Politics, administration, justice system & security sector"
+276,Dario,Floreano,ETH Lausanne,EPF,Lausanne,"NASA/Caltech Jet Propulsion Laboratory: Visiting researcher (July-August 2014, while on leave)","JPL, Pasadena, USA",Education & research
+277,Dario,Neri,ETH Zürich,ETH,Zurich,Mitarbeit in Projekt,Philochem AG,Technology
+278,Dario,Floreano,ETH Lausanne,EPF,Lausanne,"Harvard Wyss Institute: Visiting Professor (September-December 2014, while on leave)","SEAS Harvard, Cambridge, USA",Education & research
+279,Dario,Neri,ETH Zürich,ETH,Zurich,VR-Mandat,Philogen S.P.A.,Pharma & health
+280,David,Gugerli,Uni Zürich,UZH,Zurich,Stiftungsrat,Stiftung Jüdische Zeitgeschichte,"Society, Social, Culture & Sports"
+281,David,Suter,ETH Lausanne,EPF,Lausanne,Evaluation de projets de recherche,"Agence Nationale de la Recherche (ANR), Paris",Education & research
+282,David,Atienza Alonso,ETH Lausanne,EPF,Lausanne,Consultancy on embedded systems uses for swallowing and chewing monitoring,Nestec SA,"Industry, construction & agriculture"
+283,David,Spreng,Uni Bern,UBE,Bern,NA,Jakob Spreng AG,Financial industry & insurances
+284,David Alan,Basin,ETH Zürich,ETH,Zurich,Vorsitzender der Geschäftsführung,Contego Laboratories GmbH,Technology
+285,David Andrew,Barry,ETH Lausanne,EPF,Lausanne,Member of the SNF Council,Swiss National Science Foundation,Education & research
+286,David Andrew,Barry,ETH Lausanne,EPF,Lausanne,Fellowships Committee,"Royal Society of Edinburgh, UK",Education & research
+287,David Andrew,Barry,ETH Lausanne,EPF,Lausanne,Member and expert to the Sinergia section,Swiss National Science Foundation - Sinergia,Education & research
+288,David Andrew,Barry,ETH Lausanne,EPF,Lausanne,Visiting Professor,"University of Edinburgh, UK",Education & research
+289,David Andrew,Barry,ETH Lausanne,EPF,Lausanne,Co-Editor,Advances in Water Resources (Elsevier Journal),Media & communication
+290,David Lyndon,Emsley,ETH Lausanne,EPF,Lausanne,Invited Professor,"KAUST, Jeddah",Education & research
+291,David Lyndon,Emsley,ETH Lausanne,EPF,Lausanne,"Associate Editor, Journal of the American Chemical Society",American Chemical Society,Technology
+292,David Lyndon,Emsley,ETH Lausanne,EPF,Lausanne,Professor of Chemistry,Ecole normale supérieure de Lyon,Education & research
+293,Demetri,Psaltis,ETH Lausanne,EPF,Lausanne,Board Member,SPIE (Society),Education & research
+294,Demetri,Psaltis,ETH Lausanne,EPF,Lausanne,Board Member,Wyss Center,Education & research
+295,Denis,Duboule,Uni Genf,UGE,Geneva,Membre de comité scientifique,Institut Curie Paris,Education & research
+296,Denis,Duboule,Uni Genf,UGE,Geneva,Membre du conseil scientifique,Hubrecht Institute Utrecht,Education & research
+297,Denis,Duboule,Uni Genf,UGE,Geneva,Professeur (50%),Université de Genève,Education & research
+298,Denis,Tappy,Uni Lausanne,ULA,Lausanne,Juge suppléant,Tribunal cantonal vaudois,"Politics, administration, justice system & security sector"
+299,Denis,Duboule,Uni Genf,UGE,Geneva,Président fondation,"Fondation Latsis Internationale, Genève",Education & research
+300,Denis,Duboule,Uni Genf,UGE,Geneva,Membre conseil scientifique,"Fondation Louis Jeantet, Genève",Pharma & health
+301,Denis,Duboule,Uni Genf,UGE,Geneva,Président du conseil scientifique,Ecole Normale de Paris (ENS),Education & research
+302,Denis,Duboule,Uni Genf,UGE,Geneva,Membre,Conseil de l'EMBL,Education & research
+303,Denis,Duboule,Uni Genf,UGE,Geneva,Président Division III,"Fonds National Suisse, Berne",Education & research
+304,Denis,Duboule,Uni Genf,UGE,Geneva,Président de panel,Fonds National Suisse,Education & research
+305,Denis,Duboule,Uni Genf,UGE,Geneva,Membre du comité steering,IGBMC Strasbourg,Education & research
+306,Denis,Piotet,Uni Lausanne,ULA,Lausanne,Mandat,Chancellerie non spécifié,"Politics, administration, justice system & security sector"
+307,Denis,Duboule,Uni Genf,UGE,Geneva,Président de comité scientifique,Biozentrum Basel,Education & research
+308,Denis,Duboule,Uni Genf,UGE,Geneva,Membre du conseil scientifique,"Wallenberg Institute for Regenerative Medicine, Stockholm",Education & research
+309,Denis,Duboule,Uni Genf,UGE,Geneva,Membre du conseil scientifique,"Strategic Research Initiative on stem cells, Stockholm",Education & research
+310,Denis,Duboule,Uni Genf,UGE,Geneva,Membre du conseil scientifique,"Institut Curie, Paris",Education & research
+311,Denis,Duboule,Uni Genf,UGE,Geneva,Membre de comité scientifique,Institute Imagine Paris,Education & research
+312,Denis,Duboule,Uni Genf,UGE,Geneva,Membre,Concile de l'EMBO,Education & research
+313,Denis,Duboule,Uni Genf,UGE,Geneva,Membre du conseil scientifique,"CBM Severo Ochoa research Centre, Madrid",Education & research
+314,Denis,Duboule,Uni Genf,UGE,Geneva,Membre de comité scientifique,Institut génomique Montpellier,Education & research
+315,Detlef,Günther,ETH Zürich,ETH,Zurich,Stiftungsrat,"SIB Swiss Institute of Bioinformatics, Lausanne",Education & research
+316,Detlef,Günther,ETH Zürich,ETH,Zurich,Director,ETH Singapore SEC Ltd.,"Politics, administration, justice system & security sector"
+317,Detlef,Günther,ETH Zürich,ETH,Zurich,NA,Verein Euresearch,Education & research
+318,Detlef,Günther,ETH Zürich,ETH,Zurich,Stiftungsrat,Huber-Kudlich-Stiftung an der Eidgenössischen Technischen Hochschule Zürich,Education & research
+319,Detlef,Günther,ETH Zürich,ETH,Zurich,Stiftungsrat,Stiftung Technopark Zürich,Education & research
+320,Detlef,Günther,ETH Zürich,ETH,Zurich,Verwaltungsrat,ETH Zürich SEC AG,"Politics, administration, justice system & security sector"
+321,Detlef,Günther,ETH Zürich,ETH,Zurich,Verwaltungsrat,inspire AG,Technology
+322,Detlef,Günther,ETH Zürich,ETH,Zurich,VR-Mandat,GRS Gemresearch Swisslab AG,Not classifiable
+323,Didier,Trono,ETH Lausanne,EPF,Lausanne,Membre du conseil,Fondation Giorgi-Cavaglieri,Technology
+324,Didier,Trono,ETH Lausanne,EPF,Lausanne,Chaire du conseil scientifique,IGH Montpellier,Education & research
+325,Didier,Trono,ETH Lausanne,EPF,Lausanne,Membre du conseil,"Fondation ISREC, Lausanne",Education & research
+326,Didier,Trono,ETH Lausanne,EPF,Lausanne,Membre du Conseil de la Recherche,Fonds National Scientifique Suisse,Education & research
+327,Didier,Trono,ETH Lausanne,EPF,Lausanne,Membre du conseil scientifique,"MOLMED, Milan, Italy",Technology
+328,Didier,Sornette,ETH Zürich,ETH,Zurich,Vorsitzender der Geschäftsführung,Sentiment Studies GmbH,Education & research
+329,Dieter,Dietz,ETH Lausanne,EPF,Lausanne,"Architecture, agence d'architecture",dieterdietz.org,"Industry, construction & agriculture"
+330,Dieter,Dietz,ETH Lausanne,EPF,Lausanne,"RATP, audit des espaces","RATP, Paris","Energy, environment & mobility"
+331,Dietmar,Eberle,ETH Zürich,ETH,Zurich,VR-Mandat,Senn BPM AG,Not classifiable
+332,Dietmar,Grichnik,Uni St. Gallen,USG,Saint Gallen,Gesellschafter,Particulate,Not classifiable
+333,Dietmar,Grichnik,Uni St. Gallen,USG,Saint Gallen,Gründer und Gesellschafter,Scienovation,"Commerce, trade & services"
+334,Dietmar,Grichnik,Uni St. Gallen,USG,Saint Gallen,Inhaber,Dietmar Grichnik Entrepreneurial Management GmbH,"Consulting, public relations, legal & trust"
+335,Dietmar,Grichnik,Uni St. Gallen,USG,Saint Gallen,Mitglied des Beirats,Stiftung Social Funders,"Politics, administration, justice system & security sector"
+336,Dietmar,Grichnik,Uni St. Gallen,USG,Saint Gallen,Präsident,Swiss Startup Monitor Stiftung,"Commerce, trade & services"
+337,Dimos,Poulikakos,ETH Zürich,ETH,Zurich,VR-Mandat,Scrona AG,"Industry, construction & agriculture"
+338,Dimos,Poulikakos,ETH Zürich,ETH,Zurich,VR-Mandat,Hylomorph AG,Pharma & health
+339,Dirk,Schäfer,Uni St. Gallen,USG,Saint Gallen,Partner,Detecon (Schweiz) AG,"Consulting, public relations, legal & trust"
+340,Dirk,Schäfer,Uni St. Gallen,USG,Saint Gallen,Unternehmensberater,Selbständig,Not classifiable
+341,Dirk,Lehmkuhl,Uni St. Gallen,USG,Saint Gallen,Mitglied im Stiftungsrat,New Europe College,Education & research
+342,Dirk,Lehmkuhl,Uni St. Gallen,USG,Saint Gallen,Mitglied im Stiftungsrat,Center for Advanced Studies,Education & research
+343,Dominique,Bonvin,ETH Lausanne,EPF,Lausanne,"Consulting, conseil scientifique","ONLINE Control Sàrl, Lausanne",Technology
+344,Dominique,de Quervain,Uni Basel,UBA,Basel,Mitglied des Verwaltungsrates,"GeneGuide AG, Basel",Technology
+345,Dominique,Foray,ETH Lausanne,EPF,Lausanne,Consulting,EPFL-TTO,Education & research
+346,Dominique,Foray,ETH Lausanne,EPF,Lausanne,Expertise,"Gesellschaft für Wissenschaftstatistik, EFI, Berlin",Education & research
+347,Dominique,Foray,ETH Lausanne,EPF,Lausanne,Expertise,"SEFRI, Bern","Politics, administration, justice system & security sector"
+348,Dominique,Foray,ETH Lausanne,EPF,Lausanne,Expertise,"SNF, Bern",Education & research
+349,Dominique,Foray,ETH Lausanne,EPF,Lausanne,Expertise,"Uni StGall, St. Gallen",Education & research
+350,Dominique,Perrault,ETH Lausanne,EPF,Lausanne,Architecture & gestion de projets,"Dominique Perrault Libérale c/o Architram, Renens","Industry, construction & agriculture"
+351,Dominique,Perrault,ETH Lausanne,EPF,Lausanne,Architecture & gestion de projets,"SA Dominique Perrault Architecture, Chatelaine","Industry, construction & agriculture"
+352,Doris,Wastl,Uni Bern,UBE,Bern,NA,Dr. A. Bretscher Stiftung,Education & research
+353,Douglas,Hanahan,ETH Lausanne,EPF,Lausanne,"Member, Scientific Advisory Board","Shenogen Pharma Group LTD, China",Pharma & health
+354,Douglas,Hanahan,ETH Lausanne,EPF,Lausanne,"Member, Scientific Advisory Board - Cancer Therapeutic Area","Pfizer, Inc., New York, USA",Pharma & health
+355,Drahomir,Aujesky,Uni Bern,UBE,Bern,NA,Schweizerische Gesellschaft für allgemeine innere Medizin,Pharma & health
+356,Edwin Charles,Constable,Uni Basel,UBA,Basel,Mitglied des Verwaltungsrates,Unitectra AG,Education & research
+357,Edwin Charles,Constable,Uni Basel,UBA,Basel,Mitglied des Stiftungsrates,"Universitätsspital Basel, Forschungsstiftung",Pharma & health
+358,Edwin Charles,Constable,Uni Basel,UBA,Basel,Mitglied des Management Board,EVA Basel Life Science Start-up Agency,"Consulting, public relations, legal & trust"
+359,Edwin Charles,Constable,Uni Basel,UBA,Basel,Mitglied des Management Board,Biovalley Basel,"Commerce, trade & services"
+360,Edwin Charles,Constable,Uni Basel,UBA,Basel,Mitglied der Life Science Kommission,HKBB Basel,"Commerce, trade & services"
+361,Elgar,Fleisch,Uni St. Gallen,USG,Saint Gallen,VR-Mandat,Interhoval AG,Financial industry & insurances
+362,Elgar,Fleisch,Uni St. Gallen,USG,Saint Gallen,VR-Mandat,Hoval Holding AG,Financial industry & insurances
+363,Elgar,Fleisch,Uni St. Gallen,USG,Saint Gallen,VR-Mandat,Elgar Fleisch Management Services AG,"Consulting, public relations, legal & trust"
+364,Elgar,Fleisch,Uni St. Gallen,USG,Saint Gallen,VR-Mandat,Dacuda AG,Technology
+365,Elgar,Fleisch,Uni St. Gallen,USG,Saint Gallen,VR-Mandat,42matters AG,Technology
+366,Elgar,Fleisch,Uni St. Gallen,USG,Saint Gallen,VR-Mandat,UCTec Beteiligungsgesellschaft AG,Financial industry & insurances
+367,Elgar,Fleisch,Uni St. Gallen,USG,Saint Gallen,VR-Mandat,Schweizerische Mobiliar Holding AG,Financial industry & insurances
+368,Elgar,Fleisch,Uni St. Gallen,USG,Saint Gallen,VR-Mandat,Schweizerische Mobiliar Genossenschaft,Financial industry & insurances
+369,Elgar,Fleisch,Uni St. Gallen,USG,Saint Gallen,VR-Mandat,qipp AG,Technology
+370,Elgar,Fleisch,Uni St. Gallen,USG,Saint Gallen,VR-Mandat,coresystems ag,Technology
+371,Elgar,Fleisch,Uni St. Gallen,USG,Saint Gallen,VR-Mandat,BEN Energy AG,Technology
+372,Elisio,Macamo,Uni Basel,UBA,Basel,Mitglied des Stiftungsrates,"UBUNTU, Zürich; Share for Food Alliance, Basel",Not classifiable
+373,Elke,Hentschel,Uni Bern,UBE,Bern,Präsidentin,Jaberg-Stiftung,"Society, Social, Culture & Sports"
+374,Elyahou,Kapon,ETH Lausanne,EPF,Lausanne,Member of Exert Panel,ERC (consolidators),Education & research
+375,Elyahou,Kapon,ETH Lausanne,EPF,Lausanne,Member of Board of Directors,BeamExpress SA,Not classifiable
+376,Emmanuel,Rey,ETH Lausanne,EPF,Lausanne,Membre du conseil d'administration,"Bauart Architekten und Planer Holding AG, Bern","Industry, construction & agriculture"
+377,Emmanuel,Frossard,ETH Zürich,ETH,Zurich,Stiftungsrat,Walter Hochstrasser-Stiftung,Education & research
+378,Emmanuel,Rey,ETH Lausanne,EPF,Lausanne,Associé et partenaire d'un bureau d'architecture et d'urbanisme,"Bauart Architekten und Planer AG, Bern","Industry, construction & agriculture"
+379,Emmanuel,Rey,ETH Lausanne,EPF,Lausanne,Membre du comité d'une association à but non lucratif,"Association Ecoparc, Neuchâtel","Energy, environment & mobility"
+380,Enrico,De Giorgi,Uni St. Gallen,USG,Saint Gallen,Partner,Behavioural Finance Solutions GmbH,Technology
+381,Erick Moran,Carreira,ETH Zürich,ETH,Zurich,VR-Mandat,SpiroChem AG,Technology
+382,Erick Moran,Carreira,ETH Zürich,ETH,Zurich,VR-Mandat,Glycemicon AG,Technology
+383,Ernst,Mohr,Uni St. Gallen,USG,Saint Gallen,Verwaltungsrat,joixes AG,Technology
+384,Ernst,Mohr,Uni St. Gallen,USG,Saint Gallen,Verwaltungsrat,Premiumselect Lux S.A.,Financial industry & insurances
+385,Ernst,Mohr,Uni St. Gallen,USG,Saint Gallen,Verwaltungsrat,AtlanticLux Lebensversicherung S.A.,Financial industry & insurances
+386,Ernst,Hafen,ETH Zürich,ETH,Zurich,VR-Mandat,EvalueScience AG,"Consulting, public relations, legal & trust"
+387,Erwan,Morellec,ETH Lausanne,EPF,Lausanne,Cours (1 jour): Derivatives for Central Bankers,Swiss National Bank,Financial industry & insurances
+388,Erwan,Morellec,ETH Lausanne,EPF,Lausanne,Directeur du SFI PhD Program,Swiss Finance Institute,Financial industry & insurances
+389,Eugen,Brühwiler,ETH Lausanne,EPF,Lausanne,"Quatre mandats d'expertise (en tant qu'expert fédéral), mandatés par l'Office Fédéral de la Culture","BAK, Heimatschutz und Denkmalpflege, Bern","Society, Social, Culture & Sports"
+390,Eugen,Brühwiler,ETH Lausanne,EPF,Lausanne,Projet de normalisation européen (Projet SIA NDP - EN 1991),"Société des Ingénieurs et Architectes Suisses, SIA, Zurich","Commerce, trade & services"
+391,Eugen,Brühwiler,ETH Lausanne,EPF,Lausanne,Panoramaweg Rigi SZ : mandat de conseil pour la restoration de ponts historiques,"Office fédéral des routes, Bern","Energy, environment & mobility"
+392,Eugen,Brühwiler,ETH Lausanne,EPF,Lausanne,Ingénieur-expert dans le cadre du bétonnage du Tunnel Eyholz à Visp VS,"Office fédéral des routes, Sion","Energy, environment & mobility"
+393,Eugen,Brühwiler,ETH Lausanne,EPF,Lausanne,Expert/conseiller pour le suivi de questions liées à la structure porteuse de la Cathédrale de Lausanne,Canton de Vaud SIPAL,"Politics, administration, justice system & security sector"
+394,Eva,Bayer Fluckiger,ETH Lausanne,EPF,Lausanne,Membre,Stiftung zur Förderung der mathematischen Wissenschaften in der Schweiz,Education & research
+395,Eva,Bayer Fluckiger,ETH Lausanne,EPF,Lausanne,Membre du comité éditorial,Archiv der Mathematik,Media & communication
+396,Eva,Bayer Fluckiger,ETH Lausanne,EPF,Lausanne,Membre du comité éditorial,International Journal of Number Theory,Media & communication
+397,Eva,Bayer Fluckiger,ETH Lausanne,EPF,Lausanne,Membre du comité éditorial,Journal of Algebra,Media & communication
+398,Eva,Bayer Fluckiger,ETH Lausanne,EPF,Lausanne,Editrice en chef de la revue Commentarii Mathematici Helvetici,Société Mathématique Suisse,Education & research
+399,Eva,Bayer Fluckiger,ETH Lausanne,EPF,Lausanne,Membre du conseil de la recherche Division II,"FNS, Berne",Education & research
+400,Fabien,Sorin,ETH Lausanne,EPF,Lausanne,Expert externe pour 3 projets de recherche,"Swedish Foundation for Strategic Research, Sweden",Education & research
+401,Fabien,Sorin,ETH Lausanne,EPF,Lausanne,Membre du conseil scientifique du Laboratoire d'excellence SEAM (non rémunéré),"SEAM, France","Society, Social, Culture & Sports"
+402,Fabio Matteo,Gramazio,ETH Zürich,ETH,Zurich,VR-Mandat,ROB Technologies AG,"Commerce, trade & services"
+403,Falk,Uebernickel,Uni St. Gallen,USG,Saint Gallen,Geschäftsführender Partner und Mitglied des Verwaltungsrates,IT Management Partner St. Gallen AG,"Consulting, public relations, legal & trust"
+404,Felix,Naef,ETH Lausanne,EPF,Lausanne,Executive Board,SystemsX.ch,Technology
+405,Felix,Naef,ETH Lausanne,EPF,Lausanne,Member of evaluation committee Advanced Postdoc Mobility,SNF,Education & research
+406,Fernando,Porte Agel,ETH Lausanne,EPF,Lausanne,Consulting work,Qatar fondation,Education & research
+407,Flemming,Ruud,Uni St. Gallen,USG,Saint Gallen,Professor,Norwegian Business School,Education & research
+408,Florian,Wettstein,Uni St. Gallen,USG,Saint Gallen,Mitglied des Executive Committee,"International Society for Business, Ethics and Economics ISBEE","Commerce, trade & services"
+409,Florian,Wettstein,Uni St. Gallen,USG,Saint Gallen,Mitglied des Editorial Advisory Boards,Business Ethics Journal Review,Media & communication
+410,Florian,Wettstein,Uni St. Gallen,USG,Saint Gallen,Co-Editor-in-Chief,Business and Human Rights Journal,Media & communication
+411,Florian,Wettstein,Uni St. Gallen,USG,Saint Gallen,Mitglied des Initiativkommitees,Konzernverantwortungsinitiative,"Society, Social, Culture & Sports"
+412,Florian,Wettstein,Uni St. Gallen,USG,Saint Gallen,Stiftungsrat,Brot für alle,"Politics, administration, justice system & security sector"
+413,Florian,Wettstein,Uni St. Gallen,USG,Saint Gallen,Stiftungsrat,Foundation for Responsible Leadership,"Society, Social, Culture & Sports"
+414,Florian,Elliker,Uni St. Gallen,USG,Saint Gallen,Research Fellow,University of the Free State,Education & research
+415,Francesco,Stellacci,ETH Lausanne,EPF,Lausanne,Scientific advisor,"Istituto Besta/Centro di Nanomedicina, Milano, Italy",Education & research
+416,Francesco,Stellacci,ETH Lausanne,EPF,Lausanne,"Co-editor in Chief, Nanoscale","Royal Chemistry Society, UK",Education & research
+417,Francesco,Stellacci,ETH Lausanne,EPF,Lausanne,Member of the Scientific Advisory Board,"Centro Europeo di Nanomedicina, Milano",Education & research
+418,Francesco,Stellacci,ETH Lausanne,EPF,Lausanne,Legal consultant,"Foley Hoag, Boston, USA","Consulting, public relations, legal & trust"
+419,Francesco,Stellacci,ETH Lausanne,EPF,Lausanne,"Invited Member, Scientific Advisory Board","Constellium, France","Industry, construction & agriculture"
+420,Francesco,Stellacci,ETH Lausanne,EPF,Lausanne,"Head, Scientific Advisory Board","Midatech, UK",Pharma & health
+421,Francesco,Stellacci,ETH Lausanne,EPF,Lausanne,"Editorial Board Member, Nature Communications","Nature Publishing Group, London, UD",Media & communication
+422,Frank,Scheffold,Uni Freiburg,UFR,Fribourg,Verwaltungsratspräsident,LS Instruments AG,"Industry, construction & agriculture"
+423,Frank,Stüber,Uni Bern,UBE,Bern,NA,Stiftung für die Forschung in Anästhesie und Intensivmedizin,Education & research
+424,Franz,Werro,Uni Freiburg,UFR,Fribourg,Rechtsberater,Selbstständig,Not classifiable
+425,Franz,Graf,USI Lugano,USI,Lugano,Professeur ordinaire,"Università della Svizzera italiana, Accademia di Architettura",Education & research
+426,Franz,Graf,USI Lugano,USI,Lugano,Architecte indépendant à Genève,"F. Graf & J. Menoud, Carouge","Industry, construction & agriculture"
+427,François,Avellan,ETH Lausanne,EPF,Lausanne,"Expertise du rendement des turbines de la centrale de La Higuera, Chili, dans le cadre d'une procédure juridique","Barros, Letelier & Gonzalez Attorneys at Law, Chile","Consulting, public relations, legal & trust"
+428,François,Dufresne,Uni Lausanne,ULA,Lausanne,Conseil d'administration,Etablissement Cantonal d'Assurance,"Society, Social, Culture & Sports"
+429,François,Avellan,ETH Lausanne,EPF,Lausanne,Associé minoritaire dans la start-up d'un ancien doctorant,"Power Vision Engineering Sàrl, Ecublens","Industry, construction & agriculture"
+430,François,Diederich,ETH Zürich,ETH,Zurich,Aufsichtsratsmandat,BASF Societas Europeae (Schweden),Technology
+431,Françoise Gisou van der,Goot Grunberg,ETH Lausanne,EPF,Lausanne,Conseil scientifique,"Fondation Bettencourt, Paris","Society, Social, Culture & Sports"
+432,Françoise Gisou van der,Goot Grunberg,ETH Lausanne,EPF,Lausanne,Conseil de fondation et Conseil Scientifique de la Fondation Jeantet,"Fondation Jeantet, Genève",Pharma & health
+433,Françoise Gisou van der,Goot Grunberg,ETH Lausanne,EPF,Lausanne,Scientific Advisory Board Clinical Research Department,Univ Bern,Education & research
+434,Françoise Gisou van der,Goot Grunberg,ETH Lausanne,EPF,Lausanne,Scientific Advisory Board,Laboratory of Excellence (Labex) INFORM,Education & research
+435,Françoise Gisou van der,Goot Grunberg,ETH Lausanne,EPF,Lausanne,EMBO YIP (Young Investigator Program) committee,"EMBO, Heidelberg",Education & research
+436,Françoise Gisou van der,Goot Grunberg,ETH Lausanne,EPF,Lausanne,Diverses commissions du SNF,SNF Bern,Education & research
+437,Françoise Gisou van der,Goot Grunberg,ETH Lausanne,EPF,Lausanne,Conseil Suisse de la Science et de l'Innovation,CSSI Bern,"Politics, administration, justice system & security sector"
+438,Freddy,Radtke,ETH Lausanne,EPF,Lausanne,Chairman of board of directors,"Cellestia Biotech SA, Innovation Square EPFL",Technology
+439,Freddy,Radtke,ETH Lausanne,EPF,Lausanne,Member of the scientific committee,"Swiss Cancer League, Bern",Pharma & health
+440,Friedrich,Eisenbrand,ETH Lausanne,EPF,Lausanne,Membre du conseil national de la recherche,"FNS division IV, Berne",Education & research
+441,Fritz,Schlunegger,Uni Bern,UBE,Bern,NA,Bretscher Stiftung,Education & research
+442,Fréderic,Krauskopf,Uni Bern,UBE,Bern,NA,A. Peneveyre SA,"Industry, construction & agriculture"
+443,Fréderic,Krauskopf,Uni Bern,UBE,Bern,NA,Fondation A. Peneveyre SA,Financial industry & insurances
+444,Fréderic,Krauskopf,Uni Bern,UBE,Bern,NA,Stiftung für Rechtsausbildung Luzern,Education & research
+445,Frédéric,Mila,ETH Lausanne,EPF,Lausanne,Committe member - Advanced Post-doc mobility,"SNSF, Berne",Education & research
+446,Frédéric,Kaplan,ETH Lausanne,EPF,Lausanne,Gérance,"OZWE, Lausanne",Technology
+447,Frédéric,Kaplan,ETH Lausanne,EPF,Lausanne,Enseignement,Université de Berne,Education & research
+448,Frédéric,Kaplan,ETH Lausanne,EPF,Lausanne,Enseignement,HEAD Genève,Education & research
+449,Frédéric,Kaplan,ETH Lausanne,EPF,Lausanne,Ecriture de chroniques,Le Temps,Media & communication
+450,Frédéric,Mila,ETH Lausanne,EPF,Lausanne,Editeur associé,"Europhysics Letters, Mulhouse, France",Media & communication
+451,Geoffrey,Bodenhausen,Uni Lausanne,ULA,Lausanne,Professeur,ENS Paris,Education & research
+452,Georg,von Schnurbein,Uni Basel,UBA,Basel,Präsident des Stiftungsrates,Stiftung zur Förderung des Antikenmuseums Basel,"Society, Social, Culture & Sports"
+453,Georg,von Schnurbein,Uni Basel,UBA,Basel,Präsident,Verein Europäische Freiwilligenuniversität,Education & research
+454,Georg,von Schnurbein,Uni Basel,UBA,Basel,Mitglied des Stiftungsrates,"Stiftung Institute for Value-based Enterprise, Fribourg","Consulting, public relations, legal & trust"
+455,Georg,Pfleiderer,Uni Basel,UBA,Basel,Präsident,Eidgenössische Ethikkommission für Biotechnologie (EKAH),"Politics, administration, justice system & security sector"
+456,Georg,Fantner,ETH Lausanne,EPF,Lausanne,Technical consultant,"GETec KG, Langenlois, Austria","Industry, construction & agriculture"
+457,Georg,Nöldeke,Uni Basel,UBA,Basel,Mitglied des Stiftungsrates,"Basler Kantonalbank, Stiftung zur Förderung von Forschung und Unterricht, Basel",Education & research
+458,Georg,Nöldeke,Uni Basel,UBA,Basel,Mitglied des Stiftungsrates,"Speiser-Bär-Stiftung, Basel",Education & research
+459,Georg,Fantner,ETH Lausanne,EPF,Lausanne,Technical consultant,"SCL-Sensor. Tech. Fabrication GesmbH, Vienna, Austria","Industry, construction & agriculture"
+460,Georg,von Schnurbein,Uni Basel,UBA,Basel,Mitglied des Stiftungsrates,"Roland von Hoesslin Gedenkstiftung, Augsburg, Deutschland",Not classifiable
+461,Georg,von Schnurbein,Uni Basel,UBA,Basel,Board member,European Research Network on Philanthropy,Education & research
+462,Georg Fredrik,von Krogh,ETH Zürich,ETH,Zurich,Geschäftsführer,Innovative Strategies GmbH,"Consulting, public relations, legal & trust"
+463,George,Candea,ETH Lausanne,EPF,Lausanne,CEO and President (while on leave),"CodeTickler, CA, USA",Technology
+464,Georges,Abou Jaoudé,ETH Lausanne,EPF,Lausanne,Professeur invité (2 interventions d'une semaine),"Kazan Federal University, Russia",Education & research
+465,Geraldine,Frei,Uni St. Gallen,USG,Saint Gallen,Vorsitzender des Verwaltungsrates,Algofin AG,"Consulting, public relations, legal & trust"
+466,Geraldine,Frei,Uni St. Gallen,USG,Saint Gallen,Mitglied des Verwaltungsrates,NeueBank AG,Financial industry & insurances
+467,Geraldine,Frei,Uni St. Gallen,USG,Saint Gallen,Mitglied des Verwaltungsrates,St. Galler Kantonalbank AG,Financial industry & insurances
+468,Gerd,Folkers,Uni Basel,UBA,Basel,VR-Mandat,AZAD Pharmaceutical Ingredients AG,Pharma & health
+469,Gerd,Folkers,Uni Basel,UBA,Basel,VR-Präsidium,PNN Pharma Nation Network AG,Pharma & health
+470,Gerhard,Tröster,ETH Zürich,ETH,Zurich,VR-Mandat,u-blox AG,"Industry, construction & agriculture"
+471,Gerhard,Tröster,ETH Zürich,ETH,Zurich,VR-Mandat,Amphiro AG,"Industry, construction & agriculture"
+472,Gerhard M.,Christofori,Uni Basel,UBA,Basel,Mitglied des Stiftungsrates,Hans Buss-Stiftung Basel,Education & research
+473,Gian-Paulo,Dotto,Uni Lausanne,ULA,Lausanne,NA,Massachusetts General Hospital,Pharma & health
+474,Gianluca,Crippa,Uni Basel,UBA,Basel,Vizepräsident,Bernoulli-Euler-Gesellschaft Basel,Education & research
+475,Giorgio,Margaritondo,ETH Lausanne,EPF,Lausanne,"Member, Consiglio di Fondazione USI","USI, Lugano",Education & research
+476,Giorgio,Margaritondo,ETH Lausanne,EPF,Lausanne,"Chief Editor, Journal of Physics D","Institute of Physics, London",Education & research
+477,Giorgio,Margaritondo,ETH Lausanne,EPF,Lausanne,Council President EC integrating initiative on synchrotrons (CALIPSO),"Sincrotrone Trieste, Italy",Education & research
+478,Giorgio,Margaritondo,ETH Lausanne,EPF,Lausanne,"Member, Board of Directors",Università di Pavia,Education & research
+479,Giorgio,Margaritondo,ETH Lausanne,EPF,Lausanne,"Member, Consulting Committee ANVUR","Ministero MIUR, Rome, Italy",Education & research
+480,Giorgio,Margaritondo,ETH Lausanne,EPF,Lausanne,"Member, Scientific Council","HuGeF, Turin",Education & research
+481,Giorgio,Margaritondo,ETH Lausanne,EPF,Lausanne,Membre de l'international advisory board,"Scuola Sant'Anna, Pisa, Italy",Education & research
+482,Giorgio,Margaritondo,ETH Lausanne,EPF,Lausanne,"President, Evaluation Committee (Nucleo di Valutazione), Politecnico di Torino",Politecnico di Torino,Education & research
+483,Giorgio,Margaritondo,ETH Lausanne,EPF,Lausanne,"President, Parish Council",Mission catholique anglophone du canton de Vaud,"Society, Social, Culture & Sports"
+484,Giorgio,Margaritondo,ETH Lausanne,EPF,Lausanne,"President, Scientific and Technological Committee",Istituto Italiano di Tecnololgia (IIT),Education & research
+485,Giovanni,Dietler,ETH Lausanne,EPF,Lausanne,"Membre du Conseil de la Fondation Monte Verità, Ascona, représentant EPFL",EPFL,Education & research
+486,Giovanni,de Micheli,ETH Lausanne,EPF,Lausanne,ALARI / Instructor,"USI, Lugano, CH",Education & research
+487,Giovanni,Dietler,ETH Lausanne,EPF,Lausanne,Membre du Conseil Scientifique,"Adolphe Merkle Institute, Université de Fribourg",Education & research
+488,Giovanni,de Micheli,ETH Lausanne,EPF,Lausanne,CfAED Techn. Advisory board,"Dresden, D","Politics, administration, justice system & security sector"
+489,Giovanni,de Micheli,ETH Lausanne,EPF,Lausanne,IMEC Techn. Advisory board,"IMEC, Leuven, B",Education & research
+490,Giovanni,Dietler,ETH Lausanne,EPF,Lausanne,Membre de la commission d'evaluation des profs boursiers SNF,"SNF, Berne",Education & research
+491,Giovanni,Dietler,ETH Lausanne,EPF,Lausanne,Membre du Conseil Communal,Echandens,"Politics, administration, justice system & security sector"
+492,Giuliano,Bonoli,Uni Lausanne,ULA,Lausanne,Mandat,Commission fédérale des questions familiales,"Society, Social, Culture & Sports"
+493,Giuliano,Bonoli,Uni Lausanne,ULA,Lausanne,Mandat,Centre de formation professionnel spécialisé ORIF,Education & research
+494,Grégoire,Courtine,ETH Lausanne,EPF,Lausanne,Enseignement de cours Master,"DNF, UNIL, Lausanne",Education & research
+495,Grégoire,Courtine,ETH Lausanne,EPF,Lausanne,Création de Start-up,G-Therapeutics SA,Pharma & health
+496,Gudela,Grote,ETH Zürich,ETH,Zurich,Stiftungsrat,"Stiftung zur Föderung der Forschung und Ausbildung in Unternehmenswiss., ETH Zürich",Education & research
+497,Gunter,Stephan,Uni Bern,UBE,Bern,NA,phw bern,Education & research
+498,Gábor,Székely,ETH Zürich,ETH,Zurich,VR-Mandat,Virtamed AG,Pharma & health
+499,Gérard,Bless,Uni Freiburg,UFR,Fribourg,Leitung des regionalen Schuldienstes des Heilpädagogischen Instituts,Universität Freiburg,Education & research
+500,Günter,Müller-Stewens,Uni St. Gallen,USG,Saint Gallen,Mitglied der Leitung,Verein Katholisches Akademikerhaus/Katholisches Studentenhaus,"Society, Social, Culture & Sports"
+501,Günter,Müller-Stewens,Uni St. Gallen,USG,Saint Gallen,Mitglied der Jury,Peter Werhahn-Preis,Education & research
+502,Günter,Müller-Stewens,Uni St. Gallen,USG,Saint Gallen,Herausgeber,M&A Review,Media & communication
+503,Günter,Müller-Stewens,Uni St. Gallen,USG,Saint Gallen,Mitglied des Vorstandes,Schweizerische Gesellschaft für Organisation SGO,Education & research
+504,Günter,Müller-Stewens,Uni St. Gallen,USG,Saint Gallen,Mitglied des Verwaltungsrats,Elbet AG,"Industry, construction & agriculture"
+505,Günter,Müller-Stewens,Uni St. Gallen,USG,Saint Gallen,Mitglied im Herausgeberbeirat,Zeitschrift Die Unternehmung,Media & communication
+506,Günter,Müller-Stewens,Uni St. Gallen,USG,Saint Gallen,Mitglied im Herausgeberbeirat,Zeitschrift für Management,Media & communication
+507,Günter,Müller-Stewens,Uni St. Gallen,USG,Saint Gallen,Mitglied des Stiftungsrates,Master of Law and Economics,Not classifiable
+508,Günter,Müller-Stewens,Uni St. Gallen,USG,Saint Gallen,Mitglied des Aufsichtsrats,EGT AG,"Energy, environment & mobility"
+509,Günter,Müller-Stewens,Uni St. Gallen,USG,Saint Gallen,Mitglied der Vor-und Hauptjury,St. Gallen Symposium,Education & research
+510,Hannes,Weigt,Uni Basel,UBA,Basel,Mitglied des Beirats,Energieagentur Landkreis Lörrach GmbH,"Energy, environment & mobility"
+511,Hans H.,Hirsch,Uni Basel,UBA,Basel,Mitglied des Stiftungsrates,Stiftung Infektiologie beider Basel,Technology
+512,Hans Jörg,Peter,Uni Lausanne,ULA,Lausanne,Mandat,Une administration de faillite non spécifié,Media & communication
+513,Hans Peter,Herzig,ETH Lausanne,EPF,Lausanne,Member of different program committees,Various international conferences,Not classifiable
+514,Hans Peter,Herzig,ETH Lausanne,EPF,Lausanne,Board member,Swiss Society for Optics and Microscopy SSOM,Education & research
+515,Hans Peter,Herzig,ETH Lausanne,EPF,Lausanne,Vice-president (until August 2014),International Commission for Optics ICO,Education & research
+516,Hans Peter,Herzig,ETH Lausanne,EPF,Lausanne,Reviewer,National and international scientific projects,Not classifiable
+517,Hans Peter,Herzig,ETH Lausanne,EPF,Lausanne,Lecturer (2days),Micro-Optics lecture FSRM,Technology
+518,Hans Peter,Herzig,ETH Lausanne,EPF,Lausanne,Chairman of the editorial board,Journal of the Europ. Opt. Soc. (JEOS: RP),Media & communication
+519,Hans-Andrea,Loeliger,ETH Zürich,ETH,Zurich,Ko-Geschäftsführer,Anadec GmbH,"Consulting, public relations, legal & trust"
+520,Hans-Andrea,Loeliger,ETH Zürich,ETH,Zurich,VR-Mandat,Endora Tech AG,Technology
+521,Hans-Uwe,Simon,Uni Bern,UBE,Bern,NA,Fondation pour la recherche Lausanne,Education & research
+522,Hans-Uwe,Simon,Uni Bern,UBE,Bern,NA,"Novartis, Forschungsstiftung",Pharma & health
+523,Hans-Uwe,Simon,Uni Bern,UBE,Bern,NA,"Universität Bern, Forschungsstiftung",Education & research
+524,Harald,Brune,ETH Lausanne,EPF,Lausanne,"Conseiller national, Présedent de la division 2 du Fond National","Fond National pour la Recherche en Suisse, Bern",Education & research
+525,Harald,Brune,ETH Lausanne,EPF,Lausanne,Hans-Fischer Senior Fellow,"Institute of Advanced Studies, Technical University of Munich, Garching",Education & research
+526,Harley,Krohmer,Uni Bern,UBE,Bern,NA,"Brandinvest AG, Verwaltungsrat",Financial industry & insurances
+527,Harley,Krohmer,Uni Bern,UBE,Bern,NA,Stiftung Haus der Universität Bern,Education & research
+528,Harm-Anton,Klok,ETH Lausanne,EPF,Lausanne,Teaching/Guest professor,"Soochow University, China",Education & research
+529,Harris,Dellas,Uni Bern,UBE,Bern,NA,Study Center Gerzensee,Education & research
+530,Harry,Gugger,ETH Lausanne,EPF,Lausanne,"Board Member, Academic Committee Member Holcim Foundation","Holcim Group Services Ltd/ Holcim Technology Ltd, Zurich","Commerce, trade & services"
+531,Harry,Gugger,ETH Lausanne,EPF,Lausanne,Board Director,"HGS (Harry Gugger Studio), Basel","Industry, construction & agriculture"
+532,Harry,Gugger,ETH Lausanne,EPF,Lausanne,Committee Member BSA Forschungsstipendium,"BSA CH, Basel","Industry, construction & agriculture"
+533,Harry,Gugger,ETH Lausanne,EPF,Lausanne,"Member of Advisory Board, The Circle at Zurich Airport","Flughafen ZHAG, Zurich","Energy, environment & mobility"
+534,Harry,Gugger,ETH Lausanne,EPF,Lausanne,"Member of the Advisory Board, Studiengang Kulturmanagement Uni Basel","SKM, UniBasel, Basel",Education & research
+535,Hato,Schmeiser,Uni St. Gallen,USG,Saint Gallen,Beratungstätigkeiten für Mitglieder,I.VW-Forschungskreis,Education & research
+536,Hato,Schmeiser,Uni St. Gallen,USG,Saint Gallen,Präsident,European Group of Risk and Insurance Economist EGRIE,Education & research
+537,Hedwig J.,Kaiser,Uni Basel,UBA,Basel,Mitglied des Verwaltungsrates,UKBB,Pharma & health
+538,Hedwig J.,Kaiser,Uni Basel,UBA,Basel,Mitglied des Stiftungsrates,Stiftungsrat FRIAS,Education & research
+539,Hedwig J.,Kaiser,Uni Basel,UBA,Basel,Mitglied des Aufsichtsrates,Universitätsklinikum Heidelberg,Pharma & health
+540,Heike,Mayer,Uni Bern,UBE,Bern,NA,Rat für Raumordnung,"Politics, administration, justice system & security sector"
+541,Heike,Bruch,Uni St. Gallen,USG,Saint Gallen,Verwaltungsratspräsidentin und Gründerin,Energy factory,"Consulting, public relations, legal & trust"
+542,Heike,Bruch,Uni St. Gallen,USG,Saint Gallen,Mitglied des Vorstandes,Deutsche Gesellschaft für Personalführung DGFP,"Commerce, trade & services"
+543,Heike,Bruch,Uni St. Gallen,USG,Saint Gallen,Mitglied des Vorstandes,Das Demographienetzwerk ddn,"Society, Social, Culture & Sports"
+544,Heike,Bruch,Uni St. Gallen,USG,Saint Gallen,Mitglied des Fachrates,Schweizer Kaderorganisation SKO,"Commerce, trade & services"
+545,Heinrich,Hofmann,ETH Lausanne,EPF,Lausanne,Member Advisory Committee,University of Bremen,Education & research
+546,Heinrich,Hofmann,ETH Lausanne,EPF,Lausanne,Member steering committee NFP 64 Opportunities and Risk of Nanomaterials,"Schweizerischer Nationalfonds, Bern",Education & research
+547,Heinrich,Hofmann,ETH Lausanne,EPF,Lausanne,Member Advisory Committee,"Nanotec, Thailand Science Park, Thailand",Education & research
+548,Heinrich,Hofmann,ETH Lausanne,EPF,Lausanne,"Expert Nanotechnology and Nanomaterials, Nanoregulation (Nanoreg WP2)",Federal Office for the Environment FOEN,"Energy, environment & mobility"
+549,Heinrich,Hofmann,ETH Lausanne,EPF,Lausanne,"Expert Nanotechnology and Nanomaterials, Nanoregulation (Nanoreg WP1)",Federal Office of Public Health,Pharma & health
+550,Heinrich,Hofmann,ETH Lausanne,EPF,Lausanne,Board of Directors,"ANTIA Therapeutics, Bern",Pharma & health
+551,Heinz,Zimmermann,Uni Basel,UBA,Basel,Verwaltungsrat inkl. Präsidium Vorsorgestiftung,"Viollier AG, Allschwil",Pharma & health
+552,Heinz,Zimmermann,Uni Basel,UBA,Basel,Mitglied des Stiftungsrates,"BIZ-Stiftung c/o Dr. Carlo Bertossa, Basel",Not classifiable
+553,Heinz,Zimmermann,Uni Basel,UBA,Basel,Mitglied des Stiftungsrates,Stiftung zur Förderung des Schweizerischen Wirtschaftsarchivs am WWZ der Universität Basel,Education & research
+554,Heinz,Zimmermann,Uni Basel,UBA,Basel,Mitglied des Verwaltungsrates,"Remaco AG, Basel","Consulting, public relations, legal & trust"
+555,Heinz,Zimmermann,Uni Basel,UBA,Basel,Mitglied des Verwaltungsrates,"Versicherung der Schweizer Ärzte, Bern",Financial industry & insurances
+556,Heinz,Zimmermann,Uni Basel,UBA,Basel,Mitglied des Verwaltungsrates,"vescore Solutions, St. Gallen","Consulting, public relations, legal & trust"
+557,Helma Barblin,Wennemers,ETH Zürich,ETH,Zurich,VR-Mandat,Bachem Holding AG,Pharma & health
+558,Henry,Markram,ETH Lausanne,EPF,Lausanne,Chairman (en liquidation),"Blue Brain SA, Epalinges, CH",Education & research
+559,Henry,Markram,ETH Lausanne,EPF,Lausanne,University of Massachussetts: Paid consultant on ONR research project,Amherst - USA,Not classifiable
+560,Henry,Markram,ETH Lausanne,EPF,Lausanne,"Frontiers Research Foundation, President","PSE-D, Ecublens, CH","Politics, administration, justice system & security sector"
+561,Henry,Markram,ETH Lausanne,EPF,Lausanne,President (en liquidation),"Blue Brain Foundation, Epalinges, CH",Education & research
+562,Hervé,Bourlard,ETH Lausanne,EPF,Lausanne,Member of the Foundation Council,Fondation Dalle Molle,"Society, Social, Culture & Sports"
+563,Hervé,Bourlard,ETH Lausanne,EPF,Lausanne,Director,Idiap Research Institute,Education & research
+564,Hervé,Bourlard,ETH Lausanne,EPF,Lausanne,Member of the Advisory Board,"Voxta Inc., India",Media & communication
+565,Hervé,Bourlard,ETH Lausanne,EPF,Lausanne,Board of directors and shareholder,"Koemei, SA (Idiap's spin-off)",Technology
+566,Hervé,Bourlard,ETH Lausanne,EPF,Lausanne,Member of the Advisory Board,"Privately SA, Switzerland",Technology
+567,Hervé,Bourlard,ETH Lausanne,EPF,Lausanne,Member (vice-president) of the Board of Directors,IdeArk SA (IDIAP's technology transfer instrument),"Consulting, public relations, legal & trust"
+568,Hervé,Bourlard,ETH Lausanne,EPF,Lausanne,External Fellow and Member of the Board of Trustees,"Intl. Computer Science Institute (ICSI), Berkeley, CA",Education & research
+569,Hilal,Lashuel,ETH Lausanne,EPF,Lausanne,Scientific Advisory Board Member,Brain forum,Education & research
+570,Hilal,Lashuel,ETH Lausanne,EPF,Lausanne,"Executive Director, Qatar Biomedical Research Institute (while on leave)","Qatar Foundation, Doha Qatar",Education & research
+571,Hilal,Lashuel,ETH Lausanne,EPF,Lausanne,Executive Committee Member,IBRO,Education & research
+572,Hubert,Steinke,Uni Bern,UBE,Bern,NA,Fondation Gustave Dubois,Education & research
+573,Hubert,Girault,ETH Lausanne,EPF,Lausanne,"Membre de la commission fédérale d'examen, nommé par le Conseil Fédéral ; domaine : électrochimie","Direction générale des douanes, Berne","Politics, administration, justice system & security sector"
+574,Hubert,Girault,ETH Lausanne,EPF,Lausanne,Associate Editor - Chemical Science,"Royal Society of Chemistry, Cambridge, UK",Education & research
+575,Hubert,Steinke,Uni Bern,UBE,Bern,NA,Albrecht-von-Haller-Stiftung der Burgergemeinde Bern,Education & research
+576,Hubert,Girault,ETH Lausanne,EPF,Lausanne,"Membre du Conseil de Fondation, vice-président ; domaine : éditions scientifiques",PPUR - EPFL,Education & research
+577,Hubert,Steinke,Uni Bern,UBE,Bern,NA,Guggenheim-Stiftung für Geschichte der Medizin,Education & research
+578,Hubert,Steinke,Uni Bern,UBE,Bern,NA,Paul- und Johanna Röthlisberger-Schmid-Stiftung,Education & research
+579,Hubert,Steinke,Uni Bern,UBE,Bern,NA,Psychiatrie-Museum Bern,"Society, Social, Culture & Sports"
+580,Hubert,Steinke,Uni Bern,UBE,Bern,NA,"Stiftung Dr. Ed. Müller, Beromünster","Society, Social, Culture & Sports"
+581,Hubert,Klumpner,ETH Zürich,ETH,Zurich,Stiftungsrat,Stiftung Bibliothek Werner Oechslin,"Society, Social, Culture & Sports"
+582,Hubert,Girault,ETH Lausanne,EPF,Lausanne,Membre du Jury et Mentor ; domaine : promotion de la recherche scientifique,"Fondation Carnot, Neuilly s/Seine",Education & research
+583,Hugo,Zbinden,Uni Genf,UGE,Geneva,Membre du conseil d'administration,SIG,"Energy, environment & mobility"
+584,Hugues,Abriel,Uni Bern,UBE,Bern,NA,Cloetta Stiftung,Education & research
+585,Ian,Sanders,Uni Lausanne,ULA,Lausanne,Mandat,Schweizerischer Nationalfonds (SNF),Education & research
+586,Ian,Smith,ETH Lausanne,EPF,Lausanne,Adjunct Professor/Prof. Titulaire (teaching),"Carnegie Mellow University, USA",Education & research
+587,Ina,Habermann,Uni Basel,UBA,Basel,Mitglied des Stiftungsrates,"Telebasel, Basel",Media & communication
+588,Ingeborg,Schwenzer,Uni Basel,UBA,Basel,Präsidentin des Stiftungsrates,"Stiftung Swiss International Law School, Basel",Education & research
+589,Inès,Devanthéry-Lamunière,ETH Lausanne,EPF,Lausanne,Associée,"dl-a, designlab-architecture SA, Genève","Industry, construction & agriculture"
+590,Ioannis,Papadopoulos,Uni Lausanne,ULA,Lausanne,Mandat,Schweizerischer Nationalfonds (SNF),Education & research
+591,Ioannis,Botsis,ETH Lausanne,EPF,Lausanne,"Scientific Consultant in 2 projects, THALES, Greece","University of Piraeus, Grèce",Education & research
+592,Iris,Baumgartner,Uni Bern,UBE,Bern,NA,Spital Thun AG,Pharma & health
+593,Iris,Baumgartner,Uni Bern,UBE,Bern,NA,Unitectra,"Consulting, public relations, legal & trust"
+594,Ivan,Rodriguez,Uni Genf,UGE,Geneva,Membre du comité,Wright Foundation,"Society, Social, Culture & Sports"
+595,Ivan,Rodriguez,Uni Genf,UGE,Geneva,Membre du comité,Gensuisse,"Society, Social, Culture & Sports"
+596,Jacques,Dubey,Uni Freiburg,UFR,Fribourg,Rechtsberater,Selbstständig,Not classifiable
+597,James,Larus,ETH Lausanne,EPF,Lausanne,Huawei Distributed Computing Lab Advisory Board,"America Software Lab, Santa Clara, CA",Technology
+598,James W.,Davis,Uni St. Gallen,USG,Saint Gallen,Mitglied des Verwaltungsrates,Paradigm Capital Partners,Financial industry & insurances
+599,James W.,Davis,Uni St. Gallen,USG,Saint Gallen,Mitglied der Parlamentarischen Kommission zur Überprüfung und Sicherung der Parlamentsrechte bei der Mandatierung von Auslandseinsätzen der Bundeswehr,Deutscher Bundestag,"Politics, administration, justice system & security sector"
+600,Jan Marco,Leimeister,Uni St. Gallen,USG,Saint Gallen,Diverse gutachterliche und beratende Tätigkeiten,High Tech Gründerfonds,Financial industry & insurances
+601,Jan Marco,Leimeister,Uni St. Gallen,USG,Saint Gallen,Diverse gutachterliche und beratende Tätigkeiten,Volkswagen,"Energy, environment & mobility"
+602,Jan Marco,Leimeister,Uni St. Gallen,USG,Saint Gallen,Diverse gutachterliche und beratende Tätigkeiten,EQT,Financial industry & insurances
+603,Jan Marco,Leimeister,Uni St. Gallen,USG,Saint Gallen,Diverse gutachterliche und beratende Tätigkeiten,EU,"Politics, administration, justice system & security sector"
+604,Jan Marco,Leimeister,Uni St. Gallen,USG,Saint Gallen,Beirat,United Digital Group UDG,"Consulting, public relations, legal & trust"
+605,Jan Marco,Leimeister,Uni St. Gallen,USG,Saint Gallen,Professor,Universität Kassel,Education & research
+606,Jan Sickmann,Hesthaven,ETH Lausanne,EPF,Lausanne,Evaluation committee for INRIA,"INRIA, France",Education & research
+607,Jan Sickmann,Hesthaven,ETH Lausanne,EPF,Lausanne,Evaluation panel for NSF,"NSF, US",Education & research
+608,Jan Sickmann,Hesthaven,ETH Lausanne,EPF,Lausanne,Scientific advisory board,"SRI-UQ, KAUST, KSA",Education & research
+609,Jan-Anders,Manson,ETH Lausanne,EPF,Lausanne,Membre du conseil de fondation (as EPFL),"AISTS, EPFL-Innovation Park, Lausanne",Education & research
+610,Jan-Anders,Manson,ETH Lausanne,EPF,Lausanne,Membre du conseil d'administration,"EELCEE Ltd., Korea","Industry, construction & agriculture"
+611,Jan-Anders,Manson,ETH Lausanne,EPF,Lausanne,Membre du conseil d'administration,"Hexpol AB, Malmö, Suède",Technology
+612,Jan-Anders,Manson,ETH Lausanne,EPF,Lausanne,Membre du conseil de fondation (as EPFL),"Antidoping Suisse, Berne",Pharma & health
+613,Janet,Hering,ETH Lausanne,EPF,Lausanne,"Member, GAIA Advisory Board (06.2008 - present)",GAIA,Not classifiable
+614,Janet,Hering,ETH Lausanne,EPF,Lausanne,"Chair, Advisory Board (09.2009 - present)","Leibniz Insitute of Freshwater Ecology and Inland Fisheries, Berlin, Germany",Education & research
+615,Janet,Hering,ETH Lausanne,EPF,Lausanne,Member,"Swiss Hydrological Commission, Swiss Academy of Sciences","Politics, administration, justice system & security sector"
+616,Janet,Hering,ETH Lausanne,EPF,Lausanne,Member,U.S. National Academy of Engineering,Education & research
+617,Janet,Hering,ETH Lausanne,EPF,Lausanne,Member (11.2009 - present),ETH Board Committee on Competence Centers (BCC),Education & research
+618,Janet,Hering,ETH Lausanne,EPF,Lausanne,Member of organizing team for one session (05.2013 - 11.2014),"2014 IARU Congress, Copenhagen, Denmark",Education & research
+619,Janet,Hering,ETH Lausanne,EPF,Lausanne,Member of the board,Fondation pour l’Etude des Eaux du Léman,Education & research
+620,Janet,Hering,ETH Lausanne,EPF,Lausanne,Member Scientific Advisory Board,Helmholtz Zentrum für Umweltforschung (UFZ),Education & research
+621,Janet,Hering,ETH Lausanne,EPF,Lausanne,Member visiting committee (09.2011 - present),"MIT Dept. of Civil and Environmental Engineering, USA",Education & research
+622,Janet,Hering,ETH Lausanne,EPF,Lausanne,"Member, Advisory Board (11.2012 - present)","Water institute, Stellenbosch University",Education & research
+623,Janet,Hering,ETH Lausanne,EPF,Lausanne,"Member, Board of reviewing editors (01.2010 - present)",Science,Not classifiable
+624,Janet,Hering,ETH Lausanne,EPF,Lausanne,"Member, Scientific Advisory Board (10.2013 - present)","AquaDiva, Fredrich-Schiller-Universität Jena, Germany",Education & research
+625,Janet,Hering,ETH Lausanne,EPF,Lausanne,"Member, Scientific and Technical Council (01.2013 - present)","IRGC, EPFL, Lausanne",Education & research
+626,Janet,Hering,ETH Lausanne,EPF,Lausanne,"Member, Steering Board (01.2007 - present)",CCES Competence Center Environment and Sustainability,Education & research
+627,Janet,Hering,ETH Lausanne,EPF,Lausanne,Scientific Director  (01.2013 - present),"EPFL CRAG, Lausanne",Education & research
+628,Janet,Hering,ETH Lausanne,EPF,Lausanne,Vice President,ETH Women Professors Forum,"Society, Social, Culture & Sports"
+629,Jean-Baptiste,Zufferey,Uni Freiburg,UFR,Fribourg,Verwaltungsrat,Eidgenössische Finanzmarktaufsicht FINMA,"Politics, administration, justice system & security sector"
+630,Jean-Claude,Reubi,Uni Bern,UBE,Bern,NA,Yde Foundation Kopenhagen,Pharma & health
+631,Jean-François,Dufour,Uni Bern,UBE,Bern,NA,Stiftung für Leberkrankheiten,Pharma & health
+632,Jean-François,Molinari,ETH Lausanne,EPF,Lausanne,Panel Synergia FNS,FNS,Education & research
+633,Jean-François,Dufour,Uni Bern,UBE,Bern,NA,Stiftung gegen Leberkrebs,Pharma & health
+634,Jean-Jacques,Aubert,Uni Neuenburg,UNE,Neuchâtel,Député,Grand Conseil NE,"Politics, administration, justice system & security sector"
+635,Jean-Jacques,Aubert,Uni Neuenburg,UNE,Neuchâtel,Vice-président,Académie suisse des sciences humaines et sociales,"Society, Social, Culture & Sports"
+636,Jean-Louis,Scartezzini,ETH Lausanne,EPF,Lausanne,IPCC Working group III (mitigation),"PROCLIM/SCNAT, Berne","Energy, environment & mobility"
+637,Jean-Louis,Scartezzini,ETH Lausanne,EPF,Lausanne,VELUX Foundation Workshop,"VELUX Stiftung, Zurich",Education & research
+638,Jean-Louis,Scartezzini,ETH Lausanne,EPF,Lausanne,EIRP Projects Evaluation Panel,"BCA, Singapore",Not classifiable
+639,Jean-Marie,Annoni,Uni Freiburg,UFR,Fribourg,Neurologe,Freiburger Spital,Pharma & health
+640,Jean-Philippe,Thiran,Uni Lausanne,ULA,Lausanne,Consultant (7 jours),"Airbus EADS, France","Energy, environment & mobility"
+641,Jean-Philippe,Dunand,Uni Neuenburg,UNE,Neuchâtel,Conseil externe dans l'étude d'avocats,Athemis,"Consulting, public relations, legal & trust"
+642,Jean-Philippe,Thiran,Uni Lausanne,ULA,Lausanne,Professeur associé ad personam,"Université de Lausanne, faculté de médecine",Education & research
+643,Jean-Pierre,Métraux,Uni Freiburg,UFR,Fribourg,Forschungsrat der Abteilung Biologie und Medizin,Schweizer Nationalfonds SNF,Education & research
+644,Jean-Pierre,Hubaux,ETH Lausanne,EPF,Lausanne,Membre du régulateur fédéral des télécoms,"ComCom, Berne","Politics, administration, justice system & security sector"
+645,Jeffrey,Huang,ETH Lausanne,EPF,Lausanne,"Co-Founder and Advisor (Design Firm), while on leave","Convergeo Lausanne, Switzerland","Industry, construction & agriculture"
+646,Jeffrey,Huang,ETH Lausanne,EPF,Lausanne,"Co-Founder and Advisor (Software and Service Firm), while on leave","Eversitas LLC Cambridge, Massachussetts",Technology
+647,Jeffrey,Huang,ETH Lausanne,EPF,Lausanne,"Head of Pillar and Advisor (Educational Institution), while on leave",SUTD Architecture and Sustainable Design Singapore,Education & research
+648,Jeffrey Alan,Hubbell,ETH Lausanne,EPF,Lausanne,Legal consulting,"Taylor Wessing, London","Consulting, public relations, legal & trust"
+649,Jeffrey Alan,Hubbell,ETH Lausanne,EPF,Lausanne,Adjunct Professor (uncompensated),"Diabetes Research Institute, University of Miami, USA",Education & research
+650,Jeffrey Alan,Hubbell,ETH Lausanne,EPF,Lausanne,Board of Directors,"Lanta Bio Sàrl, Préverenges",Technology
+651,Jeffrey Alan,Hubbell,ETH Lausanne,EPF,Lausanne,Board of Directors,"Lumberjack, AG, Basel",Pharma & health
+652,Jeffrey Alan,Hubbell,ETH Lausanne,EPF,Lausanne,Board of Directors,"Lumberjill, Inc., Boston","Commerce, trade & services"
+653,Jeffrey Alan,Hubbell,ETH Lausanne,EPF,Lausanne,Board of Directors,"Morphogene, SA, Préverenges",Pharma & health
+654,Jeffrey Alan,Hubbell,ETH Lausanne,EPF,Lausanne,"Board of Directors, Chief Scientific Advisor","Kuros Biosurgery, Zürich",Technology
+655,Jeffrey Alan,Hubbell,ETH Lausanne,EPF,Lausanne,"Chief Scientific Advisor, Board of Directors","Anokion SA, Lausanne",Pharma & health
+656,Jeffrey Alan,Hubbell,ETH Lausanne,EPF,Lausanne,Legal consulting,"McAndrews, Held and Malloy, Chicago, USA","Consulting, public relations, legal & trust"
+657,Jeffrey Alan,Hubbell,ETH Lausanne,EPF,Lausanne,Owner,"Argo Innovations, Atlanta","Consulting, public relations, legal & trust"
+658,Jian,Zhao,ETH Lausanne,EPF,Lausanne,"Professor of Geomechanics (full-time), while on leave","Monash University, Australia",Education & research
+659,Jian,Zhao,ETH Lausanne,EPF,Lausanne,"Editor in chief, Tunnelling and Underground Space Technology, while on leave","Elsevier, Oxford, UK",Media & communication
+660,Jian,Zhao,ETH Lausanne,EPF,Lausanne,"Independent director (non-executive), while on leave",Terratech Group Ltd,Financial industry & insurances
+661,Jieping,Zhu,ETH Lausanne,EPF,Lausanne,Editorial board member,Asian. J. Org. Chem. Wiley,Media & communication
+662,Jieping,Zhu,ETH Lausanne,EPF,Lausanne,Editorial board member,"Eur. J. Org. Chem., Wiley",Media & communication
+663,Jieping,Zhu,ETH Lausanne,EPF,Lausanne,Editorial board member,"Beistein J Org Chem, Beilstin Institute, Germany",Media & communication
+664,Jieping,Zhu,ETH Lausanne,EPF,Lausanne,Consultant,Novartis,Pharma & health
+665,Jieping,Zhu,ETH Lausanne,EPF,Lausanne,Committee member,Institut de Chimie de Lyon,Education & research
+666,Jieping,Zhu,ETH Lausanne,EPF,Lausanne,Committee member Labex SynOrg,"INSA, France",Education & research
+667,Jieping,Zhu,ETH Lausanne,EPF,Lausanne,Scientific Advisory Board Member,"Inflamalps, Switzerland",Pharma & health
+668,Jieping,Zhu,ETH Lausanne,EPF,Lausanne,Editorial board member,"J. Antibiotics, Nature Publisher",Media & communication
+669,Joachim,Lingner,ETH Lausanne,EPF,Lausanne,ERC starting grant review panel,"ERC Executive Agency, Brussels",Education & research
+670,Joerg,Hofstetter,Uni St. Gallen,USG,Saint Gallen,Verwaltungsratsmitglied,Inneco AG (link),"Consulting, public relations, legal & trust"
+671,Joerg,Hofstetter,Uni St. Gallen,USG,Saint Gallen,Präsident,International Forum on Sustainable Value Chains ISVC,Education & research
+672,Johan,Auwerx,ETH Lausanne,EPF,Lausanne,Biomedical consulting - Founder and BOD (Director - approved by EPFL),"Reamol Biomedical Consultung, Buchillon, CH","Consulting, public relations, legal & trust"
+673,Johan,Auwerx,ETH Lausanne,EPF,Lausanne,Mitochondrial metabolism and deseases - Founder & SAB member,"Mitobridge, Cambridge, MA, USA",Technology
+674,Johan,Auwerx,ETH Lausanne,EPF,Lausanne,Nutraceuticals - SAB member,"Amazentis, Ecublens, Switzerland",Technology
+675,Johan,Auwerx,ETH Lausanne,EPF,Lausanne,Nutrition & Phytochemistry - Founder & Consultant,"PhytoDia, Illkirch, France",Pharma & health
+676,Johan,Auwerx,ETH Lausanne,EPF,Lausanne,NAD metabolism - SAB member,"Metro Mid-Atalantic Biotech, Birmingham, MI, USA",Technology
+677,Johan Olof Anders,Robertsson,ETH Zürich,ETH,Zurich,Geschäftsführer,Robertsson Industrial Geoscience Innovation GmbH,"Industry, construction & agriculture"
+678,Johannes,Rüegg-Stürm,Uni St. Gallen,USG,Saint Gallen,Verwaltungsratspräsident,Raiffeisen Schweiz,Financial industry & insurances
+679,Johannes,Heverhagen,Uni Bern,UBE,Bern,NA,PET-AG Bern,Pharma & health
+680,John,Antonakis,Uni Lausanne,ULA,Lausanne,NA,Activités académiques,Education & research
+681,Jonathan,Levine,ETH Zürich,ETH,Zurich,Stiftungsrat,Stiftung Geobotanisches Forschungsinstitut Rübel,Education & research
+682,Josef,Mondl,Uni St. Gallen,USG,Saint Gallen,"Redner, Berater",Selbstständig,Not classifiable
+683,Joseph,Sifakis,ETH Lausanne,EPF,Lausanne,Consulting,"Crossing Tech, EPFL - Innovation Park",Education & research
+684,Joseph,Francois,Uni Bern,UBE,Bern,NA,"Board Member, European Trade Study Group",Education & research
+685,Joseph,Francois,Uni Bern,UBE,Bern,NA,"Board Member, Global Trade Analysis Project",Education & research
+686,Joseph,Francois,Uni Bern,UBE,Bern,NA,"Board Member, Institute for Int'l & Development Econ.",Education & research
+687,Joseph,Sifakis,ETH Lausanne,EPF,Lausanne,Consulting,"CEA/DRT, Grenoble, France",Education & research
+688,José del Rocío,Millán Ruiz,ETH Lausanne,EPF,Lausanne,Sociétaire sans droit de signature,"ADREAM, Crans-Montana, Switzerland",Education & research
+689,José del Rocío,Millán Ruiz,ETH Lausanne,EPF,Lausanne,Science Advisory Board,"Nielsen Neuro. New York, USA","Consulting, public relations, legal & trust"
+690,José del Rocío,Millán Ruiz,ETH Lausanne,EPF,Lausanne,Scientific Advisory Board,"MindMaze, Ecublens",Technology
+691,Joël,Mesot,ETH Lausanne,EPF,Lausanne,Stiftungsratsvizepräsident,Marcel-Benoist,Education & research
+692,Joël,Mesot,ETH Lausanne,EPF,Lausanne,Member,VR Trägerschaft ParkInnovAARE,"Commerce, trade & services"
+693,Joël,Mesot,ETH Lausanne,EPF,Lausanne,Member,Helmholtz Senate,Education & research
+694,Joël,Mesot,ETH Lausanne,EPF,Lausanne,Member,European Association of National Research Facilities Laboratories,Education & research
+695,Joël,Mesot,ETH Lausanne,EPF,Lausanne,Int. Science Policy Comm.,"Kurchatov Institute, Russia",Education & research
+696,Joël,Mesot,ETH Lausanne,EPF,Lausanne,Scientific Advisory Board,"FRM-II, Munich",Education & research
+697,Joël,Mesot,ETH Lausanne,EPF,Lausanne,Neutron Adv. Board,Oak Ridge National Lab. USA,Education & research
+698,Joël,Mesot,ETH Lausanne,EPF,Lausanne,Steering Committee,ESS,Not classifiable
+699,Joël,Mesot,ETH Lausanne,EPF,Lausanne,Stiftungrat,Technopark Aargau,"Commerce, trade & services"
+700,Juan Ramon,Mosig,ETH Lausanne,EPF,Lausanne,Chair of the EURAAP Board (jusqu'à Dec 2015),European Association of Antennas and Propoagation,Education & research
+701,Juan Ramon,Mosig,ETH Lausanne,EPF,Lausanne,Organisation de conférences scientifiques en Europe,AISBL (non-profit Association),Not classifiable
+702,Julia,Marewski,Uni Lausanne,ULA,Lausanne,NA,Activités académiques,Education & research
+703,Kai,Johnsson,ETH Lausanne,EPF,Lausanne,Consulting,"Spirochrome, Suisse",Technology
+704,Kai,Johnsson,ETH Lausanne,EPF,Lausanne,Research Council Member of SNSF,SNSF Bern,Education & research
+705,Kai,Johnsson,ETH Lausanne,EPF,Lausanne,Consulting Quartet Medicine,"Quiartet Medicine, Boston, USA",Technology
+706,Kai,Johnsson,ETH Lausanne,EPF,Lausanne,Associate Editor Ass. Chemical Biology,"American Chemical Society, USA",Education & research
+707,Karen,Scrivener,ETH Lausanne,EPF,Lausanne,Consultant on durability,"Kerneos, France","Industry, construction & agriculture"
+708,Karen,Scrivener,ETH Lausanne,EPF,Lausanne,"Editor in chief, Cement and Concrete Research","Elsevier, UK",Education & research
+709,Karen,Scrivener,ETH Lausanne,EPF,Lausanne,Consultant to innovation committee,"Holcim, CH","Industry, construction & agriculture"
+710,Karin Mirjam,Ingold,Uni Bern,UBE,Bern,NA,Spirit of Bern: wiss. Beirat,"Society, Social, Culture & Sports"
+711,Karl,Gademann,Uni Zürich,UZH,Zurich,Vorstandsmitglied,Schweizerische Akademie der Naturwissenschaften SCNAT Bern,Education & research
+712,Karl,Aberer,ETH Lausanne,EPF,Lausanne,Member of Conseil Fondation IDIAP,Fondation IDIAP,Education & research
+713,Karl,Aberer,ETH Lausanne,EPF,Lausanne,Member Conseil of Zeno-Karl Schindler Foundation,Zeno-Karl Schindler Foundation,Education & research
+714,Karl,Aberer,ETH Lausanne,EPF,Lausanne,Chairman of L3S Advisory Board,L3S Advisory Board,Education & research
+715,Karl,Aberer,ETH Lausanne,EPF,Lausanne,Panel Member,SNF Ambizione Program,Education & research
+716,Katrin,Beyer,ETH Lausanne,EPF,Lausanne,Board member,"Swiss Society for Earthquake Engineering and Structural Dynamic, Zürich","Commerce, trade & services"
+717,Katrin,Beyer,ETH Lausanne,EPF,Lausanne,Expert consulting for OFROU,"Muttoni & Fernandez Ingénieurs Conseils SA, Ecublens","Commerce, trade & services"
+718,Kay,Severin,ETH Lausanne,EPF,Lausanne,Scientific expert for patent firm,Patentanwalt Ter Meer Steinmeister & Partner,"Consulting, public relations, legal & trust"
+719,Kay Werner,Axhausen,ETH Zürich,ETH,Zurich,VR-Mandat der Spin-Off-Firma,Senozon (Schweiz) AG,"Consulting, public relations, legal & trust"
+720,Kersten,Geers,ETH Lausanne,EPF,Lausanne,Workshop Roman Architecture,"Porto Academy, Portugal",Education & research
+721,Kersten,Geers,ETH Lausanne,EPF,Lausanne,Workshop,"Faculty of Architecture, Slipakorn University, Bankok",Education & research
+722,Kersten,Geers,ETH Lausanne,EPF,Lausanne,Residency,"Canadian Centre for Architecture, Montréal, Canada","Industry, construction & agriculture"
+723,Kersten,Geers,ETH Lausanne,EPF,Lausanne,Founding Partner,"Office KGDVS, Brussels","Industry, construction & agriculture"
+724,Kersten,Geers,ETH Lausanne,EPF,Lausanne,Founding Member,"San Rocco Magazine, Milano, Italy",Media & communication
+725,Klaus,Zuberbühler,Uni Neuenburg,UNE,Neuchâtel,Membre du conseil scientifique,Max Planck Institute of Evolutionary Anthropology,Education & research
+726,Klaus,Kern,ETH Lausanne,EPF,Lausanne,Directeur Max-Planck-Institut (occupation principale) et fonctions associés,"MPI Max-Planck-Institut für Festkörperforschung, Stuttgart",Education & research
+727,Klaus,Mezger,Uni Bern,UBE,Bern,NA,Ionight,Technology
+728,Klaus,Möller,Uni St. Gallen,USG,Saint Gallen,Gesellschafter,The Performance Management Company PMC GmbH,"Consulting, public relations, legal & trust"
+729,Klaus,Möller,Uni St. Gallen,USG,Saint Gallen,Mitglied des Geschäftsführenden Ausschusses,International Group of Controlling IGC,"Commerce, trade & services"
+730,Klaus,Möller,Uni St. Gallen,USG,Saint Gallen,Mitglied im Forschungsnetzwerk,Center for Performance Research & Analytics CEPRA,Education & research
+731,Klaus,Möller,Uni St. Gallen,USG,Saint Gallen,Mitherausgeber der Zeitschrift Board - Zeitschrift für Aufsichtsräte,Bundesanzeiger Verlag,Media & communication
+732,Klaus,Möller,Uni St. Gallen,USG,Saint Gallen,Mitherausgeber der Zeitschrift Controlling,Vahlen Verlag,Media & communication
+733,Klaus,Neumann-Braun,Uni Basel,UBA,Basel,Mitglied des Verwaltungsrates,"Baimedia AG, Basel",Not classifiable
+734,Klaus,Zuberbühler,Uni Neuenburg,UNE,Neuchâtel,Co-directeur,Tai Monkey Project (Côte d'Ivoire),Education & research
+735,Klaus,Zuberbühler,Uni Neuenburg,UNE,Neuchâtel,Directeur scientifique,Budongo Conservation Field Station (Ouganda),"Industry, construction & agriculture"
+736,Klaus,Zuberbühler,Uni Neuenburg,UNE,Neuchâtel,Enseignement,Université St Andrews (UK),Education & research
+737,Konrad,Wegener,ETH Zürich,ETH,Zurich,Mitglied im Hochschulrat,FHS St. Gallen,Education & research
+738,Konrad,Wegener,ETH Zürich,ETH,Zurich,VR-Mandat,Meyer Burger Technology AG,Financial industry & insurances
+739,Konrad,Hungerbühler,ETH Zürich,ETH,Zurich,VR-Mandat,Ernst Hungerbühler AG (in Liquidation),Technology
+740,Kuno,Schedler,Uni St. Gallen,USG,Saint Gallen,Verwaltungsratspräsident,Schweizer Paraplegiker Forschung,Pharma & health
+741,Kuno,Schedler,Uni St. Gallen,USG,Saint Gallen,Stiftungsrat,Schweizer Paraplegiker Stiftung,Pharma & health
+742,Kuno,Schedler,Uni St. Gallen,USG,Saint Gallen,Präsident,Compass Alters- und Pflegeverein,Pharma & health
+743,Laurent,Tissot,Uni Neuenburg,UNE,Neuchâtel,Membre titulaire étranger,Comité des travaux historiques et scientifiques,"Society, Social, Culture & Sports"
+744,Laurent,Tissot,Uni Neuenburg,UNE,Neuchâtel,Membre du conseil scientifique,Maison des sciences de l'homme de l'Université de Tours,Education & research
+745,Laurent,Tissot,Uni Neuenburg,UNE,Neuchâtel,Membre du conseil scientifique,Association pour l'histoire des chemins de fer en France,"Society, Social, Culture & Sports"
+746,Laurent,Tissot,Uni Neuenburg,UNE,Neuchâtel,Membre du conseil,Fondation pour l'histoire de la poste,"Society, Social, Culture & Sports"
+747,Laurent,Vulliet,ETH Lausanne,EPF,Lausanne,CEO et Administrateur,"BG Ingénieurs Conseils, Lausanne","Commerce, trade & services"
+748,Laurent,Stalder,ETH Zürich,ETH,Zurich,Stiftungsrat,Stiftung Bibliothek Werner Oechslin,"Society, Social, Culture & Sports"
+749,Laurent,Schild,Uni Lausanne,ULA,Lausanne,Mandat,Swissmedic,Pharma & health
+750,Laurent,Tissot,Uni Neuenburg,UNE,Neuchâtel,Membre du Bureau exécutif,Commission internationale pour la philosophie et les sciences humaines (CIPSH),Education & research
+751,Leo,Staub,Uni St. Gallen,USG,Saint Gallen,Mitglied Verwaltungsrat,Karl Bubenhofer AG,"Industry, construction & agriculture"
+752,Leo,Staub,Uni St. Gallen,USG,Saint Gallen,Mitglied Verwaltungsrat,ALID AG,Financial industry & insurances
+753,Leo,Staub,Uni St. Gallen,USG,Saint Gallen,Mitglied Aufsichtsrat,Farby KABE Polska GmbH,"Industry, construction & agriculture"
+754,Leo,Staub,Uni St. Gallen,USG,Saint Gallen,Präsident Verwaltungsrat,Selectchemie AG,Technology
+755,Leo,Staub,Uni St. Gallen,USG,Saint Gallen,Präsident Verwaltungsrat,Genossenschaft Migros Ostschweiz,"Commerce, trade & services"
+756,Leo,Staub,Uni St. Gallen,USG,Saint Gallen,Präsident des Verwaltungsrates,CRS Holding AGn,Financial industry & insurances
+757,Leonid,Rivkin,ETH Lausanne,EPF,Lausanne,MAX IV Machine Advisory Committee,"MAXIV Laboratory, Lund, Sweden",Education & research
+758,Leonid,Rivkin,ETH Lausanne,EPF,Lausanne,CERN Scientific Policy Committee,"CERN Council, Genève",Education & research
+759,Leonid,Rivkin,ETH Lausanne,EPF,Lausanne,Interim Chair of the International Collaboration Board of the Future Circular Collider (FCC) study,"CERN, Genève",Education & research
+760,Leonid,Rivkin,ETH Lausanne,EPF,Lausanne,"IRFU Scientific Council, CEA","Irfu, CEA, Gif sur Yvette, France",Education & research
+761,Leonid,Rivkin,ETH Lausanne,EPF,Lausanne,"Scientific Committee, Frascati INFN National Laboratories","INFN, Italie",Education & research
+762,Lino,Guzzella,ETH Zürich,ETH,Zurich,Stiftungsrat,Fondazione Monte Verità,"Commerce, trade & services"
+763,Lino,Guzzella,ETH Zürich,ETH,Zurich,Angestellter Konzernforschung,Sulzer,"Industry, construction & agriculture"
+764,Lino,Guzzella,ETH Zürich,ETH,Zurich,Director,ETH Singapore SEC Ltd.,"Politics, administration, justice system & security sector"
+765,Lino,Guzzella,ETH Zürich,ETH,Zurich,Leitung der Entwicklungsabteilung für Mechatronik,Hilti,"Industry, construction & agriculture"
+766,Lino,Guzzella,ETH Zürich,ETH,Zurich,Mitglied,Schweizerischen Akademie der Technischen Wissenschaften,Education & research
+767,Lino,Guzzella,ETH Zürich,ETH,Zurich,Präsident,ETH Zürich,Education & research
+768,Lino,Guzzella,ETH Zürich,ETH,Zurich,Stiftungsrat,Erich Degen-Stiftung,Education & research
+769,Lino,Guzzella,ETH Zürich,ETH,Zurich,Stiftungsrat,Huber-Kudlich-Stiftung an der Eidgenössischen Technischen Hochschule Zürich,Education & research
+770,Lino,Guzzella,ETH Zürich,ETH,Zurich,Stiftungsrat,International Federation of Automatic Control (IFAC) Stiftung,"Commerce, trade & services"
+771,Lino,Guzzella,ETH Zürich,ETH,Zurich,Stiftungsrat,Kinderbetreuung im Hochschulraum Zürich (kihz),"Society, Social, Culture & Sports"
+772,Lino,Guzzella,ETH Zürich,ETH,Zurich,Stiftungsrat,Schweizerische Studienstiftung Fonds für begabte junge Menschen,Education & research
+773,Lino,Guzzella,ETH Zürich,ETH,Zurich,Stiftungsrat,Swiss University Sports Foundation,"Society, Social, Culture & Sports"
+774,Lino,Guzzella,ETH Zürich,ETH,Zurich,Stiftungsrat,Walter Hochstrasser-Stiftung,Education & research
+775,Lino,Guzzella,ETH Zürich,ETH,Zurich,Vertreter in der Plenarversammlung und im Vorstand,swissuniversities,Education & research
+776,Lino,Guzzella,ETH Zürich,ETH,Zurich,Verwaltungsrat,Kistler Holding AG,"Industry, construction & agriculture"
+777,Lino,Guzzella,ETH Zürich,ETH,Zurich,Verwaltungsrat,Kistler Instrumente AG,"Industry, construction & agriculture"
+778,Lino,Guzzella,ETH Zürich,ETH,Zurich,Verwaltungsrat,Venture Incubator Ltd,Financial industry & insurances
+779,Lino,Guzzella,ETH Zürich,ETH,Zurich,Zeichnungsberechtigt,Heyning-Roelli Stiftung,Education & research
+780,Luca,Bona,ETH Lausanne,EPF,Lausanne,Directeur (form directly submitted to ETH Board),EMPA,Education & research
+781,Luca,Ortelli,ETH Lausanne,EPF,Lausanne,"Participation, en tant que président, au Jury du concours d'architecture Campus RTS sur le site de EPFL",RTS - Radio Télévision Suisse,Media & communication
+782,Luca,Ortelli,ETH Lausanne,EPF,Lausanne,Participation à la Commission pour l'habilitation scientifique nationale,MIUR - Ministero Istruzione Università Ricerca,Education & research
+783,Luca,Ortelli,ETH Lausanne,EPF,Lausanne,"Participation, en tant que vice-président, au Jury du concours d'architecture Vergers à Meyrin",Coopératives Codha et Voisinage - Genève,"Commerce, trade & services"
+784,Lukas,Gschwend,Uni St. Gallen,USG,Saint Gallen,Mitglied,Unabhängige Expertenkommission Administrative Zwangsmassnahmen,"Politics, administration, justice system & security sector"
+785,Lukas,Gschwend,Uni St. Gallen,USG,Saint Gallen,Vizepräsident,Zürichsee Landschaftsschutz ZSL,"Energy, environment & mobility"
+786,Lukas,Gschwend,Uni St. Gallen,USG,Saint Gallen,Titularprofessor für Rechtsgeschichte und Rechtsphilosophie,Universität Zürich,Education & research
+787,Lukas,Gschwend,Uni St. Gallen,USG,Saint Gallen,Präsident der Rechtsquellenstiftung,Schweizerischen Juristenvereins,"Commerce, trade & services"
+788,Lutz-Peter,Nolte,Uni Bern,UBE,Bern,NA,Medical Cluster,Pharma & health
+789,Lutz-Peter,Nolte,Uni Bern,UBE,Bern,NA,CCMT,Pharma & health
+790,Lyesse,Laloui,ETH Lausanne,EPF,Lausanne,Distingushed Adjunct professor (Jusqu'à Octobre 2014),"King Abdulaziz University (KAU), Jeddah, Saudi Arabia",Education & research
+791,Lyesse,Laloui,ETH Lausanne,EPF,Lausanne,Président du Conseil d'administration (depuis mi-décembre 2014),STUNEX SA,"Commerce, trade & services"
+792,Lyesse,Laloui,ETH Lausanne,EPF,Lausanne,ERC Consolidator Grants panel dealing with Products and Processes Engineering,Union Européenne,"Politics, administration, justice system & security sector"
+793,Lyesse,Laloui,ETH Lausanne,EPF,Lausanne,Editeur en chef,ELSEVIER,Education & research
+794,Lyesse,Laloui,ETH Lausanne,EPF,Lausanne,Adjunct professor,"School of Civil and Environmental Engineering, Duke University, USA",Education & research
+795,László,Forró,ETH Lausanne,EPF,Lausanne,Chair of the Int. Advisory Board and consultant,"Nano Center of Serbia, Belgrade",Education & research
+796,Maarten J.F.M.,Hoenen,Uni Basel,UBA,Basel,Mitglied des Stiftungsrates,Swisspeace Bern,"Politics, administration, justice system & security sector"
+797,Maarten J.F.M.,Hoenen,Uni Basel,UBA,Basel,Mitglied des Stiftungsrates,Volkshochschule beider Basel,Education & research
+798,Majed,Chergui,ETH Lausanne,EPF,Lausanne,Editeur in chief of Structural Dynamics,"American Institute of Phyiscs Publishing (AIPP), NY, USA",Media & communication
+799,Manfred,Morari,ETH Zürich,ETH,Zurich,Verwaltungsrat,inspire AG,Technology
+800,Manuel,Ammann,Uni St. Gallen,USG,Saint Gallen,Verwaltungsrat,St. Galler Kantonalbank AG,Financial industry & insurances
+801,Manuel,Ammann,Uni St. Gallen,USG,Saint Gallen,Verwaltungsrat,Neue Bank AG,Financial industry & insurances
+802,Manuel,Ammann,Uni St. Gallen,USG,Saint Gallen,Verwaltungsratspräsident,Algofin AG,"Consulting, public relations, legal & trust"
+803,Marc,Gruber,ETH Lausanne,EPF,Lausanne,"University of Liechtenstein, Teaching","University of Liechtenstein, Vaduz, Lichtenstein",Education & research
+804,Marc,Gruber,ETH Lausanne,EPF,Lausanne,Venture Lab - Teaching,"Institut fuer Jungunternehmen, St. Gallen","Consulting, public relations, legal & trust"
+805,Marc,Gruber,ETH Lausanne,EPF,Lausanne,Venture Labe,Parc Scientifique EPFL,Education & research
+806,Marc,Gruber,ETH Lausanne,EPF,Lausanne,Visiting Professor,Imperial College Business School,Education & research
+807,Marc,Parlange,ETH Lausanne,EPF,Lausanne,Dean and Prof. Faculté Applied Sciences,Leave at UBC,Education & research
+808,Marc,Gruber,ETH Lausanne,EPF,Lausanne,"Bern-Rochester MBA, Teaching",University of Bern,Education & research
+809,Marc,Gruber,ETH Lausanne,EPF,Lausanne,Mitglied,SNF Forschungsrat,Education & research
+810,Marcel,Meili,ETH Zürich,ETH,Zurich,VR-Mandat,Vetimag AG,Financial industry & insurances
+811,Marcel,Meili,ETH Zürich,ETH,Zurich,VR-Mandat,Datwoma AG,Financial industry & insurances
+812,Marcel,Meili,ETH Zürich,ETH,Zurich,VR-Präsidium,Verlag Scheidegger und Spiess AG,Media & communication
+813,Marcel,Meili,ETH Zürich,ETH,Zurich,VR-Präsidium,Park Book AG,Media & communication
+814,Marcel,Meili,ETH Zürich,ETH,Zurich,VR-Mandat,Zypresse AG,"Commerce, trade & services"
+815,Marcel,Meili,ETH Zürich,ETH,Zurich,VR-Mandat,Lifä Immobilien AG,"Commerce, trade & services"
+816,Marcelo,Aebi,Uni Lausanne,ULA,Lausanne,NA,Activités académiques,Education & research
+817,Marco,Bakker,ETH Lausanne,EPF,Lausanne,"CEO, Architect","Bakker & Blanc Architectes Lausanne, Zurich","Industry, construction & agriculture"
+818,Marco,Celio,Uni Freiburg,UFR,Fribourg,Verwaltungsratspräsident,SWANT (Swiss antibodies) SA,Pharma & health
+819,Marco,Celio,Uni Freiburg,UFR,Fribourg,Verwaltungsratspräsident,Frimorfo S.A.,Technology
+820,Maria del Carmen,Sandi Perez,ETH Lausanne,EPF,Lausanne,Scientific Advisory Board Member,"Leibniz Institute for Neurobiology, LIN, Magdeburg, Germany",Education & research
+821,Maria del Carmen,Sandi Perez,ETH Lausanne,EPF,Lausanne,Review Editor,"eNeuro, Society for Neuroscience, USA",Education & research
+822,Maria del Carmen,Sandi Perez,ETH Lausanne,EPF,Lausanne,Consulting,"Amazentis, Ecublens",Technology
+823,Maria del Carmen,Sandi Perez,ETH Lausanne,EPF,Lausanne,"Associate Editor, Frontiers in Behavioral Neuroscience","Frontiers, EPFL Innovation Park, Lausanne",Education & research
+824,Maria del Carmen,Sandi Perez,ETH Lausanne,EPF,Lausanne,Scientific Advisory Board Member,"LabEx Brain, Université de Bordeaux, France",Education & research
+825,Marilyne,Andersen,ETH Lausanne,EPF,Lausanne,Member of Industry Agenda Council for Real Estate and Urbanization,World Economic Forum,"Commerce, trade & services"
+826,Marilyne,Andersen,ETH Lausanne,EPF,Lausanne,Board member,ECOVEST SA,"Commerce, trade & services"
+827,Marina Silva,Cattaruzza,Uni Bern,UBE,Bern,NA,Universita della Svizzera Italiana,Education & research
+828,Mario,Paolone,ETH Lausanne,EPF,Lausanne,"Evaluation of the candidates for the Professorship/Associate professorship, Dept of Electric Power Eng","Norwegian University of Science and Technology, Norway",Education & research
+829,Mario,Fontana,ETH Zürich,ETH,Zurich,Geschäftsführer,F-Ingenieur GmbH,"Commerce, trade & services"
+830,Mario,Paolone,ETH Lausanne,EPF,Lausanne,"Editor in Chief of the international journal Sustainable Energy, Grids and Networks","Elsevier Ltd, UK",Education & research
+831,Mario,Paolone,ETH Lausanne,EPF,Lausanne,Lecture for the Post-graduate program Progettazione di Impianti Oil&Gas,"University of Bologna, Italy",Education & research
+832,Mark,Pieth,Uni Basel,UBA,Basel,Präsident des Stiftungsrates,Basel Institute on Governance,"Politics, administration, justice system & security sector"
+833,Mark,Pauly,ETH Lausanne,EPF,Lausanne,Member of the board,"Faceshift AG, Zurich",Technology
+834,Markus,Kreutzer,Uni St. Gallen,USG,Saint Gallen,Lehrstuhl für Strategisches und Internationales Management,EBS Universität,Education & research
+835,Markus,Schefer,Uni Basel,UBA,Basel,Mitglied des Kontrollorgans über den Staatsschutz,Kanton Basel-Stadt,"Politics, administration, justice system & security sector"
+836,Markus Hans,Gross,ETH Zürich,ETH,Zurich,VR-Präsidium,Gimalon AG,Technology
+837,Markus Hans,Gross,ETH Zürich,ETH,Zurich,VR-Mandat,Dybuster AG,Technology
+838,Markus Hans,Gross,ETH Zürich,ETH,Zurich,Direktor (wissenschaftlicher Co Direktor),The Walt Disney Company (Switzerland) GmbH,"Society, Social, Culture & Sports"
+839,Martin,Brown,Uni St. Gallen,USG,Saint Gallen,Diverse kleinere Tätigkeiten,European Fund for Southeast Europe (EFSE),"Politics, administration, justice system & security sector"
+840,Martin,Brown,Uni St. Gallen,USG,Saint Gallen,Background Note on the Impact of Banking Crises on Households in Emerging Europe for World Development Report 2014,World Bank,Financial industry & insurances
+841,Martin,Brown,Uni St. Gallen,USG,Saint Gallen,Consultant for Financial Literacy,Swiss National Bank,Financial industry & insurances
+842,Martin,Brown,Uni St. Gallen,USG,Saint Gallen,Consultant for Financial Literacy,Verband der Schweizerischen Kantonalbanken,Financial industry & insurances
+843,Martin,Brown,Uni St. Gallen,USG,Saint Gallen,Diverse Gutachten,KfW Development Bank,Financial industry & insurances
+844,Martin,Brown,Uni St. Gallen,USG,Saint Gallen,Diverse kleinere Tätigkeiten,Departement für Entwicklungshilfe und -zusammenarbeit DEZA,"Politics, administration, justice system & security sector"
+845,Martin,Brown,Uni St. Gallen,USG,Saint Gallen,Member of Technical Assistance Committee,ResponsAbility,Financial industry & insurances
+846,Martin,Fey,Uni Bern,UBE,Bern,NA,"Berger-Janser-Stiftung, Bern",Pharma & health
+847,Martin,Fröhlich,ETH Lausanne,EPF,Lausanne,"Bureau d'architecture, Fondateur","AFF Architekten, Berlin, Germany","Industry, construction & agriculture"
+848,Martin,Lengwiler,Uni Basel,UBA,Basel,Mitglied des Verwaltungsrates,"Seismo Verlags AG, Zürich",Media & communication
+849,Martin,Lengwiler,Uni Basel,UBA,Basel,Präsident des Verwaltungsrates,"fokus AG für Wissen und Organisation, Zürich","Consulting, public relations, legal & trust"
+850,Martin,Odersky,ETH Lausanne,EPF,Lausanne,Board-Observer (former Chairman),"Typesafe Sarl, Lausanne",Technology
+851,Martin,Vetterli,ETH Lausanne,EPF,Lausanne,"Membre du conseil d'administration (jusqu'à Juin 2014, puis occasional advisor)",VIDINOTI,"Consulting, public relations, legal & trust"
+852,Martin,Vetterli,ETH Lausanne,EPF,Lausanne,Occasional advisor,DARTFISH,Technology
+853,Martin,Vetterli,ETH Lausanne,EPF,Lausanne,President du Conseil National de la Recherche,FNS (Fonds National Suisse),Education & research
+854,Martin,Wilks,Uni Genf,UGE,Geneva,Mitglied des Stiftungsrates,"Institut de Sante au Travail, Lausanne",Pharma & health
+855,Martin G.,Täuber,Uni Bern,UBE,Bern,NA,Forschungsstiftung Genaxen,Education & research
+856,Martin G.,Täuber,Uni Bern,UBE,Bern,NA,SWANtec Holding AG,Financial industry & insurances
+857,Martin G.,Täuber,Uni Bern,UBE,Bern,NA,SWAN Isotopen AG,Technology
+858,Martin G.,Täuber,Uni Bern,UBE,Bern,NA,SWAN Hadron AG,Pharma & health
+859,Martin G.,Täuber,Uni Bern,UBE,Bern,NA,Stiftung Universität und Gesellschaft,Education & research
+860,Martin G.,Täuber,Uni Bern,UBE,Bern,NA,Fondation pour la recherche dans le cadre de l'Etude Suisse de Cohorte VIH,Education & research
+861,Martin G.,Täuber,Uni Bern,UBE,Bern,NA,Schweizerische Akademie der Medizinischen Wissenschaften (SAMW),Pharma & health
+862,Martin G.,Täuber,Uni Bern,UBE,Bern,NA,Hans-Sigrist-Stiftung,Education & research
+863,Martin G.,Täuber,Uni Bern,UBE,Bern,NA,Übergangsrat der UPD,Pharma & health
+864,Martin G.,Täuber,Uni Bern,UBE,Bern,NA,Stiftung Swiss School of Public Health plus (SSPH),Education & research
+865,Martin G.,Täuber,Uni Bern,UBE,Bern,NA,Spital-Management Bern AG,Pharma & health
+866,Martin O.,Saar,ETH Zürich,ETH,Zurich,Geschäftsführer,Geofluidics LLC,"Industry, construction & agriculture"
+867,Martinus,Gijs,ETH Lausanne,EPF,Lausanne,"Project review work, proposal evaluation",European Commission,"Politics, administration, justice system & security sector"
+868,Massimo,Morbidelli,ETH Zürich,ETH,Zurich,VR-Mandat,ChromaCon AG,Technology
+869,Matthias,Lütolf,ETH Lausanne,EPF,Lausanne,Board member and advisor,"QGel SA, PSE, Lausanne",Technology
+870,Matthias,Lütolf,ETH Lausanne,EPF,Lausanne,President of the Board,"Morphodyne SA, EPFL",Pharma & health
+871,Matthias,Finger,ETH Lausanne,EPF,Lausanne,Vice-président,"SKE, Commission Fédérale d'Arbitrage dans le Secteur du Rail, Berne","Energy, environment & mobility"
+872,Matthias,Finger,ETH Lausanne,EPF,Lausanne,Membre,"EICom, Commission Fédérale de la Régulation du Marché de l'Electricté, Bern","Politics, administration, justice system & security sector"
+873,Matthias,Finger,ETH Lausanne,EPF,Lausanne,"Florence School of regulation, Transport Area (organisation de 6 workshops en 2013)","European University Institute, Florence, Italy",Education & research
+874,Matthias,Egger,Uni Bern,UBE,Bern,NA,"WHO, Geneva",Pharma & health
+875,Matthias,Egger,Uni Bern,UBE,Bern,NA,SNF Forschungsrat,Education & research
+876,Matthias,Egger,Uni Bern,UBE,Bern,NA,Krebsforschung Schweiz,Pharma & health
+877,Matthias,Schmidt,Uni Basel,UBA,Basel,Mitglied des Stiftungsrates,"Ernst Krenek Privatstiftung, Krems, Österreich","Society, Social, Culture & Sports"
+878,Matthias,Kohler,ETH Zürich,ETH,Zurich,NA,Erich Degen-Stiftung,Education & research
+879,Matthias P.,Wymann,Uni Basel,UBA,Basel,Mitglied des Verwaltungsrates,"PIQUR Therapeutics AG, Basel",Pharma & health
+880,Meike,Mevissen,Uni Bern,UBE,Bern,NA,Stiftung Tierärztliche Hochschule Hannover,Education & research
+881,Melody,Swartz,ETH Lausanne,EPF,Lausanne,Shareholder,"Morphogene, Preverenges, CH",Pharma & health
+882,Melody,Swartz,ETH Lausanne,EPF,Lausanne,Consultant,"Merck, DE",Pharma & health
+883,Melody,Swartz,ETH Lausanne,EPF,Lausanne,Founder & Shareholder,"Anokion, Ecublens, CH",Pharma & health
+884,Melody,Swartz,ETH Lausanne,EPF,Lausanne,Founder & Shareholder,"Lanta Bio, Préverenges, CH",Technology
+885,Melody,Swartz,ETH Lausanne,EPF,Lausanne,Founder & Shareholder,"Lumberjack, USA",Not classifiable
+886,Melody,Swartz,ETH Lausanne,EPF,Lausanne,Founder & Shareholder,"Lumberjill, Basel, CH",Not classifiable
+887,Michael,Graetzel,ETH Lausanne,EPF,Lausanne,Honorary Editor of Nano Journal,"SAINT, SKKU",Education & research
+888,Michael,Graetzel,ETH Lausanne,EPF,Lausanne,Scientific Advisor,G24 Power,"Energy, environment & mobility"
+889,Michael,Graetzel,ETH Lausanne,EPF,Lausanne,Scientific Advisor,DYESOL,"Energy, environment & mobility"
+890,Michael,Lehning,ETH Lausanne,EPF,Lausanne,Politecnico di Milano,"Politecnico di Milano, Milano",Education & research
+891,Michael,Graetzel,ETH Lausanne,EPF,Lausanne,Scientific Advisor,"NTU, Singapore",Education & research
+892,Michael,Gastpar,ETH Lausanne,EPF,Lausanne,Academic Affiliation (unpaid),Delft University of Technology,Education & research
+893,Michael,Gastpar,ETH Lausanne,EPF,Lausanne,Academic Affiliation (unpaid),"University of California, Berkeley",Education & research
+894,Michaël,Unser,ETH Lausanne,EPF,Lausanne,Comité d'expertise Ambizione,"FNS, Bern",Education & research
+895,Michel,Bierlaire,ETH Lausanne,EPF,Lausanne,Conseil d'administration ENTPE (non rémunéré),"Etat français, Lyon",Not classifiable
+896,Michel,Bierlaire,ETH Lausanne,EPF,Lausanne,Consultance Technique en optimisation,OPTIMIS HCM Echandens,"Consulting, public relations, legal & trust"
+897,Michel,Rappaz,ETH Lausanne,EPF,Lausanne,Actionnaire et Membre du Conseil d'administration,"Ycoor Systems SA, Sierre",Technology
+898,Michel,Rappaz,ETH Lausanne,EPF,Lausanne,Associé,"Novamet Sarl, Lausanne","Consulting, public relations, legal & trust"
+899,Michel,Rappaz,ETH Lausanne,EPF,Lausanne,Membre du conseil scientifique,"Alcoa Howmet, Whitehall, USA","Industry, construction & agriculture"
+900,Michel,Rappaz,ETH Lausanne,EPF,Lausanne,Président du conseil de fondation,"Fondation R&R Haenny, SAV, Lausanne",Education & research
+901,Michel,Rappaz,ETH Lausanne,EPF,Lausanne,Président du Conseil de fondation,"PPUR, RLC, Lausanne",Media & communication
+902,Michele,De Palma,ETH Lausanne,EPF,Lausanne,Seminar-Roche,"Roche, Basel - 10/01/2014",Pharma & health
+903,Michele,De Palma,ETH Lausanne,EPF,Lausanne,Advisory Board Meeting - Sanofi,"Sanofi, Barcelona - 17/11/2014",Pharma & health
+904,Michèle F.,Sutter-Rüdisser,Uni St. Gallen,USG,Saint Gallen,Mitglied des Universitätsrats,Universität Liechtenstein,Education & research
+905,Michèle F.,Sutter-Rüdisser,Uni St. Gallen,USG,Saint Gallen,Mitglied des Verwaltungsrats,thurmed AG / Spital Thurgau,Pharma & health
+906,Mihai Adrian,Ionescu,ETH Lausanne,EPF,Lausanne,SNF professorship review,SNF,Education & research
+907,Mihai Adrian,Ionescu,ETH Lausanne,EPF,Lausanne,Review projet EC SOI-HITS (1 jour),"European Commission, Brussels","Politics, administration, justice system & security sector"
+908,Mihai Adrian,Ionescu,ETH Lausanne,EPF,Lausanne,SATW technology out-look (non-remuneré),SATW,Education & research
+909,Mihai Adrian,Ionescu,ETH Lausanne,EPF,Lausanne,Lecture IMEC /Beyond CMOS (0.5 day),IMEC Belgium,Education & research
+910,Minyue,Dong,Uni Lausanne,ULA,Lausanne,NA,Activités académiques,Education & research
+911,Mirko,Meboldt,ETH Zürich,ETH,Zurich,Verwaltungsrat,inspire AG,Technology
+912,Mohammad Amin,Shokrollahi,ETH Lausanne,EPF,Lausanne,CEO (on leave from EPFL),"Kandou Bus, Lausanne","Industry, construction & agriculture"
+913,Nava,Setter,ETH Lausanne,EPF,Lausanne,President of the foundation,"Talent Foundation, Saint-Sulpice",Education & research
+914,Nico,de Rooij,ETH Lausanne,EPF,Lausanne,Conseil d'administration,"High Tech Factory, Enschede, NL","Industry, construction & agriculture"
+915,Nico,de Rooij,ETH Lausanne,EPF,Lausanne,Conseil d'administration,"Silatech SA, Neuchâtel","Commerce, trade & services"
+916,Nico,de Rooij,ETH Lausanne,EPF,Lausanne,Conseil d'administration,"SwissScientific SA, Neuchâtel",Financial industry & insurances
+917,Nico,de Rooij,ETH Lausanne,EPF,Lausanne,Conseil scientifique du CSEM SA,"CSEM SA, Neuchâtel",Education & research
+918,Nico,de Rooij,ETH Lausanne,EPF,Lausanne,Président du conseil d'administration,"Contrôle officiel suisse des chronomètres (COSC), La Chaux-de-Fonds","Industry, construction & agriculture"
+919,Nico,de Rooij,ETH Lausanne,EPF,Lausanne,Conseil scientifique,"Seyonic SA, Neuchâtel","Industry, construction & agriculture"
+920,Nicola,Braghieri,ETH Lausanne,EPF,Lausanne,Architecte associé (10%),"EX-M, Milan","Industry, construction & agriculture"
+921,Nicolas,Grandjean,ETH Lausanne,EPF,Lausanne,Conseil scientifique,"Nanodimension AG, Suisse",Financial industry & insurances
+922,Nicolas,Gisin,Uni Genf,UGE,Geneva,Membre du conseil d'administraiton,ID Quantique SA,Technology
+923,Nicolas,Grandjean,ETH Lausanne,EPF,Lausanne,Conseil scientifique,"CEA-LETI, France",Education & research
+924,Nicolas,Gruber,ETH Zürich,ETH,Zurich,Vertreter der ETH im Leitorgan,Association Climate-KIC,"Energy, environment & mobility"
+925,Nicolas,Mermod,Uni Lausanne,ULA,Lausanne,Mandat,Selexis,Pharma & health
+926,Nicolas,Monod,ETH Lausanne,EPF,Lausanne,Expertises,"Fond National Suisse, Berne",Education & research
+927,Nicolas,Monod,ETH Lausanne,EPF,Lausanne,Travail éditorial (non lucratif),"L'enseignement Mathématique, Genève",Media & communication
+928,Nicolas,Queloz,Uni Freiburg,UFR,Fribourg,Rechtsberater,Selbstständig,Not classifiable
+929,Nicolas,Grandjean,ETH Lausanne,EPF,Lausanne,"Expertise scientifique, Institut de recherche","Leibnitz Association, Germany",Education & research
+930,Nicolas,Grandjean,ETH Lausanne,EPF,Lausanne,"Expertise scientifique, projets de recherche","Ministry of Education, Singapore","Politics, administration, justice system & security sector"
+931,Nikolaos,Geroliminis,ETH Lausanne,EPF,Lausanne,Development of analysis tools,"Minnesota Traffic Observatory, University of Minnesota, USA",Education & research
+932,Nikolaos,Stergiopulos,ETH Lausanne,EPF,Lausanne,Administrateur et director ad interim,"Rheon Medical SA, Préverenges",Pharma & health
+933,Nikolaos,Stergiopulos,ETH Lausanne,EPF,Lausanne,CSO et administrateur,"Antlia SA, Lausanne",Pharma & health
+934,Nikolaos,Geroliminis,ETH Lausanne,EPF,Lausanne,Advising on traffic management for the city of Sydney,"UNSW Australia, Australian Center for Commercial Mathematics, Sydney",Education & research
+935,Nils,Soguel,Uni Lausanne,ULA,Lausanne,President,SRS-CSPCP,"Energy, environment & mobility"
+936,Olaf,Blanke,Uni Genf,UGE,Geneva,Professeur à 20%,Université de Genève,Education & research
+937,Oliver,Gassmann,Uni St. Gallen,USG,Saint Gallen,Verwaltungsrat,Zühlke,"Consulting, public relations, legal & trust"
+938,Oliver,Lubrich,Uni Bern,UBE,Bern,NA,Albrecht-von-Haller-Stiftung der Burgergemeinde Bern,Education & research
+939,Oliver,Gassmann,Uni St. Gallen,USG,Saint Gallen,Audit Expert Group,Schindler,"Industry, construction & agriculture"
+940,Oliver,Gassmann,Uni St. Gallen,USG,Saint Gallen,Gründer und Verwaltungsrat,Avatarion Technology,Technology
+941,Oliver,Gassmann,Uni St. Gallen,USG,Saint Gallen,Gründer und Verwaltungsrat,BGW Management Advisory Group,"Consulting, public relations, legal & trust"
+942,Oliver,Gassmann,Uni St. Gallen,USG,Saint Gallen,Gründer und Verwaltungsrat,BMI-Lab,Education & research
+943,Oliver,Gassmann,Uni St. Gallen,USG,Saint Gallen,"Gründer, Co-Director",GLORAD,Education & research
+944,Oliver,Gassmann,Uni St. Gallen,USG,Saint Gallen,International Advisory Board,Alexander von Humboldt Institut für Internet & Society,Education & research
+945,Oliver,Gassmann,Uni St. Gallen,USG,Saint Gallen,Verwaltungsrat,Hoffmann Neopac,"Industry, construction & agriculture"
+946,Oliver,Gassmann,Uni St. Gallen,USG,Saint Gallen,Miglied Forschungs- und Bildungskommission,Economiesuisse,"Commerce, trade & services"
+947,Olivier,Schneider,ETH Lausanne,EPF,Lausanne,"Vice-président du Conseil paroissial, Ecublens-St.Sulpice","EERV, paroisse d'Ecublens-St.Sulpice, Ecublens","Society, Social, Culture & Sports"
+948,Olivier,Christin,Uni Neuenburg,UNE,Neuchâtel,Enseignement,Ecole pratique des hautes études de Paris,Education & research
+949,Olivier,Guillod,Uni Neuenburg,UNE,Neuchâtel,Conseil d’administration,Office national (français) d’indemnisation des accidents médicaux,"Politics, administration, justice system & security sector"
+950,Olivier,Guillod,Uni Neuenburg,UNE,Neuchâtel,Conseil d’administration,Swissmedic,Pharma & health
+951,Olivier,Guillod,Uni Neuenburg,UNE,Neuchâtel,Cours,MAS en économie et administration de la santé de HEC Lausanne,Education & research
+952,Olivier,Guillod,Uni Neuenburg,UNE,Neuchâtel,Prof invité,Uni Paris V Descartes,Education & research
+953,Olivier,Hari,Uni Neuenburg,UNE,Neuchâtel,"mandats privés (expertises, analyses)",Schellenberg Wittmer SA,"Politics, administration, justice system & security sector"
+954,Olivier,Schneider,ETH Lausanne,EPF,Lausanne,Administrateur,"Coopérative St-Thomas, Lausanne","Society, Social, Culture & Sports"
+955,Olivier,Schneider,ETH Lausanne,EPF,Lausanne,Membre du conseil du CERN,"SEFRI, CERN, Genève",Education & research
+956,Olivier,Schneider,ETH Lausanne,EPF,Lausanne,Président de l'association CHIPP,Swiss Institute of Particle Physics (CHIPP),Education & research
+957,Olivier,Martin,ETH Lausanne,EPF,Lausanne,Reviewing,Various funding agencies and universities,Not classifiable
+958,Omid,Aschari,Uni St. Gallen,USG,Saint Gallen,Verwaltungsratspräsident und Gründer,ASG Strategy Group AG,"Consulting, public relations, legal & trust"
+959,Omid,Aschari,Uni St. Gallen,USG,Saint Gallen,Mitglied,Nationaler Geistiger Rat der Bahá'í der Schweiz,"Society, Social, Culture & Sports"
+960,Ottmar,Holdenrieder,ETH Zürich,ETH,Zurich,Stiftungsrat,Stiftung Geobotanisches Forschungsinstitut Rübel,Education & research
+961,Paola,Viganò,ETH Lausanne,EPF,Lausanne,Membre comité scientifique,"Ecole Nationale Supérieure d'architecture et de paysage de Lille, France",Education & research
+962,Paola,Viganò,ETH Lausanne,EPF,Lausanne,Membre comité scientifique,"Atelier International du Grand Paris, Paris","Society, Social, Culture & Sports"
+963,Paola,Viganò,ETH Lausanne,EPF,Lausanne,Prof. ordinaire part-time,"Université IUAV, Italie",Education & research
+964,Paola,Viganò,ETH Lausanne,EPF,Lausanne,Partenaire associée,"Secchi-Viganò Studio, Italie","Industry, construction & agriculture"
+965,Paola,Viganò,ETH Lausanne,EPF,Lausanne,Membre comité scientifique,"Ecole Nationale Supérieure du Paysage, Versailles, France",Education & research
+966,Paolo,Ienne,ETH Lausanne,EPF,Lausanne,Guest lecturer (spring 2014),"Technical University München, Germany",Education & research
+967,Paolo,Ienne,ETH Lausanne,EPF,Lausanne,Member of evaluation panel,"FNS, Bern",Education & research
+968,Paolo,Ienne,ETH Lausanne,EPF,Lausanne,"Guest lecturer, summer 2014",University of Oulu,Education & research
+969,Paolo,Ermanni,ETH Zürich,ETH,Zurich,VR-Mandat,Acutronic Schweiz AG,"Industry, construction & agriculture"
+970,Pascal,Pichonnaz,Uni Freiburg,UFR,Fribourg,Vize-Präsident,EKK (Eidgenössische Konsumenten Kommission),"Politics, administration, justice system & security sector"
+971,Pascal,Fua,ETH Lausanne,EPF,Lausanne,Advising,PlayfulVision EPFL,Technology
+972,Pascal,Gantenbein,Uni Basel,UBA,Basel,Mitglied des Verwaltungsrates,"Hoffmann & Co. AG, Basel","Consulting, public relations, legal & trust"
+973,Pascal,Zysset,Uni Bern,UBE,Bern,NA,Strassen- und Kanalisationsgenossenschaft Badweidli,"Commerce, trade & services"
+974,Pascal,Mahon,Uni Neuenburg,UNE,Neuchâtel,Enseignement,Académie suisse de la magistrature,Education & research
+975,Pascal,Pichonnaz,Uni Freiburg,UFR,Fribourg,Schiedsrichter,Handelsschiedsgericht,"Politics, administration, justice system & security sector"
+976,Pascal,Pichonnaz,Uni Freiburg,UFR,Fribourg,Gutachter,Selbstständig,Not classifiable
+977,Pascal,Mahon,Uni Neuenburg,UNE,Neuchâtel,membre du Directoire,Schweizerisches Kompetenzzentrum für Menschenrechte (SKMR),Education & research
+978,Pascal,Mahon,Uni Neuenburg,UNE,Neuchâtel,Président,Académie suisse de la magistrature,Education & research
+979,Pascal,Mahon,Uni Neuenburg,UNE,Neuchâtel,Membre,Office cantonal de conciliation en matière de conflits de travail,"Politics, administration, justice system & security sector"
+980,Pascal,Mahon,Uni Neuenburg,UNE,Neuchâtel,Membre du Comité suisse,Commission internationale des juristes (ICJ),"Politics, administration, justice system & security sector"
+981,Pascal,Dey,Uni St. Gallen,USG,Saint Gallen,Dozent,Fachhochschule Nordwestschweiz,Education & research
+982,Pascal,Roman,Uni Lausanne,ULA,Lausanne,Mandat,CHUV,Pharma & health
+983,Pascal,Mahon,Uni Neuenburg,UNE,Neuchâtel,Membre du Comité,Association suisse du droit public de l'organisation (ASDPO),"Politics, administration, justice system & security sector"
+984,Pascal,Fua,ETH Lausanne,EPF,Lausanne,Consulting,Pix4D EPFL Innovation Park,Technology
+985,Patricia,Egli,Uni St. Gallen,USG,Saint Gallen,Ersatzrichterin,Verwaltungsgericht Zürich,"Politics, administration, justice system & security sector"
+986,Patrick,Aebischer,ETH Lausanne,EPF,Lausanne,"Chairman, Beirat",Advisory Board Novartis Venture Fund,Financial industry & insurances
+987,Patrick,Aebischer,ETH Lausanne,EPF,Lausanne,NA,Fondation Terre des Hommes,"Politics, administration, justice system & security sector"
+988,Patrick,Aebischer,ETH Lausanne,EPF,Lausanne,NA,Italian Institute of Technology,Education & research
+989,Patrick,Aebischer,ETH Lausanne,EPF,Lausanne,NA,Singapore Biomedical Sciences International,Education & research
+990,Patrick,Aebischer,ETH Lausanne,EPF,Lausanne,NA,World Economic Forum,"Commerce, trade & services"
+991,Patrick,Aebischer,ETH Lausanne,EPF,Lausanne,Part of the presidential duties,CSEM,Education & research
+992,Patrick,Aebischer,ETH Lausanne,EPF,Lausanne,Part of the presidential duties,Fondation Brocher,Education & research
+993,Patrick,Aebischer,ETH Lausanne,EPF,Lausanne,Part of the presidential duties,Fondation Campus Biotech Geneva,Education & research
+994,Patrick,Aebischer,ETH Lausanne,EPF,Lausanne,Part of the presidential duties,Fondation Claude Verdan,"Society, Social, Culture & Sports"
+995,Patrick,Aebischer,ETH Lausanne,EPF,Lausanne,Part of the presidential duties,Fondation EPFL+,Education & research
+996,Patrick,Aebischer,ETH Lausanne,EPF,Lausanne,Part of the presidential duties,Fondation les Bois Chamblard,Education & research
+997,Patrick,Aebischer,ETH Lausanne,EPF,Lausanne,Part of the presidential duties,Fondation pour l'étude des eaux du Léman,Education & research
+998,Patrick,Aebischer,ETH Lausanne,EPF,Lausanne,Part of the presidential duties,Fondation pour la formation continue lausannoise,Education & research
+999,Patrick,Aebischer,ETH Lausanne,EPF,Lausanne,Verwaltungsrat,Lonza Group,Technology
+1000,Patrick,Aebischer,ETH Lausanne,EPF,Lausanne,Verwaltungsrat,Nestlé,"Industry, construction & agriculture"
+1001,Patrick,Thiran,ETH Lausanne,EPF,Lausanne,Membre du comité scientifique du LINCS,"Institut Mines-Télécom, France",Education & research
+1002,Patrick,Thiran,ETH Lausanne,EPF,Lausanne,Expertise pour projet panel VR NT-14,"Swedish Research Council, Suède",Education & research
+1003,Patrick,Aebischer,ETH Lausanne,EPF,Lausanne,Beirat,Singapore International Advisory Committee for Biomedical Sciences,Education & research
+1004,Patrick,Aebischer,ETH Lausanne,EPF,Lausanne,Founder & Chairman of the BOD,Amazentis,Technology
+1005,Patrick,Aebischer,ETH Lausanne,EPF,Lausanne,NA,Fondation Claude Nobs,"Society, Social, Culture & Sports"
+1006,Patrick,Emmenegger,Uni St. Gallen,USG,Saint Gallen,NA,Eidgenössischen Berufsbildungskommission (EBBK),"Politics, administration, justice system & security sector"
+1007,Patrick,Emmenegger,Uni St. Gallen,USG,Saint Gallen,Präsident,Schweizerische Vereinigung für Politikwissenschaft,Education & research
+1008,Patrick,Jenny,ETH Zürich,ETH,Zurich,VR-Mandat,Ziegelbrücke Energie AG,"Energy, environment & mobility"
+1009,Patrick,Jenny,ETH Zürich,ETH,Zurich,VR-Mandat,Fritz + Caspar Jenny AG,"Commerce, trade & services"
+1010,Paul,Schönsleben,ETH Zürich,ETH,Zurich,VR-Präsidium,Sanalpin AG,Pharma & health
+1011,Paul,Söderlind,Uni St. Gallen,USG,Saint Gallen,Forschungsrat Abteilung 1,Schweizer Nationalfonds SNF,Education & research
+1012,Paul,Xirouchakis,ETH Lausanne,EPF,Lausanne,Reviewer Marie-Curie ITN (10 days),"EU Commission, Brussels","Politics, administration, justice system & security sector"
+1013,Paul,Xirouchakis,ETH Lausanne,EPF,Lausanne,Reviewer MATENG (9.5 days),EU Commission,"Politics, administration, justice system & security sector"
+1014,Paul,Xirouchakis,ETH Lausanne,EPF,Lausanne,Survey on sustainability (1 day),"KIST EUROPE, Germany",Education & research
+1015,Paul,Mohacsi,Uni Bern,UBE,Bern,NA,Katharina Huber-Steiner Stiftung,Education & research
+1016,Paul,Schönsleben,ETH Zürich,ETH,Zurich,VR-Präsidium,Bioforce AG,Pharma & health
+1017,Paul Joseph,Dyson,ETH Lausanne,EPF,Lausanne,Examiner of several PhD Thesis,Several PhD thesis,Not classifiable
+1018,Paul Joseph,Dyson,ETH Lausanne,EPF,Lausanne,Editorial board member of several journals (unpaid),Journals,Not classifiable
+1019,Paul Joseph,Dyson,ETH Lausanne,EPF,Lausanne,Member of several conferences advisory boards (unpaid),Conferences,Not classifiable
+1020,Paul Joseph,Dyson,ETH Lausanne,EPF,Lausanne,Member of the board of the Swiss Competence Center in Energy Research,PSI,Education & research
+1021,Peter,Rohner,Uni St. Gallen,USG,Saint Gallen,Mitglied des Investment Committee,IST Funds Swiss Healthcare Loans,Financial industry & insurances
+1022,Peter,Rohner,Uni St. Gallen,USG,Saint Gallen,«Pate» für Jungunternehmer,Startnetzwerk Thurgau,"Commerce, trade & services"
+1023,Peter,Nagel,Uni Basel,UBA,Basel,Mitglied des Stiftungsrates,"Pro Entomologia, Naturhistorisches Museum, Basel","Society, Social, Culture & Sports"
+1024,Peter,Schneemann,Uni Bern,UBE,Bern,NA,Kiefer Hablitzel Stiftung,"Society, Social, Culture & Sports"
+1025,Peter,Schneemann,Uni Bern,UBE,Bern,NA,CIHA,Not classifiable
+1026,Peter,Ryser,ETH Lausanne,EPF,Lausanne,Non-executive director,"Cranes Sofrwares International Limited, India",Technology
+1027,Peter,Ryser,ETH Lausanne,EPF,Lausanne,Membre de la commission de la formation et de la recherche,"Economiesuisse, Zürich","Commerce, trade & services"
+1028,Peter,Ryser,ETH Lausanne,EPF,Lausanne,Gérant entreprise personnel,"Rycons GmbH, Stäfa","Consulting, public relations, legal & trust"
+1029,Peter,Ryser,ETH Lausanne,EPF,Lausanne,associé gérant président (dès le 03.11.2014),"Sinartis Sàrl, Le Mont-sur-Lausanne",Technology
+1030,Peter,Ryser,ETH Lausanne,EPF,Lausanne,Administrateur vice-président,"Sensile Technologies SA, Morges","Industry, construction & agriculture"
+1031,Peter,Fornaro,Uni Basel,UBA,Basel,Präsident des Verwaltungsrates,"Bitsave AG, Kehrsatz",Technology
+1032,Peter,Rohner,Uni St. Gallen,USG,Saint Gallen,Vorstand,IHK Industrie- und Handelskammer Thurgau,"Commerce, trade & services"
+1033,Peter,Widmayer,ETH Zürich,ETH,Zurich,VR-Mandat,NEBION AG,Technology
+1034,Peter,Chen,ETH Zürich,ETH,Zurich,VR-Mandat,Clariant AG,Technology
+1035,Peter,Rohner,Uni St. Gallen,USG,Saint Gallen,Verwaltungsratspräsident,BEG Management AG,"Consulting, public relations, legal & trust"
+1036,Peter,Rohner,Uni St. Gallen,USG,Saint Gallen,Verwaltungsratspräsident,BEG Business Engineering Group AG,"Consulting, public relations, legal & trust"
+1037,Peter,Rohner,Uni St. Gallen,USG,Saint Gallen,Verwaltungsratspräsident,BEG & Partners AG,"Consulting, public relations, legal & trust"
+1038,Peter,Leibfried,Uni St. Gallen,USG,Saint Gallen,Mitglied der Oberaufsichtskommission Berufliche Vorsorge,Schweizer Bund,"Politics, administration, justice system & security sector"
+1039,Peter,Leibfried,Uni St. Gallen,USG,Saint Gallen,Mitglied der Redaktionskommission,Schweizer Treuhänder,"Consulting, public relations, legal & trust"
+1040,Peter,Leibfried,Uni St. Gallen,USG,Saint Gallen,Mitglied des Fachbeirats,KoR Zeitschrift für internationale und kapitalmarktorientierte Rechnungslegung,Media & communication
+1041,Peter,Leibfried,Uni St. Gallen,USG,Saint Gallen,Mitglied des Prüfungsausschusses,RBA-Bankengruppe,Financial industry & insurances
+1042,Peter,Leibfried,Uni St. Gallen,USG,Saint Gallen,Mitglied des Verwaltungsrats,Ivoclar Vivadent AG,Pharma & health
+1043,Peter,Leibfried,Uni St. Gallen,USG,Saint Gallen,Präsident der Fachkommission,Swiss GAAP FER,Not classifiable
+1044,Peter,Rohner,Uni St. Gallen,USG,Saint Gallen,Stiftungsrat,International School Schaffhausen ISSH,Education & research
+1045,Peter Mathias,Fischer,Uni St. Gallen,USG,Saint Gallen,National Representative Switzerland and Member of the Executive Committee,European Marketing Academy EMAC,Education & research
+1046,Peter Mathias,Fischer,Uni St. Gallen,USG,Saint Gallen,Gründer und Leiter der Regionalgruppe Ostschweiz/Vorarlberg,AbsolventUM,Education & research
+1047,Peter Mathias,Fischer,Uni St. Gallen,USG,Saint Gallen,Co-Founder,Sound Leadership LLC,"Consulting, public relations, legal & trust"
+1048,Peter Viktor,Kunz,Uni Bern,UBE,Bern,NA,Walder,"Commerce, trade & services"
+1049,Peter Viktor,Kunz,Uni Bern,UBE,Bern,NA,Convida,Financial industry & insurances
+1050,Peter Viktor,Kunz,Uni Bern,UBE,Bern,NA,Bayer Wartmann AG,Not classifiable
+1051,Philipp,Rudolf von Rohr,ETH Zürich,ETH,Zurich,Stiftungsrat,André und Hedy Knoll-Spring Stiftung,Education & research
+1052,Philippe,Gillet,ETH Lausanne,EPF,Lausanne,Administrateur de la Fondation,Fondation Bullukian,"Society, Social, Culture & Sports"
+1053,Philippe,Gillet,ETH Lausanne,EPF,Lausanne,Membre du Conseil d'Administration,Société BioMérieux,Pharma & health
+1054,Philippe,Gillet,ETH Lausanne,EPF,Lausanne,Membre du Conseil de la Fondation,Fondation BNP Paribas pour le mécénat,Financial industry & insurances
+1055,Philippe,Gillet,ETH Lausanne,EPF,Lausanne,Membre du Conseil de la Fondation,Fondation Elemo,Education & research
+1056,Philippe,Gillet,ETH Lausanne,EPF,Lausanne,Président de la Fondation,Fondation IQRGC,Not classifiable
+1057,Philippe,Gillet,ETH Lausanne,EPF,Lausanne,Président du Board du Human Brain Project,Human Brain Project,Education & research
+1058,Philippe,Gillet,ETH Lausanne,EPF,Lausanne,Président du conseil d'Administration,Institut de Physique du Globe de Paris,Education & research
+1059,Philippe,Gillet,ETH Lausanne,EPF,Lausanne,Président du Conseil de l'Ecole,Ecole VetAgro Sup,Education & research
+1060,Philippe,Meier,Uni Lausanne,ULA,Lausanne,NA,Activités académiques,Education & research
+1061,Philippe,Renaud,ETH Lausanne,EPF,Lausanne,Conseil scientifique + CA,"Mimotec SA, Sion","Industry, construction & agriculture"
+1062,Philippe,Renaud,ETH Lausanne,EPF,Lausanne,"Conseil scientifique, membre","CSEM SA, Neuchâtel",Education & research
+1063,Philippe,Thalmann,ETH Lausanne,EPF,Lausanne,Président le la Commission fédérale de logement,"Office fédéral du logement, Granges","Politics, administration, justice system & security sector"
+1064,Philippe,Bacchetta,Uni Lausanne,ULA,Lausanne,NA,Activités académiques,Education & research
+1065,Philippe,Thalmann,ETH Lausanne,EPF,Lausanne,Comité de direction du PNR 66 Ressource bois,Schweizerischer Nationalfonds,Education & research
+1066,Philippe,Thalmann,ETH Lausanne,EPF,Lausanne,Cours (26.03.14) La réforme fiscale écologique dans le cadre d'une formation continue,"IDHEAP, Université de Lausanne",Education & research
+1067,Philippe,Thalmann,ETH Lausanne,EPF,Lausanne,"Expert externe, Réseau de compétence Economie et Management","Mission HES-SO, Delémont",Education & research
+1068,Philippe,Thalmann,ETH Lausanne,EPF,Lausanne,Journée d'économie politique d'iconomix 2014. 1 cours (21.11.14),HEP Lausanne,Education & research
+1069,Philippe,Thalmann,ETH Lausanne,EPF,Lausanne,Mandat privé pour l'évaluation de la durabilité de projets - Aspects économiques,"ARE, Office fédéral du développement territorial, Berne","Energy, environment & mobility"
+1070,Philippe,Thalmann,ETH Lausanne,EPF,Lausanne,Membre de la commission de caisse de Publica,"Publica, Berne",Financial industry & insurances
+1071,Philippe,Thalmann,ETH Lausanne,EPF,Lausanne,Membre de la commission fédérale consultative pour la recherche environnementale,"Off. féd. de l'Environnement, Berne-Ittigen","Politics, administration, justice system & security sector"
+1072,Philippe,Thalmann,ETH Lausanne,EPF,Lausanne,Membre du conseil de fondation,"IDHEAP, Chavannes-près-Renens",Education & research
+1073,Philippe,Thalmann,ETH Lausanne,EPF,Lausanne,Membre du conseil scientifique,"Swisscleantech Association, Bern","Commerce, trade & services"
+1074,Philippe,Thalmann,ETH Lausanne,EPF,Lausanne,Membre du groupe de travail Forum for climate and global change ProClim,"Swiss Academy of Sciences, Bern",Education & research
+1075,Philippe,Thalmann,ETH Lausanne,EPF,Lausanne,Panel d'évaluation des pôles de compétence suisses en recherche énergétique,Kommission für Technologie und Innovation,"Politics, administration, justice system & security sector"
+1076,Philippe,Thalmann,ETH Lausanne,EPF,Lausanne,Partenariat pour organiser une journée de séminaire/année,"SVIT Swiss Real Estate School SA, Lausanne",Education & research
+1077,Philippe A.,Halban,Uni Genf,UGE,Geneva,Conseil scientifique et orateur,sanofi-aventis,Pharma & health
+1078,Pierre,Dillenbourg,ETH Lausanne,EPF,Lausanne,Mandat d'études sur la stratégie MOOC des universités Flamandes,"Koninklijke Vlaamse Academie van België voor Wetenschappen en Kusten, Brussel",Education & research
+1079,Pierre,Vandergheynst,ETH Lausanne,EPF,Lausanne,"Founder, pas de rôle exécutif","Immersive Vision SARL, PSE",Technology
+1080,Pierre,Vandergheynst,ETH Lausanne,EPF,Lausanne,Consulting,"Nestlé Research, Vevey","Industry, construction & agriculture"
+1081,Pierre,Vandergheynst,ETH Lausanne,EPF,Lausanne,Consulting,"Advanced Silicon SA, Lausanne","Industry, construction & agriculture"
+1082,Pierre,Dillenbourg,ETH Lausanne,EPF,Lausanne,Membre indépendant du conseil d'administration de l'établissement scolaire privé Haut-Lac (1 séance),"Haut-Lac Ecole internationale bilingue, St-Légier, CH",Education & research
+1083,Pierre,Magistretti,ETH Lausanne,EPF,Lausanne,Consultant,"Price Foundation, Genève",Not classifiable
+1084,Pierre,Magistretti,ETH Lausanne,EPF,Lausanne,Consultant,"Dana Foundation, New York",Education & research
+1085,Pierre,Gönczy,ETH Lausanne,EPF,Lausanne,Scientific Board (no income),"Novartis Consumer Health Foundation, Nyon",Pharma & health
+1086,Pierre,Collin Dufresne,ETH Lausanne,EPF,Lausanne,Academic Advisory Board,KEPOS Capital (NYC),Financial industry & insurances
+1087,Pierre,Collin Dufresne,ETH Lausanne,EPF,Lausanne,Advisory Board,"Lombard Odier, Geneva",Financial industry & insurances
+1088,Pierre,Collin Dufresne,ETH Lausanne,EPF,Lausanne,Advisory Board,SANCUS Capital (NYC),Financial industry & insurances
+1089,Pierre,Collin Dufresne,ETH Lausanne,EPF,Lausanne,Expert Witness Consulting,Cornerstone Research (NYC),"Consulting, public relations, legal & trust"
+1090,Pierre-Alain,Mariaux,Uni Neuenburg,UNE,Neuchâtel,Membre,Commission scientifique du Trésor abbatial de l'Abbaye St-Maurice,"Society, Social, Culture & Sports"
+1091,Pierre-André,Farine,Uni Neuenburg,UNE,Neuchâtel,"Conseiller scientifique, Advisory Board","Ethimedix SA, Nyon",Pharma & health
+1092,Pierre-André,Farine,Uni Neuenburg,UNE,Neuchâtel,Conseil scientifique,"Fondation Ch.-Ed. Guillaume, La Chaux-de-Fonds",Education & research
+1093,Pierre-André,Farine,Uni Neuenburg,UNE,Neuchâtel,"Conseiller scientifique, membre du comité d'organisation","Association pour le Concours International de Chronométrie, Le Locle","Industry, construction & agriculture"
+1094,Pierre-André,Farine,Uni Neuenburg,UNE,Neuchâtel,Membre,"SSC (Société Suisse de Chronométrie), Neuchâtel","Industry, construction & agriculture"
+1095,Pierre-André,Farine,Uni Neuenburg,UNE,Neuchâtel,Membre de l'assemblée générale AG du COSC,"Contrôle officiel suisse des chronomètres (COSC), La Chaux-de-Fonds","Industry, construction & agriculture"
+1096,Pierre-André,Farine,Uni Neuenburg,UNE,Neuchâtel,"Membre du Conseil d'administration d'Asgalium Unitec SA, Consulting et expertises","Asgalium Unitec SA, Cortaillod","Industry, construction & agriculture"
+1097,Pierre-André,Farine,Uni Neuenburg,UNE,Neuchâtel,Présidence de la commission technique CT du COSC,"COSC (Contrôle Officiel Suisse des Chronomètres), La Chaux-de-Fonds","Industry, construction & agriculture"
+1098,Pierre-André,Farine,Uni Neuenburg,UNE,Neuchâtel,"Présidence de la Fondation du Prix Omega, Prix Omega scientifique et Prix Omega Etudiants","Fondation du prix Omega, Neuchâtel",Education & research
+1099,Pierre-André,Farine,Uni Neuenburg,UNE,Neuchâtel,Vice-président,"Collegium International SMYLE en microtechnique, Besançon",Education & research
+1100,Pietro,Beritelli,USI Lugano,USI,Lugano,Verwaltungsratspräsident,Tourismus Services Ostschweiz AG,"Commerce, trade & services"
+1101,Pietro,Beritelli,USI Lugano,USI,Lugano,Verwaltungsratspräsident,Heidiland Tourismus AG,"Commerce, trade & services"
+1102,Pius Eliseo,Baschera,ETH Zürich,ETH,Zurich,VR-Präsidium,Venture Incubator AG,Financial industry & insurances
+1103,Pius Eliseo,Baschera,ETH Zürich,ETH,Zurich,VR-Präsidium,Hilti AG,"Industry, construction & agriculture"
+1104,Pius Eliseo,Baschera,ETH Zürich,ETH,Zurich,VR-Mandat,Schindler Holding AG,"Industry, construction & agriculture"
+1105,Pius Eliseo,Baschera,ETH Zürich,ETH,Zurich,VP des Beirates,Vorwerk & Co. KG,"Commerce, trade & services"
+1106,Pius Eliseo,Baschera,ETH Zürich,ETH,Zurich,VR-Mandat,Roche Holding AG,Pharma & health
+1107,Pius Eliseo,Baschera,ETH Zürich,ETH,Zurich,VP des Beirates,ARDEX GmbH,"Industry, construction & agriculture"
+1108,Primus-Eugen,Mullis,Uni Bern,UBE,Bern,NA,Berner Diabetes Gesellschaft,Pharma & health
+1109,Primus-Eugen,Mullis,Uni Bern,UBE,Bern,NA,Berner Diabetes Stiftung,Pharma & health
+1110,Primus-Eugen,Mullis,Uni Bern,UBE,Bern,NA,Fondazione Ettore e Valeria Rossi,"Society, Social, Culture & Sports"
+1111,Rachid,Guerraoui,ETH Lausanne,EPF,Lausanne,"Evaluation Agence de la recherche, France","ANR, Paris",Education & research
+1112,Rafael,Lalive,Uni Lausanne,ULA,Lausanne,NA,Activités académiques,Education & research
+1113,Raffaello,D'Andrea,ETH Zürich,ETH,Zurich,VR-Präsidium,Verity Studios AG,"Industry, construction & agriculture"
+1114,Rainer,Schulin,ETH Zürich,ETH,Zurich,Präsident,Stiftung Geobotanisches Forschungsinstitut Rübel,Education & research
+1115,Rajna Nicole,Gibson Brandon,Uni Genf,UGE,Geneva,Membre du conseil d'administration,Swiss Re,Financial industry & insurances
+1116,Ralf,Seifert,ETH Lausanne,EPF,Lausanne,"Professorship at IMD, 50% work contract","IMD, Lausanne",Education & research
+1117,Reiner,Eichenberger,Uni Freiburg,UFR,Fribourg,Mitglied Stiftungsrat Ombudsmann,Postfinance,Financial industry & insurances
+1118,Reiner,Eichenberger,Uni Freiburg,UFR,Fribourg,Mitglied,Eidgenössische Kommunikationskommission,"Commerce, trade & services"
+1119,Reinhard,Jung,Uni St. Gallen,USG,Saint Gallen,Vorstandsmitglied/Kassierer,Swiss Informatics Research Association,Education & research
+1120,Reinhard,Schulze,Uni Bern,UBE,Bern,NA,Mitglied Hochschulrat Leipzig,Education & research
+1121,Reinhard,Jung,Uni St. Gallen,USG,Saint Gallen,Mitglied des Innovationsbeirats,Haas Food Equipment GmbH,"Industry, construction & agriculture"
+1122,Reinhard,Jung,Uni St. Gallen,USG,Saint Gallen,Geschäftsführer,IARDA GmbH,"Consulting, public relations, legal & trust"
+1123,Renate,Schubert,ETH Zürich,ETH,Zurich,Stiftungsrat,Kinderbetreuung im Hochschulraum Zürich (kihz),"Society, Social, Culture & Sports"
+1124,René,Bloch,Uni Bern,UBE,Bern,NA,Jakob und Werner Wyler-Stiftung Zürich,"Society, Social, Culture & Sports"
+1125,Reto,Föllmi,Uni St. Gallen,USG,Saint Gallen,Mitglied der Programmkommission,Avenir Suisse,"Society, Social, Culture & Sports"
+1126,Reto,Föllmi,Uni St. Gallen,USG,Saint Gallen,Mitglied des VR,Löwetz Immobilien AG,"Commerce, trade & services"
+1127,Reto,Föllmi,Uni St. Gallen,USG,Saint Gallen,Verwaltungsratspräsident,R&M Immobilien AG,"Commerce, trade & services"
+1128,Reto,Föllmi,Uni St. Gallen,USG,Saint Gallen,Vorsitz EG Wirtschaftsstatistik,Bundesamt für Statistik,"Politics, administration, justice system & security sector"
+1129,Reto,Föllmi,Uni St. Gallen,USG,Saint Gallen,Vorstandsmitglied,Schweiz. Gesellschaft für Volkswirtschaft und Statistik,"Commerce, trade & services"
+1130,Reto,Föllmi,Uni St. Gallen,USG,Saint Gallen,Bankrat,Schwyzer Kantonalbank,Financial industry & insurances
+1131,Reto,Föllmi,Uni St. Gallen,USG,Saint Gallen,Mitglied des geschäftsleitenden Ausschusses,SEW-HSG,Education & research
+1132,Reza Shokrollah,Abhari,ETH Zürich,ETH,Zurich,Aufsichtsratsmandat,PNE Wind AG,"Energy, environment & mobility"
+1133,Rico,von Wyss,Uni St. Gallen,USG,Saint Gallen,Oberstlt i Gst,Schweizer Armee,"Politics, administration, justice system & security sector"
+1134,Robert,Danon,Uni Lausanne,ULA,Lausanne,Mandat,Activités académiques,Education & research
+1135,Roger,Moser,Uni St. Gallen,USG,Saint Gallen,Board Member,Think Tank Thurgau,"Society, Social, Culture & Sports"
+1136,Roger,Moser,Uni St. Gallen,USG,Saint Gallen,Board Member,Timor Foundation,"Society, Social, Culture & Sports"
+1137,Roger,Moser,Uni St. Gallen,USG,Saint Gallen,Founder & Partner,Industry Intelligence GmbH,"Consulting, public relations, legal & trust"
+1138,Roland,Weiger,Uni Basel,UBA,Basel,Mitglied des Verwaltungsrates,"Coltene, Altstätten",Pharma & health
+1139,Roland,Fankhauser,Uni Basel,UBA,Basel,Konsulent,Schweizerischer Anwaltsverband,"Politics, administration, justice system & security sector"
+1140,Roland,Fankhauser,Uni Basel,UBA,Basel,Mitglied,Advokatenkammer Basel-Stadt,"Politics, administration, justice system & security sector"
+1141,Roland,Fankhauser,Uni Basel,UBA,Basel,Mitglied,Freiwillige Akademische Gesellschaft (FAG),Education & research
+1142,Roland,Fankhauser,Uni Basel,UBA,Basel,Mitglied,Liatowitsch & Partner,"Politics, administration, justice system & security sector"
+1143,Roland,Fankhauser,Uni Basel,UBA,Basel,Mitglied,Zivilprozessrechtslehrervereinigung,"Politics, administration, justice system & security sector"
+1144,Roland,Fankhauser,Uni Basel,UBA,Basel,Mitglied,Zivilrechtslehrervereinigung,"Politics, administration, justice system & security sector"
+1145,Roland,Fankhauser,Uni Basel,UBA,Basel,Vorstandmitglied,"Basler Juristenverein, Pro Iure","Commerce, trade & services"
+1146,Roland,Fankhauser,Uni Basel,UBA,Basel,Vorstandsmitglied,Verein Fachanwältinnen und Fachanwälte SAV Familienrecht,"Politics, administration, justice system & security sector"
+1147,Roland,Fankhauser,Uni Basel,UBA,Basel,Vorstandsmitglied und seit Januar 2015 Präsident,Centrum für Familienwissenschaften,Education & research
+1148,Roland,Füss,Uni St. Gallen,USG,Saint Gallen,Lehrtätigkeit,CUREM,Education & research
+1149,Roland,Füss,Uni St. Gallen,USG,Saint Gallen,Lehrtätigkeit,EBS Universität,Education & research
+1150,Roland,Füss,Uni St. Gallen,USG,Saint Gallen,Vortragstätigkeit (einmalig),Swiss&Global,Financial industry & insurances
+1151,Roland,Hodler,Uni St. Gallen,USG,Saint Gallen,"Malmsten Visiting Professor, Department of Economics",University of Gothenburg,Education & research
+1152,Roland,Logé,ETH Lausanne,EPF,Lausanne,"Conseil scientifique, domaine de la métallurgie","Association ARMINES, Paris, France",Education & research
+1153,Roland,Müller,Uni St. Gallen,USG,Saint Gallen,Fluglehrer,Fliegerschule St.Gallen-Altenrhein,"Energy, environment & mobility"
+1154,Roland,Müller,Uni St. Gallen,USG,Saint Gallen,Seniorpartner,Rechtsanwaltskanzlei ME Advocat AG,"Consulting, public relations, legal & trust"
+1155,Roland,Müller,Uni St. Gallen,USG,Saint Gallen,Titularprofessor für Arbeitsrecht,Universität Bern,Education & research
+1156,Roland,Müller,Uni St. Gallen,USG,Saint Gallen,Verwaltungsratspitglied,BTV Leasing Schweiz AG,Financial industry & insurances
+1157,Roland,Müller,Uni St. Gallen,USG,Saint Gallen,Verwaltungsratspräsident,"Ebnat AG, Ebna","Industry, construction & agriculture"
+1158,Roland,Müller,Uni St. Gallen,USG,Saint Gallen,Verwaltungsratspräsident,ME Advocat AG,"Consulting, public relations, legal & trust"
+1159,Roland,Müller,Uni St. Gallen,USG,Saint Gallen,Verwaltungsratspräsident,Nussbaum Gruppe,"Industry, construction & agriculture"
+1160,Roland,Müller,Uni St. Gallen,USG,Saint Gallen,Verwaltungsratspräsident,Peka Pinselfabrik AG,"Industry, construction & agriculture"
+1161,Roland,Müller,Uni St. Gallen,USG,Saint Gallen,Verwaltungsratssekretär,Ricola Familienholding AG,"Industry, construction & agriculture"
+1162,Roland,Müller,Uni St. Gallen,USG,Saint Gallen,Verwaltungsratsvizepräsident,Board Foundation,Education & research
+1163,Roland,Müller,Uni St. Gallen,USG,Saint Gallen,Verwaltungsratsvizepräsident,Finanzmarktaufsicht Liechtenstein,"Politics, administration, justice system & security sector"
+1164,Roland Yves,Siegwart,ETH Zürich,ETH,Zurich,VR-Mandat,ALSTOM Inspection Robotics AG,"Industry, construction & agriculture"
+1165,Roland Yves,Siegwart,ETH Zürich,ETH,Zurich,VR-Mandat,EVATEC Holding und EVATEC AG,Financial industry & insurances
+1166,Roland Yves,Siegwart,ETH Zürich,ETH,Zurich,VR-Mandat,Komax Holding AG,"Industry, construction & agriculture"
+1167,Roland Yves,Siegwart,ETH Zürich,ETH,Zurich,Stiftungsrat,BlueLion Stiftung,Technology
+1168,Rolf,Becker,Uni Bern,UBE,Bern,NA,GESIS Leibniz Institut,Education & research
+1169,Rolf,Ingold,Uni Freiburg,UFR,Fribourg,Stiftungsrat,Hasler Stiftung,Technology
+1170,Roman,Boutellier,ETH Zürich,ETH,Zurich,Stiftungsrat,Huber-Kudlich-Stiftung an der Eidgenössischen Technischen Hochschule Zürich,Education & research
+1171,Roman,Boutellier,ETH Zürich,ETH,Zurich,NA,Stiftung Swiss Innovation Park,"Commerce, trade & services"
+1172,Roman,Boutellier,ETH Zürich,ETH,Zurich,VR-Mandat,Rychiger AG,"Industry, construction & agriculture"
+1173,Roman,Boutellier,ETH Zürich,ETH,Zurich,VR-Mandat,Georg Fischer AG,"Industry, construction & agriculture"
+1174,Roman,Boutellier,ETH Zürich,ETH,Zurich,VR-Mandat,Appenzeller Kantonalbank,Financial industry & insurances
+1175,Roman,Boutellier,ETH Zürich,ETH,Zurich,VR-Mandat,Ammann BauAusrüstung AG,"Commerce, trade & services"
+1176,Rémy,Glardon,ETH Lausanne,EPF,Lausanne,Conseil en gestion d'entreprise,"NGL Cleaning Technology SA, Nyon",Technology
+1177,Rüdiger,Fahlenbrach,ETH Lausanne,EPF,Lausanne,15-hour MBA class,European School of Management and Technology,Education & research
+1178,Rüdiger,Fahlenbrach,ETH Lausanne,EPF,Lausanne,10-hour PhD class,University of Vienna,Education & research
+1179,Rüdiger,Fahlenbrach,ETH Lausanne,EPF,Lausanne,2-hour Exec. Education International Wealth Management Retreat,"SFI, Zürich",Education & research
+1180,Sabine,Süsstrunk,ETH Lausanne,EPF,Lausanne,Start-up advisor to Kokko Inc.,"Kokko Inc, USA",Technology
+1181,Sacha Leo Cornel,Menz,ETH Zürich,ETH,Zurich,VR-Mandat,Staub Holding AG,"Commerce, trade & services"
+1182,Sacha Leo Cornel,Menz,ETH Zürich,ETH,Zurich,VR-Mandat,SAM Architekten und Partner AG,"Industry, construction & agriculture"
+1183,Scott,Loren,Uni St. Gallen,USG,Saint Gallen,Dozent für Englische Sprache und Literatur,Pädagogische Hochschule St.Gallen,Education & research
+1184,Sebastian,Wolf,Uni Bern,UBE,Bern,NA,Major und Feller Stiftung,Not classifiable
+1185,Sebastian,Wolf,Uni Bern,UBE,Bern,NA,Haag Streit Stiftung,Pharma & health
+1186,Sebastian,Maerkl,ETH Lausanne,EPF,Lausanne,"Board Member, Prosper Diagnostics an early stage EPFL start-up","Prosper Diagnostic, Basel",Pharma & health
+1187,Sebastian,Wolf,Uni Bern,UBE,Bern,NA,Hans Goldmann Stiftung,Pharma & health
+1188,Semyon,Malamud,ETH Lausanne,EPF,Lausanne,Academic consulting,"Quantica Capital, Schaffausen",Financial industry & insurances
+1189,Semyon,Malamud,ETH Lausanne,EPF,Lausanne,Teaching a PhD class,Dublin City University,Education & research
+1190,Serge,Vaudenay,ETH Lausanne,EPF,Lausanne,Droits d'auteur,"PPUR, Lausanne",Media & communication
+1191,Serge,Vaudenay,ETH Lausanne,EPF,Lausanne,Expertise,Ingenico Paris,Technology
+1192,Serge,Vaudenay,ETH Lausanne,EPF,Lausanne,Droits d'auteur,Springer USA,Media & communication
+1193,Sibylle,Hofer,Uni Bern,UBE,Bern,NA,Moser-Nef-Stiftung,Education & research
+1194,Sibylle,Hofer,Uni Bern,UBE,Bern,NA,Stiftung-Sammlung Schweizer Rechtsquellen,Not classifiable
+1195,Silvestro,Micera,ETH Lausanne,EPF,Lausanne,Prof. Part-time,"Scuola superiore Sant'Anna, Italy",Education & research
+1196,Simon,Henein,ETH Lausanne,EPF,Lausanne,Membre du Scientific Advisory Board and conseil technique,"CSEM: Centre Suisse d'Electronique et de Microtechnique, Neuchâtel",Education & research
+1197,Simon,Henein,ETH Lausanne,EPF,Lausanne,Enseignement de cours de formation continue,"FSRM: Fondation Suisse pour la Recherche en Microtechnique, Neuchâtel",Education & research
+1198,Simone,Munsch,Uni Freiburg,UFR,Fribourg,Wissenschaftlicher Beriat des Zentrums für Psychotherapie,Universität Zürich,Education & research
+1199,Simone,Walther,Uni St. Gallen,USG,Saint Gallen,Rechtsanwältin,Schärer Rechtsanwälte,"Consulting, public relations, legal & trust"
+1200,Simone,Munsch,Uni Freiburg,UFR,Fribourg,Forschungsrätin,Schweizerischer Nationalfonds (SNF),Education & research
+1201,Simone,Munsch,Uni Freiburg,UFR,Fribourg,Präsidentin der Unabhängigen Fachkommission,Airport Casino Basel,"Commerce, trade & services"
+1202,Simone,Munsch,Uni Freiburg,UFR,Fribourg,Vizepräsidentin,PsyKo,"Politics, administration, justice system & security sector"
+1203,Sophia,Haussener,ETH Lausanne,EPF,Lausanne,Associate Editor for Journal of Renewable & Sustainable Energy,"AIP Publishing Center, Melville, NY, USA",Media & communication
+1204,Srdan,Capkun,ETH Zürich,ETH,Zurich,Geschäftsführer,Contego Laboratories GmbH,Technology
+1205,Stanislav,Smirnov,Uni Genf,UGE,Geneva,Direction scientifique,"Centre de mathématiques, Université d'Etat de Saint Petersburg",Pharma & health
+1206,Stanislav,Smirnov,Uni Genf,UGE,Geneva,Direction scientifique,"Institut des Sciences et Technologies, Skolkovo",Pharma & health
+1207,Stefan,Morkötter,Uni St. Gallen,USG,Saint Gallen,Geschäftsführer,IBEF GmbH,Technology
+1208,Stefan,Weber,Uni Bern,UBE,Bern,President,Stiftung CCMT,Pharma & health
+1209,Stefan,Bechtold,ETH Zürich,ETH,Zurich,NA,Fondation Professeur Walther Hug,Education & research
+1210,Stefan,Bühler,Uni Zürich,UZH,Zurich,Vizepräsident,Wettbewerbskommission,"Politics, administration, justice system & security sector"
+1211,Stefan,Morkötter,Uni St. Gallen,USG,Saint Gallen,Fachbeirat,Hydropower Solutions GmbH,"Energy, environment & mobility"
+1212,Stefan,Weber,Uni Bern,UBE,Bern,Board Member,CAScination AG,Pharma & health
+1213,Stefan,Morkötter,Uni St. Gallen,USG,Saint Gallen,Verwaltungsrat,Infrastruktur SK,Not classifiable
+1214,Stefan,Rebenich,Uni Bern,UBE,Bern,NA,Jacob Burckhardt-Stiftung,"Society, Social, Culture & Sports"
+1215,Stefanie,Hellweg,ETH Zürich,ETH,Zurich,Vorstandsmitglied,Ecoinvent,"Industry, construction & agriculture"
+1216,Stephan,Wolf,Uni Bern,UBE,Bern,NA,Curt Rommel-Stiftung (Grundauftrag),Education & research
+1217,Stephan,Aier,Uni St. Gallen,USG,Saint Gallen,Lehrauftrag Enterprise Architecture,Reykjavik University,Education & research
+1218,Stephan,Morgenthaler,ETH Lausanne,EPF,Lausanne,"Conseil d'administration, membre actuaire de Michgenossenschaft Reitnau","AICOS Technologies AG, Bâle",Technology
+1219,Stephan,Morgenthaler,ETH Lausanne,EPF,Lausanne,Conseil scientifique,"Novigenix, Lausanne",Pharma & health
+1220,Stephan,Morgenthaler,ETH Lausanne,EPF,Lausanne,Divers contrats d'expertises,"Firmenich, Nestlé, Touring Club Suisse",Not classifiable
+1221,Stephan,Rohr,Uni Bern,UBE,Bern,NA,"Dr. Josef Steiner Cancer Research Foundation, Präsident",Pharma & health
+1222,Stephan,Windecker,Uni Bern,UBE,Bern,Aufsichtsrat,"European Cardiovascular Research Institute (ECRI), Aufsichtsrat",Education & research
+1223,Stephan,Windecker,Uni Bern,UBE,Bern,Verwaltungsrat,"Kardiologie Interlaken - Unterseen AG, Verwaltungsrat",Pharma & health
+1224,Stephan,Aier,Uni St. Gallen,USG,Saint Gallen,Beratung und Veranstaltungen im Bereich Enterprise Architecture Management,TWZ GmbH,Not classifiable
+1225,Stephanie,Hrubesch,Uni Bern,UBE,Bern,NA,Ostschweizerische Finanzholding AG,Financial industry & insurances
+1226,Stephanie,Teufel,Uni Freiburg,UFR,Fribourg,Aufsichtsrat,Exelsis Business Technology AG,Technology
+1227,Stewart,Cole,ETH Lausanne,EPF,Lausanne,Membre du Conseil d'Administration,"Institut Pasteur Paris, France",Education & research
+1228,Stewart,Cole,ETH Lausanne,EPF,Lausanne,Contrat de Conseil,"K-RITH, Durban, South Africa",Education & research
+1229,Stuart,Lane,Uni Lausanne,ULA,Lausanne,NA,Activités académiques,Education & research
+1230,Stéphanie,Lacour,ETH Lausanne,EPF,Lausanne,Co-fondateur d'une start-up en décembre 2014,G-Therapeutics EPFL PSE,Pharma & health
+1231,Sven,Reinecke,Uni St. Gallen,USG,Saint Gallen,Verwaltungsratspräsident,MPM Market Performance Management St. Gallen AG,"Consulting, public relations, legal & trust"
+1232,Sven,Reinecke,Uni St. Gallen,USG,Saint Gallen,Mitglied im Stiftungsrat,Stiftung Kinderdorf Pestalozzi,"Politics, administration, justice system & security sector"
+1233,Tamar,Kohn Johnson,ETH Lausanne,EPF,Lausanne,Associate Editor,"Royal Society of Chemistry, Cambridge, UK",Education & research
+1234,Tamar,Kohn Johnson,ETH Lausanne,EPF,Lausanne,Member of Independent Advisory Committee,"WHO, Geneva",Pharma & health
+1235,Tamar,Kohn Johnson,ETH Lausanne,EPF,Lausanne,Adjunct scientist,Eawag,Education & research
+1236,Tatsuya,Nakada,ETH Lausanne,EPF,Lausanne,Chair of the Scientific Advisory Committee,"National Institute for Subatomic Physics, Amsterdam",Education & research
+1237,Tatsuya,Nakada,ETH Lausanne,EPF,Lausanne,Editor of Nuclear Physics B,"Elsevier Publishing, Amsterdam",Education & research
+1238,Tatsuya,Nakada,ETH Lausanne,EPF,Lausanne,Editor of Journal of High Energy Physics,"Springer-Verlag, Heidelberg, Germany",Media & communication
+1239,Tatsuya,Nakada,ETH Lausanne,EPF,Lausanne,Chair of the Scientific Policy Committee for the CERN Council,"CERN, Genève",Education & research
+1240,Tatsuya,Nakada,ETH Lausanne,EPF,Lausanne,Chair of the Scientific Committee (from September 2016),"INFN, Italie",Education & research
+1241,Tatsuya,Nakada,ETH Lausanne,EPF,Lausanne,Chair of a B-factory Programme Advisory Committee,"High Energy Accelerator Organization, Tsukuba, Japan",Education & research
+1242,Tatsuya,Nakada,ETH Lausanne,EPF,Lausanne,Member of the Scientific Advisory Committee for the Next Einstein Forum,"African Institute for Mathematical Science, Cape Town, South Africa",Education & research
+1243,Theo,Lasser,ETH Lausanne,EPF,Lausanne,President Board Abionic,"Abionic, Innovation Park",Pharma & health
+1244,Thierry,Carrel,Uni Bern,UBE,Bern,NA,Mobiliar Genossenschaft,Financial industry & insurances
+1245,Thierry,Volery,Uni St. Gallen,USG,Saint Gallen,Vorsitzender des Beirats,EXIST – Existenzgründungen aus der Wissenschaft,"Commerce, trade & services"
+1246,Thierry,Volery,Uni St. Gallen,USG,Saint Gallen,Honorary Research Fellow,University of Western Australia Business School,Education & research
+1247,Thierry,Volery,Uni St. Gallen,USG,Saint Gallen,Mitglied des Beirats,Forum BGM – Betriebliches Gesundheitsmanagement Ostschweiz,Pharma & health
+1248,Thomas,Dyllick,Uni St. Gallen,USG,Saint Gallen,Beirat,SQS Software Quality Systems (Schweiz) AG,"Consulting, public relations, legal & trust"
+1249,Thomas,Berndt,Uni St. Gallen,USG,Saint Gallen,Mitglied im Fachbeirat,Zeitschrift für Corporate Governance (ZCG),Media & communication
+1250,Thomas,Dyllick,Uni St. Gallen,USG,Saint Gallen,Kommanditist,Brenzinger Grundstücksverwaltungs KG,"Commerce, trade & services"
+1251,Thomas,Epper,Uni St. Gallen,USG,Saint Gallen,Department of Economics,Universität Zürich,Education & research
+1252,Thomas,Friedli,Uni St. Gallen,USG,Saint Gallen,Dozent Qualitäts- und Prozessmanagement,EMBA,Education & research
+1253,Thomas,Friedli,Uni St. Gallen,USG,Saint Gallen,Dozent Qualitäts- und Prozessmanagement,SMBS,Education & research
+1254,Thomas,Friedli,Uni St. Gallen,USG,Saint Gallen,Dozent Qualitäts- und Prozessmanagement,Universität Salzburg,Education & research
+1255,Thomas,Friedli,Uni St. Gallen,USG,Saint Gallen,Mitglied strategisches Advisory Board,RUAG,"Industry, construction & agriculture"
+1256,Thomas,Friedli,Uni St. Gallen,USG,Saint Gallen,Verwaltungsrat,Schuh & Co.,"Consulting, public relations, legal & trust"
+1257,Thomas,Geiser,Uni St. Gallen,USG,Saint Gallen,NA,Rehaklinik Heiligenschwendi,Pharma & health
+1258,Thomas,Hunkeler,Uni Freiburg,UFR,Fribourg,Jurypräsident,Kollegium Gambach,Education & research
+1259,Thomas,Hunkeler,Uni Freiburg,UFR,Fribourg,Mitglied der Fachkommission & Jurymitglied,Pro Helvetia,"Society, Social, Culture & Sports"
+1260,Thomas,Hunkeler,Uni Freiburg,UFR,Fribourg,Mitglied des Stiftungsrates,Bell AG,"Industry, construction & agriculture"
+1261,Thomas,Hunkeler,Uni Freiburg,UFR,Fribourg,Mitglied des Stiftungsrates,Holcim-Stiftung zur Förderung der wissenschaftlichen Fortbildung,"Commerce, trade & services"
+1262,Thomas,Hunkeler,Uni Freiburg,UFR,Fribourg,Mitglied des Wissenschaftsrates,FNRS,Pharma & health
+1263,Thomas,Keller,ETH Lausanne,EPF,Lausanne,Conseil d'administration (jusqu'au 31.12.2014),"F.J. Aschwanden AG, Lyss","Commerce, trade & services"
+1264,Thomas,Keller,ETH Lausanne,EPF,Lausanne,Mandat d'expert pour un pont en matériaux composites,Canton de Tessin,"Politics, administration, justice system & security sector"
+1265,Thomas,Koller,Uni Bern,UBE,Bern,NA,Fondation Gustave Dubois als Vertretung der RW Fak.,Education & research
+1266,Thomas,Mountford,ETH Lausanne,EPF,Lausanne,Visit to UFRJ Rio Brésil,UFRJ,Education & research
+1267,Thomas,Dyllick,Uni St. Gallen,USG,Saint Gallen,Berater,BSL Lausanne,Education & research
+1268,Thomas,Berndt,Uni St. Gallen,USG,Saint Gallen,Ständiger Mitarbeiter,Zeitschrift Betriebs-Berater (BB),Media & communication
+1269,Thomas,Berndt,Uni St. Gallen,USG,Saint Gallen,Verwaltungsratspräsident,"equia AG, Zürich","Consulting, public relations, legal & trust"
+1270,Thomas,Bieger,Uni St. Gallen,USG,Saint Gallen,Mitglied,Genossenschaft Olma Messen St. Gallen,"Industry, construction & agriculture"
+1271,Thomas,Bieger,Uni St. Gallen,USG,Saint Gallen,Präsident,SBB Forschungsfonds,Education & research
+1272,Thomas,Bieger,Uni St. Gallen,USG,Saint Gallen,Stiftungsrat,Dr. Heinrich Wachter zur Förderung der wissenschaftlichen Forschung an der Hochschule St. Gallen für Wirtschafts- und Sozialwissenschaften,Education & research
+1273,Thomas,Bieger,Uni St. Gallen,USG,Saint Gallen,Stiftungsrat,ITS Foundation. International Tourism Symposium,"Commerce, trade & services"
+1274,Thomas,Bieger,Uni St. Gallen,USG,Saint Gallen,Stiftungsrat,Max Schmidheiny zugunsten der Universität St. Gallen und ihrer Institute,Education & research
+1275,Thomas,Bieger,Uni St. Gallen,USG,Saint Gallen,Stiftungsrat,St. Galler Stiftung für Internationale Studien,Education & research
+1276,Thomas,Bieger,Uni St. Gallen,USG,Saint Gallen,Stiftungsrat,Swiss Luftfahrtstiftung,"Energy, environment & mobility"
+1277,Thomas,Bieger,Uni St. Gallen,USG,Saint Gallen,Verwaltungsratspräsident,Jungfraubahn Holding AG,"Energy, environment & mobility"
+1278,Thomas,Bieger,Uni St. Gallen,USG,Saint Gallen,Verwaltungsratspräsident,Jungfraubahnen Management AG,"Energy, environment & mobility"
+1279,Thomas,Bieger,Uni St. Gallen,USG,Saint Gallen,Verwaltungsratspräsident,Schweizer Gesellschaft für Hotelkredit,"Commerce, trade & services"
+1280,Thomas,Bieger,Uni St. Gallen,USG,Saint Gallen,Verwaltungsratsvizepräsident,Bergbahnen Disentis,"Energy, environment & mobility"
+1281,Thomas,Dyllick,Uni St. Gallen,USG,Saint Gallen,Aufsichtsrat,oekom Research AG,Financial industry & insurances
+1282,Thomas,Rizzo,ETH Lausanne,EPF,Lausanne,Panel Chair for ERC PE4 panel,"ERC, Brussels",Education & research
+1283,Thomas,Rudolph,Uni St. Gallen,USG,Saint Gallen,Verwaltungsrat,McOptik,"Commerce, trade & services"
+1284,Thomas,Rudolph,Uni St. Gallen,USG,Saint Gallen,Verwaltungsrat,Migros,"Commerce, trade & services"
+1285,Thomas,Rudolph,Uni St. Gallen,USG,Saint Gallen,Verwaltungsrat,Otto's,"Commerce, trade & services"
+1286,Thomas,Stocker,Uni Bern,UBE,Bern,NA,Johanna Dürmüller-Bol Stiftung,"Society, Social, Culture & Sports"
+1287,Thomas,Stocker,Uni Bern,UBE,Bern,NA,Nachhaltigkeitsbeirat Swisscanto,"Energy, environment & mobility"
+1288,Thomas,Szucs,Uni Zürich,UZH,Zurich,Mitglied des Aufsichtsrats,"Biovertis AG, Wien",Pharma & health
+1289,Thomas,Szucs,Uni Zürich,UZH,Zurich,Mitglied des Spitalrats,Kantonsspital Uri,Pharma & health
+1290,Thomas,Szucs,Uni Zürich,UZH,Zurich,Präsident des Verwaltungsrates,"Helsana AG, Dübendorf",Pharma & health
+1291,Thomas,Vogel,ETH Zürich,ETH,Zurich,NA,Albert Lück-Stiftung,Education & research
+1292,Thomas,Vogel,ETH Zürich,ETH,Zurich,NA,Erich Degen-Stiftung,Education & research
+1293,Thomas Markus,Zellweger,Uni St. Gallen,USG,Saint Gallen,Verwaltungsrat,Hasler Transport AG,"Energy, environment & mobility"
+1294,Thomas Markus,Zellweger,Uni St. Gallen,USG,Saint Gallen,Verwaltungsrat,Tisca Tiara AG,"Industry, construction & agriculture"
+1295,Thomas Markus,Zellweger,Uni St. Gallen,USG,Saint Gallen,Verwaltungsrat,Welz AG,"Industry, construction & agriculture"
+1296,Till,Förster,Uni Basel,UBA,Basel,Mitglied des Stiftungsrates,Basel Institute on Governance,"Politics, administration, justice system & security sector"
+1297,Titus Andreas,Jenny,Uni Freiburg,UFR,Fribourg,Analyse von Spektren für dritte,Unbekannt,Not classifiable
+1298,Tobias,Schneider,ETH Lausanne,EPF,Lausanne,Phase-out of independent Max-Planck Research Group until 12/2014,"MPIDS, Germany",Education & research
+1299,Tobias,Mettler,Uni St. Gallen,USG,Saint Gallen,Associate Partner,BEG & Partners,"Consulting, public relations, legal & trust"
+1300,Tobias,Nef,Uni Bern,UBE,Bern,NA,Alterniity GmbH,Technology
+1301,Tomi,Laamanen,Uni St. Gallen,USG,Saint Gallen,Gutachtertätigkeit,Unbekannt,Not classifiable
+1302,Tomi,Laamanen,Uni St. Gallen,USG,Saint Gallen,Member of the Board,Oy Halton Group Ltd,"Industry, construction & agriculture"
+1303,Tomi,Laamanen,Uni St. Gallen,USG,Saint Gallen,Chairman of the Board,Stratwin AG,"Consulting, public relations, legal & trust"
+1304,Torsten,Schwede,Uni Basel,UBA,Basel,Mitglied des Board of Directors,"SIB Swiss Institute of Bioinformatics, Lausanne",Education & research
+1305,Torsten,Tomczak,Uni St. Gallen,USG,Saint Gallen,Mitglied des Verwaltungsrats,Ammarkt,"Consulting, public relations, legal & trust"
+1306,Torsten,Tomczak,Uni St. Gallen,USG,Saint Gallen,Vorstandsmitglied,Schweizerische Gesellschaft für Marketing,Media & communication
+1307,Torsten,Braun,Uni Bern,UBE,Bern,Mitglied des Stiftungsrats und dessen Ausschuss,SWITCH,Technology
+1308,Tosso,Leeb,Uni Bern,UBE,Bern,NA,Albert-Heim-Stiftung,"Society, Social, Culture & Sports"
+1309,Ulrich,Maurer,ETH Zürich,ETH,Zurich,Geschäftsführer,ATG Advanced Technology Group GmbH,"Consulting, public relations, legal & trust"
+1310,Ulrich,Maurer,ETH Zürich,ETH,Zurich,VR-Mandat,InfoSec Global (Schweiz) AG,Media & communication
+1311,Ulrich,Mosch,Uni Genf,UGE,Geneva,Membre du conseil scientifique,HEM Bâle,Education & research
+1312,Ulrich,Mosch,Uni Genf,UGE,Geneva,Membre du conseil,HEM Genève,Education & research
+1313,Ulrich Alois,Weidmann,ETH Zürich,ETH,Zurich,VR-Mandat,systransis AG,Technology
+1314,Ulrich Alois,Weidmann,ETH Zürich,ETH,Zurich,VR-Mandat,VBG Verkehrsbetriebe Glattal AG,"Energy, environment & mobility"
+1315,Ulrich Alois,Weidmann,ETH Zürich,ETH,Zurich,VR-Mandat,Verkehrsbetrieb LIECHTENSTEINmobil,"Energy, environment & mobility"
+1316,Urs,Brägger,Uni Bern,UBE,Bern,NA,ub-invent GmbH,Pharma & health
+1317,Urs,Bertschinger,Uni St. Gallen,USG,Saint Gallen,Partner,Prager Dreifuss AG,"Consulting, public relations, legal & trust"
+1318,Urs Peter,Mosimann,Uni Bern,UBE,Bern,NA,Stiftung Diaconis Bern,Pharma & health
+1319,Ursula,Wolf,Uni Bern,UBE,Bern,Course Director,EuroPCR,Pharma & health
+1320,Ursula,Wolf,Uni Bern,UBE,Bern,NA,"Paracelsus-Spital Richterswil, ZH",Pharma & health
+1321,Ursula,Wolf,Uni Bern,UBE,Bern,Section Editor,UpToDate,Pharma & health
+1322,Ursula,Wolf,Uni Bern,UBE,Bern,Stiftungsrat,REHA Klinik Heiligenschwendi,Pharma & health
+1323,Ursula,Röthlisberger,ETH Lausanne,EPF,Lausanne,"Associate Editor, American Chemical Society Journal Journal of Chemical Theory and Computation","American Chemical Society, Washington, USA",Education & research
+1324,Ursula,Röthlisberger,ETH Lausanne,EPF,Lausanne,Head of the sub panel Life Sciences of the PRACE Access Committee,"PRACE AISBL, Brussels, Belgium",Education & research
+1325,Ursula,Röthlisberger,ETH Lausanne,EPF,Lausanne,Member of the Board,Chemical Physics Letters - Elsevier,Media & communication
+1326,Ursula,Röthlisberger,ETH Lausanne,EPF,Lausanne,Member of the Editorial Board,"Journal of Physics D: Applied Physics, UK",Media & communication
+1327,Ursula,Röthlisberger,ETH Lausanne,EPF,Lausanne,Member of the Scientific Advisory Committee as part of the selection of CECAM workshop annual program,"Centre Européen de Calcul Atomique et Moléculaire (CECAM), Lausanne, CH",Education & research
+1328,Ursula,Röthlisberger,ETH Lausanne,EPF,Lausanne,Panel member for the ERC Starting grant 2014 PE4,"European Research Council, Brussels, Belgium",Education & research
+1329,Ursula,Wolf,Uni Bern,UBE,Bern,Associated Editor,Journal of the American College of Cardiology Cardiovascular Interventions,Pharma & health
+1330,Ursula,Wolf,Uni Bern,UBE,Bern,Board Member,European Association of Percutaneous Cardiovascular Intervention (EAPCI),Pharma & health
+1331,Ursula,Wolf,Uni Bern,UBE,Bern,Board Member,European Society of Cardiology (ESC),Pharma & health
+1332,Valentin,Djonov,Uni Bern,UBE,Bern,NA,SWISSENDOS Stiftungsrat,Pharma & health
+1333,Vassily,Hatzimanikatis,ETH Lausanne,EPF,Lausanne,Consulting,"AMYRIS, California, USA",Technology
+1334,Vassily,Hatzimanikatis,ETH Lausanne,EPF,Lausanne,Consulting,"Gevo, Colorado, USA","Energy, environment & mobility"
+1335,Vassily,Hatzimanikatis,ETH Lausanne,EPF,Lausanne,Consulting,"TOTAL, Paris, France","Commerce, trade & services"
+1336,Vincent,Kaufmann,ETH Lausanne,EPF,Lausanne,Charge d'enseignement (7h),Université catholique de Louvain-la-Neuve (B),Education & research
+1337,Vincent,Kaufmann,ETH Lausanne,EPF,Lausanne,Associé dans un bureau d'étude,"Gt-bureau de recherche, Paris",Education & research
+1338,Vincent,Kaufmann,ETH Lausanne,EPF,Lausanne,Chronique mensuelle,"Migros Magazine, Zürich",Media & communication
+1339,Vito,Roberto,Uni St. Gallen,USG,Saint Gallen,Verwaltungsratspräsident,Precious Capital AG,Financial industry & insurances
+1340,Vito,Roberto,Uni St. Gallen,USG,Saint Gallen,Konsulent,Baker & McKenzie,"Consulting, public relations, legal & trust"
+1341,Vito,Roberto,Uni St. Gallen,USG,Saint Gallen,Stiftungsrat,HSG Stiftung,Education & research
+1342,Volkan,Cevher,ETH Lausanne,EPF,Lausanne,Faculty Fellow,"Rice University, Houston, Texas",Education & research
+1343,Walter,Brenner,Uni St. Gallen,USG,Saint Gallen,Informatik-Lenkungsausschuss,Landesregierung Vorarlberg,"Politics, administration, justice system & security sector"
+1344,Walter,Leimgruber,Uni Freiburg,UFR,Fribourg,Präsident,Eidgenössische Kommission für Migrationsfragen,"Politics, administration, justice system & security sector"
+1345,Walter,Brenner,Uni St. Gallen,USG,Saint Gallen,Beratungstätigkeit,ITMC AG,Technology
+1346,Walter,Brenner,Uni St. Gallen,USG,Saint Gallen,Verwaltungsratspräsident,ITMP AG,"Consulting, public relations, legal & trust"
+1347,Walter,Perrig,Uni Bern,UBE,Bern,NA,Seniorenuniversität Bern,Education & research
+1348,Walter,Perrig,Uni Bern,UBE,Bern,NA,Rochester Bern Foundation Board,Education & research
+1349,Walter Hans Jakob,Kaufmann,ETH Zürich,ETH,Zurich,VR-Mandat,dsp Ingenieure & Planer AG,"Commerce, trade & services"
+1350,Werner,Strik,Uni Bern,UBE,Bern,NA,Psychiatriemuseum Bern,"Society, Social, Culture & Sports"
+1351,Wilhelm,Krek,ETH Zürich,ETH,Zurich,VR-Mandat,ProteoMediX AG,Technology
+1352,Wilhelm,Gruissem,ETH Zürich,ETH,Zurich,VR-Mandat,Nebion AG,Technology
+1353,William,Curtin,ETH Lausanne,EPF,Lausanne,"Editor-in-Chief (no contract, modest honorarium for professional activity)","Modelling and Simulation in Materials Sci. and Eng., Inst. of Physics, UK",Education & research
+1354,William,Curtin,ETH Lausanne,EPF,Lausanne,Adjunct Professor (collaborations on US-funded research. Currently 10% is charged to one grant),"School of Engineering, Brown University",Education & research
+1355,William,Curtin,ETH Lausanne,EPF,Lausanne,Scientific Advisory Board (2 days/year + some report writing),"A*star Singapore, Inst. High Performance Computing",Education & research
+1356,Willy,Zwaenepoel,ETH Lausanne,EPF,Lausanne,Chief Scientist,"BugBuster SA, Lausanne",Technology
+1357,Willy,Zwaenepoel,ETH Lausanne,EPF,Lausanne,Advisory Board,Nutanix Inc. San Jose,Technology
+1358,Willy,Zwaenepoel,ETH Lausanne,EPF,Lausanne,Advisory Board,"Typesafe, Inc. Lausanne",Technology
+1359,Willy,Zwaenepoel,ETH Lausanne,EPF,Lausanne,Advisory board,SPartners Asia (Hongkong),"Society, Social, Culture & Sports"
+1360,Willy,Zwaenepoel,ETH Lausanne,EPF,Lausanne,Advisory Board,"Midokura, Japan",Technology
+1361,Wolfgang,Jenewein,Uni St. Gallen,USG,Saint Gallen,Mitglied des Verwaltungsrats,Leadership & Endurance AG,"Consulting, public relations, legal & trust"
+1362,Wulfram,Gerstner,ETH Lausanne,EPF,Lausanne,Scientific advisory board,"Center for Integrative Neuroscience (CIN), University of Tübingen",Education & research
+1363,Xile,Hu,ETH Lausanne,EPF,Lausanne,"Consulting of chemical research, 3 hours","Syngenta Crop Protection AG, Stein",Technology
+1364,Yann,Barrandon,Uni Lausanne,ULA,Lausanne,Conseil d'administration,"gyMetrics SA, Ecublens",Technology
+1365,Yann,Barrandon,Uni Lausanne,ULA,Lausanne,Consultant,"A*Star IMB Biopolis, Singapour",Education & research
+1366,Yusuf,Leblebici,ETH Lausanne,EPF,Lausanne,Founder,"Immersive Vision Technologies, PSE, Lausanne",Technology
+1367,Yvan,Lengwiler,Uni Basel,UBA,Basel,Mitglied der Delegiertenversammlung,"Patria Genossenschaft, Basel",Financial industry & insurances
+1368,Yvan,Lengwiler,Uni Basel,UBA,Basel,Mitglied des Stiftungsrates,"Max Geldner-Stiftung, Basel","Society, Social, Culture & Sports"
+1369,Yvan,Lengwiler,Uni Basel,UBA,Basel,Mitglied des Stiftungsrates,Studienzentrum Gerzensee,Education & research
+1370,Yvan,Lengwiler,Uni Basel,UBA,Basel,Mitglied des Verwaltungsrates,"Finanzmarktaufsicht FINMA, Bern","Politics, administration, justice system & security sector"
+1371,Yves,Pigneur,Uni Lausanne,ULA,Lausanne,NA,Activités académiques,Education & research
+1372,Yves,Weinand,ETH Lausanne,EPF,Lausanne,"Parlement vaudois, mission de stabilité","Canton de Vaud, Service Immeubles, Patrimoine et Logistique, Lausanne","Politics, administration, justice system & security sector"
